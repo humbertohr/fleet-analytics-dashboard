@@ -1,0 +1,12 @@
+name: fleet-analytics
+title: fleet-analytics
+username: humbertoapps
+account: humbertoapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17589322
+bundleId: 12232267
+url: https://humbertoapps.shinyapps.io/fleet-analytics/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,101 @@
+"vehicle_id","plate_number","brand","model","manufacture_year","vehicle_type","payload_capacity_kg","fuel_economy_kml_base","purchase_price_usd","acquisition_date","retirement_date","status","initial_odometer_km","vehicle_age_years"
+"VH-0001","WWJ-671","Freightliner","Cascadia 126",2019,"Truck",19350,2.98,153000,2019-12-29,2025-04-07,"Retired",0,6.5
+"VH-0002","ASJ-199","Hino","L6",2021,"Box Truck",7850,3.66,78000,2022-06-26,NA,"Active",0,4
+"VH-0003","YDV-633","Isuzu","FTR",2025,"Box Truck",8850,4.11,114000,2025-07-19,NA,"Active",197300,1
+"VH-0004","GWD-261","RAM","ProMaster 3500",2019,"Van",1250,7.11,50000,2020-03-11,NA,"Active",0,6.3
+"VH-0005","TUZ-732","Kenworth","T680",2022,"Truck",18500,2.57,149000,2023-02-10,NA,"Active",184700,3.4
+"VH-0006","AXN-397","Mercedes","Sprinter 2500",2023,"Van",1000,7.44,43500,2023-05-02,NA,"Active",0,3.2
+"VH-0007","LHT-949","Mercedes","Sprinter 2500",2021,"Van",1050,7.68,52500,2021-12-01,NA,"Active",0,4.6
+"VH-0008","OCG-879","Hino","L7",2022,"Box Truck",8000,4.08,95000,2023-03-03,NA,"Active",0,3.3
+"VH-0009","NNQ-668","Mitsubishi","Fuso FE160",2017,"Box Truck",8750,3.72,85000,2017-06-02,2025-10-31,"Retired",0,9.1
+"VH-0010","VFG-174","Isuzu","NRR",2022,"Box Truck",4750,4.44,93500,2023-07-25,NA,"Active",0,3
+"VH-0011","JIZ-310","Mitsubishi","Fuso FE160",2020,"Box Truck",8850,3.88,107500,2020-05-04,NA,"Active",114800,6.2
+"VH-0012","UGG-615","Hino","L6",2020,"Box Truck",4550,4,87500,2020-03-04,NA,"In Shop",186200,6.3
+"VH-0013","TSQ-553","International","LT625",2022,"Truck",20600,2.73,172500,2022-09-12,NA,"Active",137700,3.8
+"VH-0014","UCK-809","International","LT625",2022,"Truck",18350,2.9,186000,2022-07-21,NA,"Active",139700,4
+"VH-0015","AZJ-288","Mitsubishi","Fuso FE160",2020,"Box Truck",7800,4.06,80500,2021-10-20,NA,"Active",0,4.7
+"VH-0016","INY-293","International","LT625",2020,"Truck",18900,2.75,184000,2021-12-15,NA,"Active",0,4.6
+"VH-0017","QZO-771","Ford","Transit 350",2022,"Van",1250,7.3,52000,2022-02-10,NA,"Active",0,4.4
+"VH-0018","MDA-678","RAM","ProMaster 3500",2023,"Van",1100,6.48,48500,2023-04-25,NA,"Active",0,3.2
+"VH-0019","OJE-724","RAM","ProMaster 3500",2025,"Van",1150,7.38,43000,2026-06-11,NA,"Active",0,0.1
+"VH-0020","SBH-210","Kenworth","T680",2024,"Truck",20650,2.76,166000,2025-12-08,NA,"Active",214200,0.6
+"VH-0021","ROD-526","Peterbilt","579",2020,"Truck",20550,2.89,189000,2021-07-28,NA,"Active",0,4.9
+"VH-0022","UAD-757","Ford","Transit 350",2023,"Van",1600,8.08,60000,2023-09-11,NA,"Active",0,2.8
+"VH-0023","SRE-777","Freightliner","Cascadia 126",2016,"Truck",18400,2.92,179000,2016-01-17,2025-05-18,"Retired",0,10.5
+"VH-0024","HED-982","Mitsubishi","Fuso FE160",2019,"Box Truck",8400,4.26,90000,2019-12-20,2025-09-28,"Retired",0,6.5
+"VH-0025","HJF-743","Mercedes","Sprinter 2500",2022,"Van",1100,8.09,57000,2022-12-20,NA,"Active",0,3.5
+"VH-0026","ACD-262","Freightliner","Cascadia 126",2017,"Truck",20350,2.83,146000,2017-06-24,NA,"Active",0,9
+"VH-0027","DDT-393","Hino","L7",2023,"Box Truck",6250,4.16,86000,2023-08-24,NA,"Active",0,2.9
+"VH-0028","POE-266","International","LT625",2019,"Truck",19000,2.61,193000,2020-08-04,NA,"Active",0,5.9
+"VH-0029","IHD-295","RAM","ProMaster 3500",2018,"Van",1250,7.8,52500,2018-10-29,NA,"Active",0,7.7
+"VH-0030","GEY-887","Mercedes","Sprinter 2500",2020,"Van",1050,7.95,55000,2021-01-24,NA,"Active",139400,5.4
+"VH-0031","QEA-613","Freightliner","Cascadia 126",2022,"Truck",19300,2.97,169500,2022-01-19,NA,"In Shop",0,4.5
+"VH-0032","DYN-687","Freightliner","M2 106",2021,"Box Truck",6850,4.57,97500,2022-03-11,NA,"In Shop",0,4.3
+"VH-0033","VPD-459","Ford","Transit 350",2022,"Van",1500,6.56,57000,2022-07-24,NA,"Active",0,4
+"VH-0034","BWH-359","Mercedes","Sprinter 2500",2016,"Van",1450,7.1,47500,2016-04-07,2024-10-13,"Retired",0,10.2
+"VH-0035","DPB-443","Kenworth","T680",2020,"Truck",19950,2.77,181000,2021-03-03,NA,"Active",0,5.3
+"VH-0036","MNQ-964","Mercedes","Sprinter 2500",2024,"Van",1450,7.54,47000,2024-03-09,NA,"Active",0,2.3
+"VH-0037","OPZ-624","Freightliner","Cascadia 126",2023,"Truck",20050,3.03,150000,2023-01-22,NA,"Active",0,3.5
+"VH-0038","NWM-980","International","LT625",2023,"Truck",21200,2.53,194000,2024-06-08,NA,"Active",0,2.1
+"VH-0039","IEA-245","Freightliner","M2 106",2019,"Box Truck",4800,3.82,103000,2019-08-04,NA,"Active",119300,6.9
+"VH-0040","ERV-347","Isuzu","NPR-HD",2022,"Box Truck",5800,3.97,103000,2022-04-07,NA,"Active",0,4.2
+"VH-0041","FLD-559","International","LT625",2020,"Truck",18350,2.81,168000,2020-02-25,NA,"Active",0,6.4
+"VH-0042","LZK-499","RAM","ProMaster 3500",2020,"Van",1200,7.89,53000,2020-01-26,NA,"Active",54300,6.4
+"VH-0043","FKO-316","Peterbilt","579",2026,"Truck",19700,3.05,158500,2026-06-19,NA,"Active",0,0
+"VH-0044","BSI-460","Kenworth","T680",2023,"Truck",21150,2.88,153500,2024-02-04,NA,"Active",0,2.4
+"VH-0045","SEY-801","Volvo","VNL 760",2020,"Truck",19150,2.86,192500,2020-06-23,NA,"Active",0,6
+"VH-0046","SWJ-179","International","LT625",2020,"Truck",21300,3.07,193000,2021-09-26,NA,"Active",196700,4.8
+"VH-0047","YWH-670","Isuzu","NPR-HD",2018,"Box Truck",9000,4.23,110500,2019-04-05,NA,"Active",0,7.3
+"VH-0048","FSA-978","Ford","Transit 350",2018,"Van",1400,7.98,58000,2019-02-14,NA,"Active",0,7.4
+"VH-0049","UHD-286","Peterbilt","579",2025,"Truck",20300,2.56,188000,2025-02-04,NA,"Active",215600,1.4
+"VH-0050","HVK-528","Volvo","VNL 760",2020,"Truck",18650,2.52,178000,2021-03-11,NA,"Active",0,5.3
+"VH-0051","MYF-228","Mercedes","Sprinter 3500",2017,"Van",1150,7.75,57500,2018-07-08,NA,"Active",0,8
+"VH-0052","LGH-930","Mercedes","Sprinter 2500",2020,"Van",1350,7.19,51000,2020-05-08,NA,"Active",0,6.2
+"VH-0053","GXL-945","Mercedes","Sprinter 3500",2022,"Van",1550,8.05,61000,2022-02-09,NA,"Active",0,4.4
+"VH-0054","QHR-537","Kenworth","T680",2021,"Truck",19750,2.89,163500,2022-01-06,NA,"Active",200200,4.5
+"VH-0055","YUY-454","Peterbilt","579",2024,"Truck",20600,3.05,171000,2024-06-30,2026-02-22,"Retired",0,2
+"VH-0056","KOZ-318","Hino","L6",2022,"Box Truck",7200,3.63,77000,2022-05-18,NA,"Active",0,4.1
+"VH-0057","UWG-431","International","LT625",2019,"Truck",18100,2.91,145500,2019-09-20,NA,"Active",0,6.8
+"VH-0058","PPK-572","Ford","Transit 350",2023,"Van",1100,6.54,54500,2023-06-29,NA,"Active",0,3
+"VH-0059","GTL-682","Kenworth","T680",2021,"Truck",20350,2.93,149000,2021-02-11,NA,"Active",0,5.4
+"VH-0060","XTE-501","Mercedes","Sprinter 2500",2019,"Van",1550,6.69,49500,2020-04-20,NA,"Active",0,6.2
+"VH-0061","DHH-334","Mercedes","Sprinter 2500",2017,"Van",1150,7.31,42500,2017-10-01,NA,"Active",84100,8.8
+"VH-0062","UTH-123","Ford","Transit 350",2020,"Van",900,6.83,47500,2020-09-27,NA,"Active",59200,5.8
+"VH-0063","JWA-852","Volvo","VNL 760",2016,"Truck",18400,3.09,150500,2017-07-31,NA,"Active",0,8.9
+"VH-0064","WDF-310","RAM","ProMaster 3500",2018,"Van",1250,7.43,54500,2019-12-31,NA,"In Shop",0,6.5
+"VH-0065","PGC-560","Ford","Transit 350",2025,"Van",1350,7.05,59000,2025-11-25,NA,"Active",147100,0.6
+"VH-0066","KYA-243","Volvo","VNL 760",2020,"Truck",20900,3.08,178000,2021-07-26,NA,"Active",0,4.9
+"VH-0067","XCW-569","Mitsubishi","Fuso FE160",2016,"Box Truck",6250,4.5,92500,2016-09-29,2024-07-21,"Retired",0,9.8
+"VH-0068","EPN-186","Freightliner","Cascadia 126",2024,"Truck",18050,2.69,175500,2024-05-18,NA,"Active",0,2.1
+"VH-0069","YPX-540","International","LT625",2020,"Truck",18300,2.88,192000,2020-08-28,NA,"Active",0,5.9
+"VH-0070","LZB-436","Mitsubishi","Fuso FE160",2023,"Box Truck",7000,4.11,92500,2023-08-24,NA,"Active",0,2.9
+"VH-0071","PEI-781","International","LT625",2017,"Truck",21400,2.71,148000,2017-06-11,2025-11-30,"Retired",124500,9.1
+"VH-0072","WYL-741","Kenworth","T680",2017,"Truck",18200,2.95,182500,2017-02-01,NA,"Active",0,9.4
+"VH-0073","YIX-664","Hino","L7",2020,"Box Truck",6650,4,103000,2020-02-11,2025-08-01,"Retired",0,6.4
+"VH-0074","ZYD-781","RAM","ProMaster 3500",2018,"Van",1050,7.27,55000,2019-05-09,NA,"Active",0,7.2
+"VH-0075","KTE-429","Ford","Transit 350",2020,"Van",900,7.91,48500,2021-08-23,NA,"Active",0,4.9
+"VH-0076","MAZ-812","Peterbilt","579",2017,"Truck",19750,2.87,168500,2017-07-08,NA,"Active",0,9
+"VH-0077","SMC-289","Freightliner","M2 106",2025,"Box Truck",7300,4.59,76500,2025-02-07,NA,"Active",164200,1.4
+"VH-0078","SIC-205","RAM","ProMaster 3500",2025,"Van",1450,7.9,61000,2025-03-13,NA,"Active",0,1.3
+"VH-0079","OJE-284","Volvo","VNL 760",2021,"Truck",20100,2.79,155000,2021-04-07,NA,"In Shop",0,5.2
+"VH-0080","ZIW-970","RAM","ProMaster 3500",2022,"Van",1100,6.6,57500,2022-06-02,NA,"Active",0,4.1
+"VH-0081","AXY-625","Freightliner","Cascadia 126",2020,"Truck",21350,3.09,153000,2020-04-26,NA,"Active",0,6.2
+"VH-0082","HFP-852","International","LT625",2022,"Truck",20100,2.69,181500,2022-09-13,NA,"Active",0,3.8
+"VH-0083","UEV-368","International","LT625",2023,"Truck",19650,3.02,182500,2023-02-21,NA,"Active",0,3.4
+"VH-0084","AOK-945","Ford","Transit 350",2016,"Van",1400,7.34,53000,2017-11-11,NA,"Active",210500,8.7
+"VH-0085","JVW-146","Kenworth","T680",2018,"Truck",19850,2.92,182000,2018-08-11,NA,"Active",0,7.9
+"VH-0086","CME-710","Peterbilt","579",2021,"Truck",19600,2.96,163000,2021-04-26,NA,"Active",0,5.2
+"VH-0087","LHP-469","Ford","Transit 350",2018,"Van",1250,6.57,61000,2018-02-18,2025-10-20,"Retired",0,8.4
+"VH-0088","FYE-353","Kenworth","T680",2025,"Truck",19950,2.73,145000,2025-07-05,NA,"Active",0,1
+"VH-0089","UYX-345","Freightliner","Cascadia 126",2024,"Truck",19450,2.51,186500,2025-03-05,NA,"Active",0,1.3
+"VH-0090","IEF-277","Mitsubishi","Fuso FE160",2017,"Box Truck",8650,4.03,110500,2017-01-17,2024-12-23,"Retired",0,9.5
+"VH-0091","BSI-608","Ford","Transit 350",2022,"Van",1100,6.89,55500,2022-10-15,NA,"Active",0,3.7
+"VH-0092","SYB-887","Mercedes","Sprinter 3500",2020,"Van",1100,7.1,56500,2020-02-23,NA,"Active",114600,6.4
+"VH-0093","ITI-734","Freightliner","M2 106",2015,"Box Truck",7200,4.13,87000,2015-07-13,NA,"Active",0,11
+"VH-0094","QBG-666","Isuzu","FTR",2022,"Box Truck",7700,4.48,110000,2022-09-02,NA,"Active",135900,3.8
+"VH-0095","BIV-422","Freightliner","M2 106",2024,"Box Truck",7550,4.29,85500,2024-07-01,NA,"Active",0,2
+"VH-0096","PWB-110","Mercedes","Sprinter 2500",2021,"Van",1300,6.72,46000,2021-11-23,NA,"Active",0,4.6
+"VH-0097","VYI-304","Ford","Transit 350",2020,"Van",1350,7.76,42500,2021-11-21,NA,"Active",0,4.6
+"VH-0098","HBE-603","Ford","Transit 350",2017,"Van",1200,6.99,61000,2017-09-25,NA,"Active",0,8.8
+"VH-0099","EJW-411","Freightliner","Cascadia 126",2023,"Truck",20450,2.95,153000,2023-01-22,NA,"Active",0,3.5
+"VH-0100","ODZ-334","International","LT625",2022,"Truck",21250,2.81,172500,2022-04-17,NA,"Active",0,4.2

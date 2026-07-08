@@ -1,0 +1,1558 @@
+"work_order_id","vehicle_id","event_date","maintenance_type","category","odometer_km","cost_usd","downtime_days","month_date"
+"WO-00001","VH-0056",2024-07-11,"Corrective","Tires",1932,467.14,1.1,2024-07-01
+"WO-00002","VH-0046",2024-07-12,"Preventive","Scheduled Service (PM)",198809,518.8,0.5,2024-07-01
+"WO-00003","VH-0082",2024-07-12,"Corrective","Brakes",3218,740.69,1.6,2024-07-01
+"WO-00004","VH-0010",2024-07-15,"Corrective","Tires",290,783.09,1.4,2024-07-01
+"WO-00005","VH-0030",2024-07-17,"Corrective","Tires",140126,871.74,1.5,2024-07-01
+"WO-00006","VH-0039",2024-07-18,"Preventive","Scheduled Service (PM)",121764,416.86,1,2024-07-01
+"WO-00007","VH-0026",2024-07-19,"Corrective","Transmission",6842,3866.89,6.6,2024-07-01
+"WO-00008","VH-0005",2024-07-21,"Preventive","Scheduled Service (PM)",189555,424.04,0.5,2024-07-01
+"WO-00009","VH-0092",2024-07-21,"Corrective","Brakes",117098,520.09,1.2,2024-07-01
+"WO-00010","VH-0032",2024-07-22,"Corrective","Transmission",4394,1628.05,4,2024-07-01
+"WO-00011","VH-0037",2024-07-27,"Corrective","Transmission",10124,4092.32,6.9,2024-07-01
+"WO-00012","VH-0040",2024-07-28,"Corrective","Brakes",4830,599.37,1.4,2024-07-01
+"WO-00013","VH-0036",2024-07-29,"Corrective","Suspension",1934,1251.19,3.1,2024-07-01
+"WO-00014","VH-0042",2024-07-29,"Corrective","Aftertreatment / DPF",58390,1084.81,1.7,2024-07-01
+"WO-00015","VH-0041",2024-07-31,"Corrective","Suspension",12938,1199.03,3,2024-07-01
+"WO-00016","VH-0059",2024-07-31,"Corrective","Brakes",14340,720.81,1.6,2024-07-01
+"WO-00017","VH-0012",2024-08-01,"Preventive","Scheduled Service (PM)",192449,567.53,1,2024-08-01
+"WO-00018","VH-0013",2024-08-01,"Preventive","Scheduled Service (PM)",151001,450.65,0.5,2024-08-01
+"WO-00019","VH-0048",2024-08-01,"Corrective","Brakes",4490,1022.04,2.1,2024-08-01
+"WO-00020","VH-0033",2024-08-03,"Corrective","Tires",4896,556.43,1.2,2024-08-01
+"WO-00021","VH-0062",2024-08-04,"Corrective","Tires",63098,615.72,1.3,2024-08-01
+"WO-00022","VH-0031",2024-08-06,"Corrective","Brakes",15644,735.08,1.6,2024-08-01
+"WO-00023","VH-0054",2024-08-06,"Preventive","Scheduled Service (PM)",213927,454.57,0.5,2024-08-01
+"WO-00024","VH-0051",2024-08-09,"Corrective","Tires",4396,541.78,1.2,2024-08-01
+"WO-00025","VH-0002",2024-08-11,"Corrective","Electrical",9498,943.92,2.5,2024-08-01
+"WO-00026","VH-0082",2024-08-11,"Preventive","Scheduled Service (PM)",18751,804.24,0.5,2024-08-01
+"WO-00027","VH-0086",2024-08-11,"Preventive","Scheduled Service (PM)",20008,854.72,1,2024-08-01
+"WO-00028","VH-0026",2024-08-12,"Preventive","Scheduled Service (PM)",18527,694.16,0.5,2024-08-01
+"WO-00029","VH-0028",2024-08-12,"Preventive","Scheduled Service (PM)",20378,750.25,1,2024-08-01
+"WO-00030","VH-0038",2024-08-13,"Corrective","Tires",15530,1131.57,1.7,2024-08-01
+"WO-00031","VH-0066",2024-08-13,"Preventive","Scheduled Service (PM)",18556,464.48,0.5,2024-08-01
+"WO-00032","VH-0068",2024-08-13,"Preventive","Scheduled Service (PM)",20376,623.9,1,2024-08-01
+"WO-00033","VH-0045",2024-08-14,"Preventive","Scheduled Service (PM)",19755,786.15,0.5,2024-08-01
+"WO-00034","VH-0055",2024-08-14,"Preventive","Scheduled Service (PM)",19661,932.5,1,2024-08-01
+"WO-00035","VH-0004",2024-08-15,"Corrective","Transmission",4818,3185.32,5.8,2024-08-01
+"WO-00036","VH-0035",2024-08-15,"Preventive","Scheduled Service (PM)",18989,423.14,0.5,2024-08-01
+"WO-00037","VH-0059",2024-08-15,"Preventive","Scheduled Service (PM)",18642,530.38,0.5,2024-08-01
+"WO-00038","VH-0063",2024-08-15,"Preventive","Scheduled Service (PM)",19267,520.6,0.5,2024-08-01
+"WO-00039","VH-0081",2024-08-15,"Preventive","Scheduled Service (PM)",18737,740.82,0.5,2024-08-01
+"WO-00040","VH-0097",2024-08-15,"Corrective","Cooling System",7070,1033.77,2.5,2024-08-01
+"WO-00041","VH-0001",2024-08-16,"Preventive","Scheduled Service (PM)",20546,643.7,1,2024-08-01
+"WO-00042","VH-0085",2024-08-16,"Preventive","Scheduled Service (PM)",18846,917.09,1,2024-08-01
+"WO-00043","VH-0094",2024-08-16,"Preventive","Scheduled Service (PM)",148496,490.77,0.5,2024-08-01
+"WO-00044","VH-0021",2024-08-17,"Preventive","Scheduled Service (PM)",19636,709.15,1,2024-08-01
+"WO-00045","VH-0071",2024-08-17,"Corrective","Electrical",146098,347.2,1.3,2024-08-01
+"WO-00046","VH-0030",2024-08-18,"Corrective","Brakes",144780,854.27,1.8,2024-08-01
+"WO-00047","VH-0031",2024-08-18,"Preventive","Scheduled Service (PM)",19253,932.75,1,2024-08-01
+"WO-00048","VH-0044",2024-08-18,"Preventive","Scheduled Service (PM)",19820,831.41,1,2024-08-01
+"WO-00049","VH-0037",2024-08-19,"Preventive","Scheduled Service (PM)",21519,858.6,0.5,2024-08-01
+"WO-00050","VH-0063",2024-08-19,"Corrective","Tires",24432,408.86,1.1,2024-08-01
+"WO-00051","VH-0011",2024-08-20,"Preventive","Scheduled Service (PM)",130693,316.98,0.5,2024-08-01
+"WO-00052","VH-0057",2024-08-20,"Preventive","Scheduled Service (PM)",20359,738.42,0.5,2024-08-01
+"WO-00053","VH-0071",2024-08-20,"Preventive","Scheduled Service (PM)",146292,443.94,0.5,2024-08-01
+"WO-00054","VH-0076",2024-08-20,"Preventive","Scheduled Service (PM)",21052,879.99,1,2024-08-01
+"WO-00055","VH-0079",2024-08-20,"Preventive","Scheduled Service (PM)",19381,620.01,0.5,2024-08-01
+"WO-00056","VH-0099",2024-08-20,"Preventive","Scheduled Service (PM)",21201,911.58,0.5,2024-08-01
+"WO-00057","VH-0016",2024-08-21,"Preventive","Scheduled Service (PM)",19719,784.46,0.5,2024-08-01
+"WO-00058","VH-0021",2024-08-21,"Corrective","Tires",23724,815.54,1.4,2024-08-01
+"WO-00059","VH-0023",2024-08-21,"Preventive","Scheduled Service (PM)",18960,776.13,0.5,2024-08-01
+"WO-00060","VH-0046",2024-08-21,"Preventive","Scheduled Service (PM)",218690,740.64,0.5,2024-08-01
+"WO-00061","VH-0057",2024-08-21,"Corrective","Brakes",23078,726.1,1.6,2024-08-01
+"WO-00062","VH-0038",2024-08-22,"Preventive","Scheduled Service (PM)",21029,760.5,0.5,2024-08-01
+"WO-00063","VH-0041",2024-08-22,"Preventive","Scheduled Service (PM)",21242,435.15,0.5,2024-08-01
+"WO-00064","VH-0072",2024-08-22,"Preventive","Scheduled Service (PM)",21527,540.38,0.5,2024-08-01
+"WO-00065","VH-0050",2024-08-23,"Preventive","Scheduled Service (PM)",19879,897.05,0.5,2024-08-01
+"WO-00066","VH-0014",2024-08-24,"Preventive","Scheduled Service (PM)",162860,829.03,0.5,2024-08-01
+"WO-00067","VH-0030",2024-08-24,"Preventive","Scheduled Service (PM)",145159,216.42,0.5,2024-08-01
+"WO-00068","VH-0038",2024-08-24,"Corrective","Electrical",21486,464.88,1.5,2024-08-01
+"WO-00069","VH-0100",2024-08-24,"Preventive","Scheduled Service (PM)",18959,660.32,1,2024-08-01
+"WO-00070","VH-0092",2024-08-25,"Corrective","Body / Cab",122572,957.61,2.2,2024-08-01
+"WO-00071","VH-0093",2024-08-25,"Corrective","Cooling System",14084,1254.27,2.9,2024-08-01
+"WO-00072","VH-0005",2024-08-26,"Preventive","Scheduled Service (PM)",208511,598.79,0.5,2024-08-01
+"WO-00073","VH-0012",2024-08-27,"Corrective","Brakes",200704,438.84,1.1,2024-08-01
+"WO-00074","VH-0083",2024-08-27,"Preventive","Scheduled Service (PM)",20754,564.69,0.5,2024-08-01
+"WO-00075","VH-0069",2024-08-28,"Preventive","Scheduled Service (PM)",20843,816.75,0.5,2024-08-01
+"WO-00076","VH-0086",2024-08-28,"Corrective","Aftertreatment / DPF",31514,889,1.4,2024-08-01
+"WO-00077","VH-0014",2024-08-30,"Corrective","Engine",170582,3080.02,5.7,2024-08-01
+"WO-00078","VH-0056",2024-09-02,"Preventive","Scheduled Service (PM)",22947,425.47,1,2024-09-01
+"WO-00079","VH-0022",2024-09-04,"Corrective","Tires",11210,375.71,1,2024-09-01
+"WO-00080","VH-0047",2024-09-04,"Preventive","Scheduled Service (PM)",21563,355.72,1,2024-09-01
+"WO-00081","VH-0082",2024-09-04,"Preventive","Scheduled Service (PM)",37502,464.24,0.5,2024-09-01
+"WO-00082","VH-0014",2024-09-05,"Corrective","Cooling System",173800,1369.7,3.1,2024-09-01
+"WO-00083","VH-0054",2024-09-05,"Corrective","Brakes",230634,747.89,1.6,2024-09-01
+"WO-00084","VH-0057",2024-09-06,"Corrective","Cooling System",31528,710.62,1.8,2024-09-01
+"WO-00085","VH-0076",2024-09-06,"Corrective","Transmission",28780,5828.04,8.9,2024-09-01
+"WO-00086","VH-0096",2024-09-07,"Corrective","Transmission",11654,3118.54,5.8,2024-09-01
+"WO-00087","VH-0098",2024-09-07,"Corrective","Brakes",17712,843.03,1.8,2024-09-01
+"WO-00088","VH-0045",2024-09-08,"Preventive","Scheduled Service (PM)",39509,664.21,1,2024-09-01
+"WO-00089","VH-0045",2024-09-08,"Corrective","Brakes",41154,710.7,1.6,2024-09-01
+"WO-00090","VH-0073",2024-09-08,"Preventive","Scheduled Service (PM)",21763,588.68,0.5,2024-09-01
+"WO-00091","VH-0074",2024-09-08,"Corrective","Tires",7840,1237.55,1.8,2024-09-01
+"WO-00092","VH-0027",2024-09-09,"Preventive","Scheduled Service (PM)",21600,551.54,0.5,2024-09-01
+"WO-00093","VH-0026",2024-09-10,"Preventive","Scheduled Service (PM)",37054,434.65,1,2024-09-01
+"WO-00094","VH-0034",2024-09-10,"Corrective","Tires",13090,537.64,1.2,2024-09-01
+"WO-00095","VH-0063",2024-09-10,"Corrective","Suspension",34684,1195.99,3,2024-09-01
+"WO-00096","VH-0005",2024-09-11,"Corrective","Tires",213236,830.14,1.5,2024-09-01
+"WO-00097","VH-0013",2024-09-11,"Preventive","Scheduled Service (PM)",172573,545.38,1,2024-09-01
+"WO-00098","VH-0054",2024-09-11,"Preventive","Scheduled Service (PM)",233375,889.77,0.5,2024-09-01
+"WO-00099","VH-0085",2024-09-11,"Preventive","Scheduled Service (PM)",37692,849.71,0.5,2024-09-01
+"WO-00100","VH-0037",2024-09-13,"Corrective","Brakes",34296,670.66,1.5,2024-09-01
+"WO-00101","VH-0086",2024-09-13,"Preventive","Scheduled Service (PM)",40017,825.65,0.5,2024-09-01
+"WO-00102","VH-0002",2024-09-14,"Preventive","Scheduled Service (PM)",20325,604.27,1,2024-09-01
+"WO-00103","VH-0007",2024-09-14,"Corrective","Electrical",10064,401.71,1.4,2024-09-01
+"WO-00104","VH-0045",2024-09-14,"Corrective","Tires",44132,615.36,1.3,2024-09-01
+"WO-00105","VH-0031",2024-09-15,"Preventive","Scheduled Service (PM)",38506,798.72,0.5,2024-09-01
+"WO-00106","VH-0090",2024-09-15,"Preventive","Scheduled Service (PM)",21056,531.81,0.5,2024-09-01
+"WO-00107","VH-0048",2024-09-16,"Corrective","Brakes",16808,443.61,1.1,2024-09-01
+"WO-00108","VH-0008",2024-09-17,"Preventive","Scheduled Service (PM)",21877,561.5,1,2024-09-01
+"WO-00109","VH-0035",2024-09-17,"Preventive","Scheduled Service (PM)",37978,548.61,1,2024-09-01
+"WO-00110","VH-0046",2024-09-17,"Preventive","Scheduled Service (PM)",238571,689.14,1,2024-09-01
+"WO-00111","VH-0009",2024-09-18,"Preventive","Scheduled Service (PM)",20953,328.38,0.5,2024-09-01
+"WO-00112","VH-0021",2024-09-18,"Preventive","Scheduled Service (PM)",39271,617.12,0.5,2024-09-01
+"WO-00113","VH-0040",2024-09-18,"Preventive","Scheduled Service (PM)",23268,390.2,1,2024-09-01
+"WO-00114","VH-0093",2024-09-18,"Preventive","Scheduled Service (PM)",20659,391.89,0.5,2024-09-01
+"WO-00115","VH-0009",2024-09-19,"Corrective","Brakes",23144,927.25,2,2024-09-01
+"WO-00116","VH-0016",2024-09-19,"Preventive","Scheduled Service (PM)",39437,477.17,0.5,2024-09-01
+"WO-00117","VH-0055",2024-09-19,"Preventive","Scheduled Service (PM)",39322,601.05,0.5,2024-09-01
+"WO-00118","VH-0063",2024-09-20,"Preventive","Scheduled Service (PM)",38533,526.35,0.5,2024-09-01
+"WO-00119","VH-0068",2024-09-20,"Preventive","Scheduled Service (PM)",40751,744.66,0.5,2024-09-01
+"WO-00120","VH-0001",2024-09-21,"Preventive","Scheduled Service (PM)",41091,592.24,1,2024-09-01
+"WO-00121","VH-0028",2024-09-21,"Preventive","Scheduled Service (PM)",40756,426.61,0.5,2024-09-01
+"WO-00122","VH-0061",2024-09-22,"Preventive","Scheduled Service (PM)",99684,228.23,0.5,2024-09-01
+"WO-00123","VH-0071",2024-09-23,"Preventive","Scheduled Service (PM)",167191,648.96,1,2024-09-01
+"WO-00124","VH-0014",2024-09-24,"Preventive","Scheduled Service (PM)",183217,440.67,1,2024-09-01
+"WO-00125","VH-0044",2024-09-24,"Preventive","Scheduled Service (PM)",39640,555.39,0.5,2024-09-01
+"WO-00126","VH-0079",2024-09-24,"Preventive","Scheduled Service (PM)",38762,823.29,1,2024-09-01
+"WO-00127","VH-0041",2024-09-26,"Preventive","Scheduled Service (PM)",42483,684.07,1,2024-09-01
+"WO-00128","VH-0059",2024-09-26,"Preventive","Scheduled Service (PM)",37284,777.54,0.5,2024-09-01
+"WO-00129","VH-0095",2024-09-26,"Preventive","Scheduled Service (PM)",22568,488.34,0.5,2024-09-01
+"WO-00130","VH-0023",2024-09-27,"Corrective","Tires",34218,731.78,1.4,2024-09-01
+"WO-00131","VH-0057",2024-09-27,"Preventive","Scheduled Service (PM)",40717,698.41,0.5,2024-09-01
+"WO-00132","VH-0072",2024-09-27,"Preventive","Scheduled Service (PM)",43054,909.27,1,2024-09-01
+"WO-00133","VH-0032",2024-09-28,"Preventive","Scheduled Service (PM)",21890,421.8,1,2024-09-01
+"WO-00134","VH-0066",2024-09-28,"Preventive","Scheduled Service (PM)",37112,682.18,1,2024-09-01
+"WO-00135","VH-0069",2024-09-28,"Preventive","Scheduled Service (PM)",41687,636.33,0.5,2024-09-01
+"WO-00136","VH-0100",2024-09-28,"Preventive","Scheduled Service (PM)",37919,742.5,1,2024-09-01
+"WO-00137","VH-0024",2024-09-29,"Preventive","Scheduled Service (PM)",22662,367.79,0.5,2024-09-01
+"WO-00138","VH-0002",2024-09-30,"Corrective","Engine",25656,3224.78,5.9,2024-09-01
+"WO-00139","VH-0038",2024-09-30,"Preventive","Scheduled Service (PM)",42057,828.67,0.5,2024-09-01
+"WO-00140","VH-0039",2024-09-30,"Preventive","Scheduled Service (PM)",142058,562.13,1,2024-09-01
+"WO-00141","VH-0050",2024-09-30,"Preventive","Scheduled Service (PM)",39758,591.95,1,2024-09-01
+"WO-00142","VH-0087",2024-09-30,"Corrective","Electrical",16556,312.22,1.2,2024-09-01
+"WO-00143","VH-0038",2024-10-01,"Corrective","Tires",43164,546.46,1.2,2024-10-01
+"WO-00144","VH-0042",2024-10-01,"Preventive","Scheduled Service (PM)",70962,334.93,0.5,2024-10-01
+"WO-00145","VH-0010",2024-10-02,"Preventive","Scheduled Service (PM)",22861,425.14,0.5,2024-10-01
+"WO-00146","VH-0083",2024-10-02,"Preventive","Scheduled Service (PM)",41507,923.36,1,2024-10-01
+"WO-00147","VH-0007",2024-10-04,"Corrective","Suspension",14042,2147.79,4.4,2024-10-01
+"WO-00148","VH-0047",2024-10-04,"Corrective","Tires",38210,1100.48,1.7,2024-10-01
+"WO-00149","VH-0070",2024-10-04,"Preventive","Scheduled Service (PM)",22006,472.96,1,2024-10-01
+"WO-00150","VH-0081",2024-10-04,"Preventive","Scheduled Service (PM)",37474,746.04,1,2024-10-01
+"WO-00151","VH-0023",2024-10-05,"Preventive","Scheduled Service (PM)",37920,884.64,1,2024-10-01
+"WO-00152","VH-0011",2024-10-06,"Preventive","Scheduled Service (PM)",152475,353.83,1,2024-10-01
+"WO-00153","VH-0015",2024-10-06,"Preventive","Scheduled Service (PM)",23136,594.01,0.5,2024-10-01
+"WO-00154","VH-0076",2024-10-06,"Preventive","Scheduled Service (PM)",42103,683.41,1,2024-10-01
+"WO-00155","VH-0037",2024-10-07,"Preventive","Scheduled Service (PM)",43037,517.82,0.5,2024-10-01
+"WO-00156","VH-0099",2024-10-07,"Preventive","Scheduled Service (PM)",42403,795.49,1,2024-10-01
+"WO-00157","VH-0057",2024-10-09,"Corrective","Aftertreatment / DPF",48122,2077.65,3,2024-10-01
+"WO-00158","VH-0072",2024-10-09,"Corrective","Engine",52226,1527.97,3.8,2024-10-01
+"WO-00159","VH-0094",2024-10-09,"Preventive","Scheduled Service (PM)",169709,314.59,0.5,2024-10-01
+"WO-00160","VH-0098",2024-10-09,"Preventive","Scheduled Service (PM)",23718,219.01,0.5,2024-10-01
+"WO-00161","VH-0048",2024-10-10,"Preventive","Scheduled Service (PM)",23375,336.07,0.5,2024-10-01
+"WO-00162","VH-0005",2024-10-11,"Preventive","Scheduled Service (PM)",227466,440.1,0.5,2024-10-01
+"WO-00163","VH-0039",2024-10-11,"Corrective","Tires",146296,519.2,1.2,2024-10-01
+"WO-00164","VH-0082",2024-10-11,"Preventive","Scheduled Service (PM)",56253,736.83,0.5,2024-10-01
+"WO-00165","VH-0084",2024-10-11,"Corrective","Brakes",224870,773.9,1.7,2024-10-01
+"WO-00166","VH-0031",2024-10-12,"Preventive","Scheduled Service (PM)",57759,844.78,0.5,2024-10-01
+"WO-00167","VH-0032",2024-10-12,"Corrective","Cooling System",26880,1207.94,2.8,2024-10-01
+"WO-00168","VH-0064",2024-10-12,"Corrective","Suspension",18710,2090.04,4.3,2024-10-01
+"WO-00169","VH-0054",2024-10-13,"Corrective","Tires",251156,682.95,1.3,2024-10-01
+"WO-00170","VH-0010",2024-10-14,"Corrective","Brakes",28440,1103.95,2.3,2024-10-01
+"WO-00171","VH-0012",2024-10-15,"Preventive","Scheduled Service (PM)",213832,395.84,0.5,2024-10-01
+"WO-00172","VH-0047",2024-10-15,"Preventive","Scheduled Service (PM)",43126,409.8,1,2024-10-01
+"WO-00173","VH-0075",2024-10-15,"Preventive","Scheduled Service (PM)",24307,341.69,1,2024-10-01
+"WO-00174","VH-0079",2024-10-17,"Preventive","Scheduled Service (PM)",58142,915.63,0.5,2024-10-01
+"WO-00175","VH-0085",2024-10-18,"Preventive","Scheduled Service (PM)",56538,861.72,0.5,2024-10-01
+"WO-00176","VH-0013",2024-10-19,"Preventive","Scheduled Service (PM)",194144,653.25,0.5,2024-10-01
+"WO-00177","VH-0025",2024-10-19,"Corrective","Suspension",21676,1722.4,3.8,2024-10-01
+"WO-00178","VH-0056",2024-10-19,"Corrective","Transmission",37540,4241.56,7.1,2024-10-01
+"WO-00179","VH-0086",2024-10-19,"Preventive","Scheduled Service (PM)",60025,942.38,1,2024-10-01
+"WO-00180","VH-0092",2024-10-19,"Preventive","Scheduled Service (PM)",133504,308.04,0.5,2024-10-01
+"WO-00181","VH-0026",2024-10-20,"Preventive","Scheduled Service (PM)",55581,698.78,0.5,2024-10-01
+"WO-00182","VH-0045",2024-10-20,"Preventive","Scheduled Service (PM)",59264,552.42,0.5,2024-10-01
+"WO-00183","VH-0031",2024-10-22,"Corrective","Engine",62250,4187.82,7.1,2024-10-01
+"WO-00184","VH-0041",2024-10-22,"Corrective","Electrical",58984,661.5,1.9,2024-10-01
+"WO-00185","VH-0057",2024-10-22,"Corrective","Brakes",53822,953.05,2,2024-10-01
+"WO-00186","VH-0062",2024-10-22,"Preventive","Scheduled Service (PM)",77062,229.48,1,2024-10-01
+"WO-00187","VH-0059",2024-10-23,"Preventive","Scheduled Service (PM)",55926,441.78,0.5,2024-10-01
+"WO-00188","VH-0054",2024-10-24,"Preventive","Scheduled Service (PM)",252823,491.47,1,2024-10-01
+"WO-00189","VH-0016",2024-10-25,"Preventive","Scheduled Service (PM)",59156,425.93,0.5,2024-10-01
+"WO-00190","VH-0035",2024-10-25,"Preventive","Scheduled Service (PM)",56967,507.17,0.5,2024-10-01
+"WO-00191","VH-0063",2024-10-25,"Preventive","Scheduled Service (PM)",57800,519.09,1,2024-10-01
+"WO-00192","VH-0071",2024-10-25,"Preventive","Scheduled Service (PM)",188090,848.49,0.5,2024-10-01
+"WO-00193","VH-0031",2024-10-26,"Corrective","Cooling System",66144,758.71,1.9,2024-10-01
+"WO-00194","VH-0014",2024-10-27,"Preventive","Scheduled Service (PM)",203574,466.59,0.5,2024-10-01
+"WO-00195","VH-0028",2024-10-27,"Preventive","Scheduled Service (PM)",61135,868.14,0.5,2024-10-01
+"WO-00196","VH-0021",2024-10-28,"Preventive","Scheduled Service (PM)",58907,488.16,1,2024-10-01
+"WO-00197","VH-0046",2024-10-28,"Preventive","Scheduled Service (PM)",258452,516.83,1,2024-10-01
+"WO-00198","VH-0057",2024-10-28,"Corrective","Cooling System",57088,1206.57,2.8,2024-10-01
+"WO-00199","VH-0066",2024-10-28,"Preventive","Scheduled Service (PM)",55669,635.91,1,2024-10-01
+"WO-00200","VH-0068",2024-10-28,"Preventive","Scheduled Service (PM)",61127,816.58,1,2024-10-01
+"WO-00201","VH-0055",2024-10-30,"Preventive","Scheduled Service (PM)",58983,766.75,1,2024-10-01
+"WO-00202","VH-0001",2024-10-31,"Preventive","Scheduled Service (PM)",61637,537.44,1,2024-10-01
+"WO-00203","VH-0059",2024-10-31,"Corrective","Electrical",62956,639.29,1.9,2024-10-01
+"WO-00204","VH-0044",2024-11-01,"Corrective","Brakes",61706,844.89,1.8,2024-11-01
+"WO-00205","VH-0062",2024-11-01,"Corrective","Electrical",79090,856.46,2.3,2024-11-01
+"WO-00206","VH-0063",2024-11-01,"Corrective","Brakes",61288,720.16,1.6,2024-11-01
+"WO-00207","VH-0081",2024-11-01,"Preventive","Scheduled Service (PM)",56211,507.08,1,2024-11-01
+"WO-00208","VH-0038",2024-11-02,"Preventive","Scheduled Service (PM)",63086,891.52,0.5,2024-11-01
+"WO-00209","VH-0044",2024-11-02,"Preventive","Scheduled Service (PM)",59459,912.76,1,2024-11-01
+"WO-00210","VH-0050",2024-11-02,"Preventive","Scheduled Service (PM)",59636,701.3,0.5,2024-11-01
+"WO-00211","VH-0052",2024-11-02,"Corrective","Tires",20548,969.82,1.6,2024-11-01
+"WO-00212","VH-0072",2024-11-02,"Preventive","Scheduled Service (PM)",64582,750.41,0.5,2024-11-01
+"WO-00213","VH-0074",2024-11-02,"Corrective","Cooling System",18902,1115.89,2.6,2024-11-01
+"WO-00214","VH-0025",2024-11-04,"Preventive","Scheduled Service (PM)",24237,232.78,1,2024-11-01
+"WO-00215","VH-0041",2024-11-04,"Preventive","Scheduled Service (PM)",63725,511.49,1,2024-11-01
+"WO-00216","VH-0069",2024-11-04,"Preventive","Scheduled Service (PM)",62530,911.02,0.5,2024-11-01
+"WO-00217","VH-0093",2024-11-04,"Corrective","Tires",39644,674.53,1.3,2024-11-01
+"WO-00218","VH-0005",2024-11-05,"Preventive","Scheduled Service (PM)",246422,511.71,0.5,2024-11-01
+"WO-00219","VH-0040",2024-11-05,"Corrective","Suspension",42818,631.03,2.3,2024-11-01
+"WO-00220","VH-0057",2024-11-05,"Preventive","Scheduled Service (PM)",61076,544.04,0.5,2024-11-01
+"WO-00221","VH-0064",2024-11-05,"Preventive","Scheduled Service (PM)",24379,221.42,0.5,2024-11-01
+"WO-00222","VH-0084",2024-11-05,"Preventive","Scheduled Service (PM)",232073,271.66,0.5,2024-11-01
+"WO-00223","VH-0094",2024-11-05,"Corrective","Suspension",178374,1346.77,3.3,2024-11-01
+"WO-00224","VH-0045",2024-11-06,"Corrective","Transmission",68952,3248.53,5.9,2024-11-01
+"WO-00225","VH-0058",2024-11-06,"Preventive","Scheduled Service (PM)",23153,346.14,1,2024-11-01
+"WO-00226","VH-0080",2024-11-06,"Preventive","Scheduled Service (PM)",25943,219.89,1,2024-11-01
+"WO-00227","VH-0100",2024-11-06,"Preventive","Scheduled Service (PM)",56878,438.89,0.5,2024-11-01
+"WO-00228","VH-0060",2024-11-07,"Preventive","Scheduled Service (PM)",23445,196.49,0.5,2024-11-01
+"WO-00229","VH-0002",2024-11-08,"Preventive","Scheduled Service (PM)",40650,352.75,0.5,2024-11-01
+"WO-00230","VH-0005",2024-11-08,"Corrective","Brakes",248032,794.64,1.7,2024-11-01
+"WO-00231","VH-0036",2024-11-08,"Preventive","Scheduled Service (PM)",23459,253.03,1,2024-11-01
+"WO-00232","VH-0098",2024-11-08,"Corrective","Suspension",31272,822.07,2.5,2024-11-01
+"WO-00233","VH-0093",2024-11-09,"Preventive","Scheduled Service (PM)",41318,426.57,0.5,2024-11-01
+"WO-00234","VH-0087",2024-11-10,"Preventive","Scheduled Service (PM)",24619,184.57,1,2024-11-01
+"WO-00235","VH-0008",2024-11-11,"Preventive","Scheduled Service (PM)",43755,510.24,0.5,2024-11-01
+"WO-00236","VH-0017",2024-11-11,"Preventive","Scheduled Service (PM)",24535,197.24,0.5,2024-11-01
+"WO-00237","VH-0027",2024-11-11,"Preventive","Scheduled Service (PM)",43200,484.08,0.5,2024-11-01
+"WO-00238","VH-0060",2024-11-11,"Corrective","Brakes",24982,728.08,1.6,2024-11-01
+"WO-00239","VH-0099",2024-11-11,"Preventive","Scheduled Service (PM)",63604,435.79,1,2024-11-01
+"WO-00240","VH-0051",2024-11-12,"Preventive","Scheduled Service (PM)",23162,290.63,1,2024-11-01
+"WO-00241","VH-0054",2024-11-12,"Corrective","Body / Cab",269970,1098.73,2.5,2024-11-01
+"WO-00242","VH-0097",2024-11-12,"Corrective","Tires",25328,895.37,1.5,2024-11-01
+"WO-00243","VH-0010",2024-11-14,"Corrective","Transmission",37198,5232.9,8.2,2024-11-01
+"WO-00244","VH-0031",2024-11-14,"Preventive","Scheduled Service (PM)",77012,605.08,1,2024-11-01
+"WO-00245","VH-0037",2024-11-14,"Preventive","Scheduled Service (PM)",64556,617.79,0.5,2024-11-01
+"WO-00246","VH-0091",2024-11-14,"Preventive","Scheduled Service (PM)",26423,223.78,0.5,2024-11-01
+"WO-00247","VH-0097",2024-11-14,"Preventive","Scheduled Service (PM)",25686,193.53,0.5,2024-11-01
+"WO-00248","VH-0004",2024-11-15,"Preventive","Scheduled Service (PM)",23730,188.58,1,2024-11-01
+"WO-00249","VH-0022",2024-11-15,"Preventive","Scheduled Service (PM)",25898,276.59,1,2024-11-01
+"WO-00250","VH-0056",2024-11-15,"Preventive","Scheduled Service (PM)",45894,505.28,0.5,2024-11-01
+"WO-00251","VH-0090",2024-11-15,"Preventive","Scheduled Service (PM)",42112,476.38,0.5,2024-11-01
+"WO-00252","VH-0026",2024-11-16,"Preventive","Scheduled Service (PM)",74107,921.53,0.5,2024-11-01
+"WO-00253","VH-0042",2024-11-16,"Corrective","Tires",84972,793.22,1.4,2024-11-01
+"WO-00254","VH-0040",2024-11-17,"Preventive","Scheduled Service (PM)",46537,461.3,0.5,2024-11-01
+"WO-00255","VH-0083",2024-11-17,"Preventive","Scheduled Service (PM)",62261,674.83,0.5,2024-11-01
+"WO-00256","VH-0096",2024-11-17,"Preventive","Scheduled Service (PM)",24267,317.34,0.5,2024-11-01
+"WO-00257","VH-0018",2024-11-18,"Corrective","Transmission",23396,5547.35,8.6,2024-11-01
+"WO-00258","VH-0023",2024-11-18,"Preventive","Scheduled Service (PM)",56880,867.53,1,2024-11-01
+"WO-00259","VH-0076",2024-11-18,"Preventive","Scheduled Service (PM)",63155,808.13,0.5,2024-11-01
+"WO-00260","VH-0009",2024-11-19,"Preventive","Scheduled Service (PM)",41906,390.72,0.5,2024-11-01
+"WO-00261","VH-0083",2024-11-19,"Corrective","Engine",65004,3609.67,6.4,2024-11-01
+"WO-00262","VH-0007",2024-11-20,"Preventive","Scheduled Service (PM)",24071,221.28,0.5,2024-11-01
+"WO-00263","VH-0033",2024-11-20,"Preventive","Scheduled Service (PM)",24124,245.07,0.5,2024-11-01
+"WO-00264","VH-0046",2024-11-20,"Corrective","Brakes",274034,1185.2,2.4,2024-11-01
+"WO-00265","VH-0054",2024-11-20,"Preventive","Scheduled Service (PM)",272271,620.13,0.5,2024-11-01
+"WO-00266","VH-0082",2024-11-20,"Preventive","Scheduled Service (PM)",75003,634.36,1,2024-11-01
+"WO-00267","VH-0085",2024-11-20,"Preventive","Scheduled Service (PM)",75384,706.74,0.5,2024-11-01
+"WO-00268","VH-0086",2024-11-20,"Preventive","Scheduled Service (PM)",80034,879.74,0.5,2024-11-01
+"WO-00269","VH-0024",2024-11-21,"Preventive","Scheduled Service (PM)",45324,359.77,0.5,2024-11-01
+"WO-00270","VH-0052",2024-11-21,"Preventive","Scheduled Service (PM)",25053,281.71,1,2024-11-01
+"WO-00271","VH-0072",2024-11-21,"Corrective","Electrical",75084,935.35,2.5,2024-11-01
+"WO-00272","VH-0091",2024-11-21,"Corrective","Tires",27390,583.9,1.2,2024-11-01
+"WO-00273","VH-0021",2024-11-22,"Preventive","Scheduled Service (PM)",78543,885.87,1,2024-11-01
+"WO-00274","VH-0039",2024-11-22,"Corrective","Cooling System",159302,766.24,1.9,2024-11-01
+"WO-00275","VH-0058",2024-11-22,"Corrective","Brakes",28028,853.29,1.8,2024-11-01
+"WO-00276","VH-0079",2024-11-22,"Preventive","Scheduled Service (PM)",77523,749.22,1,2024-11-01
+"WO-00277","VH-0095",2024-11-22,"Preventive","Scheduled Service (PM)",45137,459.84,1,2024-11-01
+"WO-00278","VH-0039",2024-11-23,"Corrective","Brakes",159398,1077.13,2.2,2024-11-01
+"WO-00279","VH-0053",2024-11-23,"Preventive","Scheduled Service (PM)",23469,247.71,1,2024-11-01
+"WO-00280","VH-0074",2024-11-24,"Preventive","Scheduled Service (PM)",25715,237.33,0.5,2024-11-01
+"WO-00281","VH-0029",2024-11-25,"Preventive","Scheduled Service (PM)",25146,305,0.5,2024-11-01
+"WO-00282","VH-0059",2024-11-25,"Preventive","Scheduled Service (PM)",74568,526.05,1,2024-11-01
+"WO-00283","VH-0006",2024-11-26,"Corrective","Aftertreatment / DPF",23696,964.59,1.5,2024-11-01
+"WO-00284","VH-0063",2024-11-26,"Preventive","Scheduled Service (PM)",77067,907.93,1,2024-11-01
+"WO-00285","VH-0046",2024-11-27,"Preventive","Scheduled Service (PM)",278333,734.3,0.5,2024-11-01
+"WO-00286","VH-0013",2024-11-28,"Preventive","Scheduled Service (PM)",215716,682.37,1,2024-11-01
+"WO-00287","VH-0035",2024-11-28,"Preventive","Scheduled Service (PM)",75955,520.94,0.5,2024-11-01
+"WO-00288","VH-0037",2024-11-28,"Corrective","Transmission",71648,2738.83,5.3,2024-11-01
+"WO-00289","VH-0059",2024-11-28,"Corrective","Brakes",79084,944.58,2,2024-11-01
+"WO-00290","VH-0071",2024-11-28,"Preventive","Scheduled Service (PM)",208989,823.37,0.5,2024-11-01
+"WO-00291","VH-0081",2024-11-28,"Preventive","Scheduled Service (PM)",74948,885.98,0.5,2024-11-01
+"WO-00292","VH-0014",2024-11-29,"Corrective","Tires",223484,700.82,1.3,2024-11-01
+"WO-00293","VH-0045",2024-11-29,"Preventive","Scheduled Service (PM)",79018,875.15,0.5,2024-11-01
+"WO-00294","VH-0055",2024-11-29,"Corrective","Brakes",76126,1189.79,2.4,2024-11-01
+"WO-00295","VH-0066",2024-11-29,"Corrective","Engine",74984,3903.71,6.8,2024-11-01
+"WO-00296","VH-0073",2024-11-29,"Preventive","Scheduled Service (PM)",43526,535.31,1,2024-11-01
+"WO-00297","VH-0001",2024-11-30,"Corrective","Engine",80778,1995.72,4.4,2024-11-01
+"WO-00298","VH-0008",2024-11-30,"Corrective","Brakes",54330,921.1,1.9,2024-11-01
+"WO-00299","VH-0066",2024-11-30,"Preventive","Scheduled Service (PM)",74225,562.83,1,2024-11-01
+"WO-00300","VH-0070",2024-11-30,"Preventive","Scheduled Service (PM)",44013,484.57,0.5,2024-11-01
+"WO-00301","VH-0074",2024-12-01,"Corrective","Transmission",28142,5633.31,8.7,2024-12-01
+"WO-00302","VH-0001",2024-12-03,"Preventive","Scheduled Service (PM)",82182,895.08,0.5,2024-12-01
+"WO-00303","VH-0050",2024-12-03,"Preventive","Scheduled Service (PM)",79515,861.34,0.5,2024-12-01
+"WO-00304","VH-0068",2024-12-03,"Preventive","Scheduled Service (PM)",81503,589.66,0.5,2024-12-01
+"WO-00305","VH-0014",2024-12-04,"Preventive","Scheduled Service (PM)",223932,633.23,0.5,2024-12-01
+"WO-00306","VH-0031",2024-12-04,"Corrective","Cooling System",91090,780.71,2,2024-12-01
+"WO-00307","VH-0036",2024-12-04,"Corrective","Electrical",29214,479.56,1.6,2024-12-01
+"WO-00308","VH-0039",2024-12-04,"Preventive","Scheduled Service (PM)",162352,395.04,1,2024-12-01
+"WO-00309","VH-0047",2024-12-04,"Preventive","Scheduled Service (PM)",64688,472.44,1,2024-12-01
+"WO-00310","VH-0028",2024-12-05,"Preventive","Scheduled Service (PM)",81513,509.51,0.5,2024-12-01
+"WO-00311","VH-0057",2024-12-05,"Preventive","Scheduled Service (PM)",81434,566.36,0.5,2024-12-01
+"WO-00312","VH-0006",2024-12-06,"Preventive","Scheduled Service (PM)",24968,185.4,0.5,2024-12-01
+"WO-00313","VH-0018",2024-12-06,"Preventive","Scheduled Service (PM)",25578,341.36,0.5,2024-12-01
+"WO-00314","VH-0076",2024-12-06,"Corrective","Tires",75570,879.65,1.5,2024-12-01
+"WO-00315","VH-0016",2024-12-07,"Preventive","Scheduled Service (PM)",78874,742.8,0.5,2024-12-01
+"WO-00316","VH-0090",2024-12-07,"Corrective","Tires",49724,584.68,1.2,2024-12-01
+"WO-00317","VH-0005",2024-12-08,"Preventive","Scheduled Service (PM)",265377,879.35,0.5,2024-12-01
+"WO-00318","VH-0026",2024-12-08,"Corrective","Tires",89004,700.29,1.3,2024-12-01
+"WO-00319","VH-0032",2024-12-08,"Preventive","Scheduled Service (PM)",43781,364.78,1,2024-12-01
+"WO-00320","VH-0055",2024-12-08,"Preventive","Scheduled Service (PM)",78644,514.64,1,2024-12-01
+"WO-00321","VH-0087",2024-12-08,"Corrective","Electrical",28922,563.02,1.7,2024-12-01
+"WO-00322","VH-0094",2024-12-08,"Preventive","Scheduled Service (PM)",190923,479.69,1,2024-12-01
+"WO-00323","VH-0011",2024-12-09,"Preventive","Scheduled Service (PM)",174257,539.62,0.5,2024-12-01
+"WO-00324","VH-0044",2024-12-10,"Preventive","Scheduled Service (PM)",79279,879.27,1,2024-12-01
+"WO-00325","VH-0029",2024-12-11,"Corrective","Body / Cab",27602,938.38,2.2,2024-12-01
+"WO-00326","VH-0100",2024-12-11,"Preventive","Scheduled Service (PM)",75838,595.93,0.5,2024-12-01
+"WO-00327","VH-0057",2024-12-12,"Corrective","Suspension",90276,797.88,2.5,2024-12-01
+"WO-00328","VH-0072",2024-12-12,"Preventive","Scheduled Service (PM)",86109,816.63,1,2024-12-01
+"WO-00329","VH-0081",2024-12-12,"Corrective","Body / Cab",85830,1102.89,2.5,2024-12-01
+"WO-00330","VH-0012",2024-12-13,"Corrective","Suspension",236982,2117.37,4.3,2024-12-01
+"WO-00331","VH-0026",2024-12-13,"Corrective","Tires",91644,500.75,1.1,2024-12-01
+"WO-00332","VH-0096",2024-12-13,"Corrective","Electrical",29818,373.34,1.3,2024-12-01
+"WO-00333","VH-0012",2024-12-14,"Preventive","Scheduled Service (PM)",235215,512.79,0.5,2024-12-01
+"WO-00334","VH-0069",2024-12-14,"Preventive","Scheduled Service (PM)",83374,739.03,1,2024-12-01
+"WO-00335","VH-0023",2024-12-16,"Preventive","Scheduled Service (PM)",75840,515.94,1,2024-12-01
+"WO-00336","VH-0094",2024-12-16,"Corrective","Brakes",194616,600.47,1.4,2024-12-01
+"WO-00337","VH-0026",2024-12-17,"Preventive","Scheduled Service (PM)",92634,867.9,0.5,2024-12-01
+"WO-00338","VH-0010",2024-12-18,"Preventive","Scheduled Service (PM)",45723,591.4,0.5,2024-12-01
+"WO-00339","VH-0030",2024-12-18,"Corrective","Tires",164342,554.53,1.2,2024-12-01
+"WO-00340","VH-0038",2024-12-18,"Preventive","Scheduled Service (PM)",84115,877.86,1,2024-12-01
+"WO-00341","VH-0058",2024-12-18,"Corrective","Aftertreatment / DPF",31118,1505.77,2.3,2024-12-01
+"WO-00342","VH-0015",2024-12-19,"Preventive","Scheduled Service (PM)",46273,523.59,1,2024-12-01
+"WO-00343","VH-0050",2024-12-19,"Corrective","Suspension",89064,1320.49,3.2,2024-12-01
+"WO-00344","VH-0099",2024-12-19,"Preventive","Scheduled Service (PM)",84805,828.74,1,2024-12-01
+"WO-00345","VH-0021",2024-12-21,"Preventive","Scheduled Service (PM)",98178,440.98,1,2024-12-01
+"WO-00346","VH-0082",2024-12-22,"Preventive","Scheduled Service (PM)",93754,797.18,0.5,2024-12-01
+"WO-00347","VH-0083",2024-12-22,"Preventive","Scheduled Service (PM)",83014,720.44,1,2024-12-01
+"WO-00348","VH-0085",2024-12-22,"Preventive","Scheduled Service (PM)",94230,786.41,0.5,2024-12-01
+"WO-00349","VH-0008",2024-12-23,"Preventive","Scheduled Service (PM)",65632,332.15,1,2024-12-01
+"WO-00350","VH-0041",2024-12-23,"Preventive","Scheduled Service (PM)",84966,662.44,0.5,2024-12-01
+"WO-00351","VH-0076",2024-12-23,"Preventive","Scheduled Service (PM)",84206,424.16,1,2024-12-01
+"WO-00352","VH-0051",2024-12-24,"Corrective","Engine",30546,4689.28,7.7,2024-12-01
+"WO-00353","VH-0031",2024-12-25,"Preventive","Scheduled Service (PM)",96266,630.94,0.5,2024-12-01
+"WO-00354","VH-0042",2024-12-25,"Preventive","Scheduled Service (PM)",94616,309.64,1,2024-12-01
+"WO-00355","VH-0059",2024-12-25,"Preventive","Scheduled Service (PM)",93210,939.43,1,2024-12-01
+"WO-00356","VH-0023",2024-12-28,"Corrective","Suspension",84368,1361.12,3.3,2024-12-01
+"WO-00357","VH-0087",2024-12-28,"Corrective","Tires",31676,1097.6,1.7,2024-12-01
+"WO-00358","VH-0037",2024-12-29,"Preventive","Scheduled Service (PM)",86075,943.44,0.5,2024-12-01
+"WO-00359","VH-0086",2024-12-29,"Preventive","Scheduled Service (PM)",100042,565.45,0.5,2024-12-01
+"WO-00360","VH-0009",2024-12-30,"Corrective","Aftertreatment / DPF",53600,2044.44,3,2024-12-01
+"WO-00361","VH-0054",2024-12-30,"Preventive","Scheduled Service (PM)",291719,657.3,0.5,2024-12-01
+"WO-00362","VH-0083",2024-12-31,"Corrective","Cooling System",88148,1171.21,2.7,2024-12-01
+"WO-00363","VH-0006",2025-01-01,"Corrective","Electrical",32360,370.69,1.3,2025-01-01
+"WO-00364","VH-0066",2025-01-01,"Preventive","Scheduled Service (PM)",92781,573.34,0.5,2025-01-01
+"WO-00365","VH-0045",2025-01-02,"Preventive","Scheduled Service (PM)",98773,482.91,0.5,2025-01-01
+"WO-00366","VH-0057",2025-01-02,"Preventive","Scheduled Service (PM)",101793,771.75,1,2025-01-01
+"WO-00367","VH-0081",2025-01-02,"Corrective","Tires",94616,819.52,1.4,2025-01-01
+"WO-00368","VH-0050",2025-01-03,"Preventive","Scheduled Service (PM)",99394,517.12,1,2025-01-01
+"WO-00369","VH-0080",2025-01-03,"Corrective","Brakes",36710,1202.35,2.5,2025-01-01
+"WO-00370","VH-0081",2025-01-03,"Preventive","Scheduled Service (PM)",93685,640.06,1,2025-01-01
+"WO-00371","VH-0014",2025-01-04,"Corrective","Aftertreatment / DPF",244002,2562.21,3.6,2025-01-01
+"WO-00372","VH-0055",2025-01-04,"Preventive","Scheduled Service (PM)",98305,949.97,0.5,2025-01-01
+"WO-00373","VH-0093",2025-01-04,"Preventive","Scheduled Service (PM)",61977,424.07,0.5,2025-01-01
+"WO-00374","VH-0001",2025-01-05,"Preventive","Scheduled Service (PM)",102728,672.82,1,2025-01-01
+"WO-00375","VH-0002",2025-01-05,"Preventive","Scheduled Service (PM)",60975,616.64,0.5,2025-01-01
+"WO-00376","VH-0046",2025-01-05,"Preventive","Scheduled Service (PM)",298214,915.51,0.5,2025-01-01
+"WO-00377","VH-0033",2025-01-06,"Corrective","Brakes",36768,1075.05,2.2,2025-01-01
+"WO-00378","VH-0005",2025-01-07,"Preventive","Scheduled Service (PM)",284333,683.69,1,2025-01-01
+"WO-00379","VH-0013",2025-01-07,"Preventive","Scheduled Service (PM)",237288,792.22,0.5,2025-01-01
+"WO-00380","VH-0068",2025-01-07,"Preventive","Scheduled Service (PM)",101878,737.71,0.5,2025-01-01
+"WO-00381","VH-0028",2025-01-08,"Preventive","Scheduled Service (PM)",101891,680.88,1,2025-01-01
+"WO-00382","VH-0061",2025-01-08,"Preventive","Scheduled Service (PM)",124605,324.06,0.5,2025-01-01
+"WO-00383","VH-0035",2025-01-09,"Preventive","Scheduled Service (PM)",94944,610.24,0.5,2025-01-01
+"WO-00384","VH-0079",2025-01-09,"Preventive","Scheduled Service (PM)",96904,578.41,1,2025-01-01
+"WO-00385","VH-0011",2025-01-11,"Corrective","Aftertreatment / DPF",185184,963.98,1.5,2025-01-01
+"WO-00386","VH-0012",2025-01-11,"Corrective","Cooling System",246526,1374.76,3.1,2025-01-01
+"WO-00387","VH-0014",2025-01-11,"Preventive","Scheduled Service (PM)",244289,658.17,1,2025-01-01
+"WO-00388","VH-0040",2025-01-11,"Preventive","Scheduled Service (PM)",69805,384.33,1,2025-01-01
+"WO-00389","VH-0063",2025-01-11,"Preventive","Scheduled Service (PM)",96333,943.34,0.5,2025-01-01
+"WO-00390","VH-0001",2025-01-12,"Corrective","Cooling System",106432,570.28,1.5,2025-01-01
+"WO-00391","VH-0045",2025-01-12,"Corrective","Tires",106804,1185.52,1.8,2025-01-01
+"WO-00392","VH-0047",2025-01-12,"Corrective","Cooling System",74784,833.9,2.1,2025-01-01
+"WO-00393","VH-0035",2025-01-13,"Corrective","Electrical",100030,357.76,1.3,2025-01-01
+"WO-00394","VH-0044",2025-01-13,"Preventive","Scheduled Service (PM)",99099,872.19,0.5,2025-01-01
+"WO-00395","VH-0071",2025-01-13,"Preventive","Scheduled Service (PM)",229888,442.98,0.5,2025-01-01
+"WO-00396","VH-0009",2025-01-17,"Corrective","Brakes",57608,1094.9,2.3,2025-01-01
+"WO-00397","VH-0021",2025-01-17,"Corrective","Tires",110070,670.25,1.3,2025-01-01
+"WO-00398","VH-0016",2025-01-18,"Preventive","Scheduled Service (PM)",98593,752.83,1,2025-01-01
+"WO-00399","VH-0010",2025-01-19,"Corrective","Brakes",58542,993.88,2.1,2025-01-01
+"WO-00400","VH-0056",2025-01-19,"Preventive","Scheduled Service (PM)",68841,594.91,0.5,2025-01-01
+"WO-00401","VH-0085",2025-01-20,"Corrective","Brakes",105522,931.9,2,2025-01-01
+"WO-00402","VH-0100",2025-01-20,"Preventive","Scheduled Service (PM)",94797,506.15,1,2025-01-01
+"WO-00403","VH-0072",2025-01-21,"Preventive","Scheduled Service (PM)",107636,493.76,0.5,2025-01-01
+"WO-00404","VH-0026",2025-01-22,"Preventive","Scheduled Service (PM)",111161,519.93,0.5,2025-01-01
+"WO-00405","VH-0027",2025-01-22,"Preventive","Scheduled Service (PM)",64800,467.9,1,2025-01-01
+"WO-00406","VH-0038",2025-01-22,"Preventive","Scheduled Service (PM)",105143,670.55,0.5,2025-01-01
+"WO-00407","VH-0041",2025-01-22,"Preventive","Scheduled Service (PM)",106208,705.79,1,2025-01-01
+"WO-00408","VH-0048",2025-01-22,"Corrective","Engine",44888,2600.65,5.1,2025-01-01
+"WO-00409","VH-0096",2025-01-23,"Corrective","Tires",37658,504.93,1.1,2025-01-01
+"WO-00410","VH-0023",2025-01-24,"Corrective","Tires",94314,912.41,1.5,2025-01-01
+"WO-00411","VH-0069",2025-01-24,"Preventive","Scheduled Service (PM)",104217,878.11,0.5,2025-01-01
+"WO-00412","VH-0048",2025-01-25,"Corrective","Tires",45532,569.37,1.2,2025-01-01
+"WO-00413","VH-0099",2025-01-26,"Preventive","Scheduled Service (PM)",106007,572.89,1,2025-01-01
+"WO-00414","VH-0039",2025-01-27,"Corrective","Electrical",180208,219.91,1,2025-01-01
+"WO-00415","VH-0054",2025-01-27,"Preventive","Scheduled Service (PM)",311167,797.86,1,2025-01-01
+"WO-00416","VH-0024",2025-01-28,"Preventive","Scheduled Service (PM)",67986,356.81,0.5,2025-01-01
+"WO-00417","VH-0030",2025-01-29,"Preventive","Scheduled Service (PM)",169352,276.15,1,2025-01-01
+"WO-00418","VH-0031",2025-01-29,"Preventive","Scheduled Service (PM)",115519,863.21,1,2025-01-01
+"WO-00419","VH-0098",2025-01-30,"Preventive","Scheduled Service (PM)",47437,299.3,0.5,2025-01-01
+"WO-00420","VH-0021",2025-01-31,"Preventive","Scheduled Service (PM)",117814,671.47,0.5,2025-01-01
+"WO-00421","VH-0073",2025-01-31,"Preventive","Scheduled Service (PM)",65290,546.49,0.5,2025-01-01
+"WO-00422","VH-0076",2025-01-31,"Preventive","Scheduled Service (PM)",105258,572.35,1,2025-01-01
+"WO-00423","VH-0083",2025-01-31,"Corrective","Transmission",100428,5418.13,8.4,2025-01-01
+"WO-00424","VH-0095",2025-01-31,"Preventive","Scheduled Service (PM)",67705,514.65,0.5,2025-01-01
+"WO-00425","VH-0009",2025-02-01,"Preventive","Scheduled Service (PM)",62860,534.24,1,2025-02-01
+"WO-00426","VH-0070",2025-02-01,"Preventive","Scheduled Service (PM)",66019,392.77,0.5,2025-02-01
+"WO-00427","VH-0032",2025-02-02,"Preventive","Scheduled Service (PM)",65671,488.83,1,2025-02-01
+"WO-00428","VH-0039",2025-02-02,"Preventive","Scheduled Service (PM)",182646,512.83,0.5,2025-02-01
+"WO-00429","VH-0086",2025-02-03,"Preventive","Scheduled Service (PM)",120051,567.57,1,2025-02-01
+"WO-00430","VH-0091",2025-02-03,"Corrective","Brakes",42060,561.91,1.3,2025-02-01
+"WO-00431","VH-0023",2025-02-04,"Preventive","Scheduled Service (PM)",94800,504.68,0.5,2025-02-01
+"WO-00432","VH-0046",2025-02-04,"Preventive","Scheduled Service (PM)",318095,854.77,0.5,2025-02-01
+"WO-00433","VH-0094",2025-02-04,"Preventive","Scheduled Service (PM)",212137,332.29,0.5,2025-02-01
+"WO-00434","VH-0039",2025-02-05,"Corrective","Tires",183974,419.25,1.1,2025-02-01
+"WO-00435","VH-0059",2025-02-05,"Preventive","Scheduled Service (PM)",111852,942.87,1,2025-02-01
+"WO-00436","VH-0028",2025-02-06,"Corrective","Cooling System",121938,1251.46,2.9,2025-02-01
+"WO-00437","VH-0030",2025-02-06,"Corrective","Electrical",170414,555.74,1.7,2025-02-01
+"WO-00438","VH-0055",2025-02-06,"Preventive","Scheduled Service (PM)",117966,519.87,0.5,2025-02-01
+"WO-00439","VH-0057",2025-02-06,"Preventive","Scheduled Service (PM)",122152,595.67,1,2025-02-01
+"WO-00440","VH-0066",2025-02-06,"Preventive","Scheduled Service (PM)",111337,509.98,0.5,2025-02-01
+"WO-00441","VH-0048",2025-02-07,"Preventive","Scheduled Service (PM)",46750,204.55,0.5,2025-02-01
+"WO-00442","VH-0082",2025-02-07,"Preventive","Scheduled Service (PM)",112505,777.04,0.5,2025-02-01
+"WO-00443","VH-0028",2025-02-08,"Preventive","Scheduled Service (PM)",122269,895.67,1,2025-02-01
+"WO-00444","VH-0031",2025-02-08,"Corrective","Engine",124468,2295.75,4.7,2025-02-01
+"WO-00445","VH-0048",2025-02-08,"Corrective","Transmission",46756,2370.15,4.9,2025-02-01
+"WO-00446","VH-0045",2025-02-09,"Preventive","Scheduled Service (PM)",118527,701.83,1,2025-02-01
+"WO-00447","VH-0062",2025-02-10,"Preventive","Scheduled Service (PM)",102750,237.61,1,2025-02-01
+"WO-00448","VH-0083",2025-02-10,"Preventive","Scheduled Service (PM)",103768,756.92,1,2025-02-01
+"WO-00449","VH-0085",2025-02-10,"Preventive","Scheduled Service (PM)",113076,845.31,1,2025-02-01
+"WO-00450","VH-0035",2025-02-11,"Preventive","Scheduled Service (PM)",113933,572.01,0.5,2025-02-01
+"WO-00451","VH-0063",2025-02-11,"Preventive","Scheduled Service (PM)",115600,552.18,1,2025-02-01
+"WO-00452","VH-0014",2025-02-13,"Preventive","Scheduled Service (PM)",264647,930.32,1,2025-02-01
+"WO-00453","VH-0036",2025-02-13,"Corrective","Transmission",41326,4848.54,7.8,2025-02-01
+"WO-00454","VH-0047",2025-02-13,"Preventive","Scheduled Service (PM)",86251,501.98,0.5,2025-02-01
+"WO-00455","VH-0079",2025-02-14,"Preventive","Scheduled Service (PM)",116285,886.59,0.5,2025-02-01
+"WO-00456","VH-0079",2025-02-14,"Corrective","Aftertreatment / DPF",118416,628.84,1.1,2025-02-01
+"WO-00457","VH-0076",2025-02-15,"Corrective","Cooling System",112618,667.25,1.7,2025-02-01
+"WO-00458","VH-0037",2025-02-16,"Preventive","Scheduled Service (PM)",107593,890.58,1,2025-02-01
+"WO-00459","VH-0005",2025-02-17,"Preventive","Scheduled Service (PM)",303288,687.31,1,2025-02-01
+"WO-00460","VH-0050",2025-02-17,"Preventive","Scheduled Service (PM)",119273,863.06,1,2025-02-01
+"WO-00461","VH-0085",2025-02-17,"Corrective","Tires",116850,651.82,1.3,2025-02-01
+"WO-00462","VH-0011",2025-02-18,"Preventive","Scheduled Service (PM)",196039,507.84,1,2025-02-01
+"WO-00463","VH-0044",2025-02-18,"Corrective","Tires",118856,548.82,1.2,2025-02-01
+"WO-00464","VH-0068",2025-02-18,"Preventive","Scheduled Service (PM)",122254,425.04,0.5,2025-02-01
+"WO-00465","VH-0001",2025-02-19,"Preventive","Scheduled Service (PM)",123273,520.6,0.5,2025-02-01
+"WO-00466","VH-0012",2025-02-19,"Preventive","Scheduled Service (PM)",256598,509.8,0.5,2025-02-01
+"WO-00467","VH-0084",2025-02-19,"Preventive","Scheduled Service (PM)",255280,297.09,0.5,2025-02-01
+"WO-00468","VH-0100",2025-02-19,"Preventive","Scheduled Service (PM)",113757,424.99,1,2025-02-01
+"WO-00469","VH-0005",2025-02-20,"Corrective","Electrical",304236,1056.14,2.7,2025-02-01
+"WO-00470","VH-0044",2025-02-20,"Preventive","Scheduled Service (PM)",118919,832.44,0.5,2025-02-01
+"WO-00471","VH-0055",2025-02-20,"Corrective","Cooling System",126968,793.55,2,2025-02-01
+"WO-00472","VH-0093",2025-02-21,"Preventive","Scheduled Service (PM)",82636,404.32,0.5,2025-02-01
+"WO-00473","VH-0026",2025-02-22,"Preventive","Scheduled Service (PM)",129688,611.29,0.5,2025-02-01
+"WO-00474","VH-0038",2025-02-23,"Preventive","Scheduled Service (PM)",126172,763.34,1,2025-02-01
+"WO-00475","VH-0013",2025-02-24,"Preventive","Scheduled Service (PM)",258859,645.35,0.5,2025-02-01
+"WO-00476","VH-0058",2025-02-24,"Preventive","Scheduled Service (PM)",46306,276.02,1,2025-02-01
+"WO-00477","VH-0091",2025-02-24,"Corrective","Brakes",45648,986.9,2.1,2025-02-01
+"WO-00478","VH-0016",2025-02-25,"Preventive","Scheduled Service (PM)",118312,514.25,1,2025-02-01
+"WO-00479","VH-0049",2025-02-25,"Preventive","Scheduled Service (PM)",218164,747.14,0.5,2025-02-01
+"WO-00480","VH-0031",2025-02-26,"Corrective","Aftertreatment / DPF",133642,2222.21,3.2,2025-02-01
+"WO-00481","VH-0033",2025-02-26,"Preventive","Scheduled Service (PM)",48248,238.27,0.5,2025-02-01
+"WO-00482","VH-0081",2025-02-26,"Preventive","Scheduled Service (PM)",112422,888.58,0.5,2025-02-01
+"WO-00483","VH-0031",2025-02-28,"Preventive","Scheduled Service (PM)",134772,571.55,0.5,2025-02-01
+"WO-00484","VH-0064",2025-02-28,"Preventive","Scheduled Service (PM)",48758,263.39,0.5,2025-02-01
+"WO-00485","VH-0062",2025-03-01,"Corrective","Body / Cab",109326,1247.69,2.7,2025-03-01
+"WO-00486","VH-0063",2025-03-02,"Corrective","Tires",126486,458.55,1.1,2025-03-01
+"WO-00487","VH-0010",2025-03-04,"Preventive","Scheduled Service (PM)",68584,435.43,0.5,2025-03-01
+"WO-00488","VH-0068",2025-03-04,"Corrective","Electrical",131420,541.65,1.7,2025-03-01
+"WO-00489","VH-0047",2025-03-05,"Corrective","Tires",91300,1158.17,1.8,2025-03-01
+"WO-00490","VH-0015",2025-03-06,"Preventive","Scheduled Service (PM)",69409,419.53,0.5,2025-03-01
+"WO-00491","VH-0054",2025-03-06,"Preventive","Scheduled Service (PM)",330615,792.39,0.5,2025-03-01
+"WO-00492","VH-0075",2025-03-06,"Preventive","Scheduled Service (PM)",48613,272.63,1,2025-03-01
+"WO-00493","VH-0053",2025-03-07,"Preventive","Scheduled Service (PM)",46938,206.32,0.5,2025-03-01
+"WO-00494","VH-0071",2025-03-07,"Preventive","Scheduled Service (PM)",250787,538.11,0.5,2025-03-01
+"WO-00495","VH-0036",2025-03-08,"Preventive","Scheduled Service (PM)",46918,270.21,1,2025-03-01
+"WO-00496","VH-0008",2025-03-09,"Preventive","Scheduled Service (PM)",87509,451.81,1,2025-03-01
+"WO-00497","VH-0021",2025-03-10,"Preventive","Scheduled Service (PM)",137450,490.38,1,2025-03-01
+"WO-00498","VH-0040",2025-03-11,"Corrective","Cooling System",85166,603.66,1.6,2025-03-01
+"WO-00499","VH-0086",2025-03-11,"Preventive","Scheduled Service (PM)",140059,726.07,0.5,2025-03-01
+"WO-00500","VH-0023",2025-03-12,"Preventive","Scheduled Service (PM)",113760,800.05,0.5,2025-03-01
+"WO-00501","VH-0048",2025-03-12,"Corrective","Aftertreatment / DPF",53472,2033.53,2.9,2025-03-01
+"WO-00502","VH-0052",2025-03-12,"Preventive","Scheduled Service (PM)",50105,235.27,1,2025-03-01
+"WO-00503","VH-0066",2025-03-12,"Preventive","Scheduled Service (PM)",129893,897.7,0.5,2025-03-01
+"WO-00504","VH-0083",2025-03-12,"Preventive","Scheduled Service (PM)",124522,901.37,0.5,2025-03-01
+"WO-00505","VH-0099",2025-03-12,"Preventive","Scheduled Service (PM)",127208,915.37,1,2025-03-01
+"WO-00506","VH-0013",2025-03-13,"Corrective","Brakes",265554,774.21,1.7,2025-03-01
+"WO-00507","VH-0057",2025-03-13,"Preventive","Scheduled Service (PM)",142510,438.35,1,2025-03-01
+"WO-00508","VH-0076",2025-03-13,"Preventive","Scheduled Service (PM)",126309,909.57,0.5,2025-03-01
+"WO-00509","VH-0049",2025-03-14,"Corrective","Tires",228554,544.66,1.2,2025-03-01
+"WO-00510","VH-0082",2025-03-14,"Preventive","Scheduled Service (PM)",131256,776.17,0.5,2025-03-01
+"WO-00511","VH-0028",2025-03-15,"Preventive","Scheduled Service (PM)",142648,921.13,1,2025-03-01
+"WO-00512","VH-0072",2025-03-15,"Preventive","Scheduled Service (PM)",129163,779.41,0.5,2025-03-01
+"WO-00513","VH-0100",2025-03-15,"Corrective","Transmission",122868,4816.84,7.7,2025-03-01
+"WO-00514","VH-0041",2025-03-16,"Preventive","Scheduled Service (PM)",127450,694.68,1,2025-03-01
+"WO-00515","VH-0055",2025-03-16,"Preventive","Scheduled Service (PM)",137627,708.91,1,2025-03-01
+"WO-00516","VH-0002",2025-03-17,"Preventive","Scheduled Service (PM)",81300,542.06,1,2025-03-01
+"WO-00517","VH-0045",2025-03-17,"Preventive","Scheduled Service (PM)",138282,774.05,1,2025-03-01
+"WO-00518","VH-0069",2025-03-17,"Preventive","Scheduled Service (PM)",125061,782.57,1,2025-03-01
+"WO-00519","VH-0079",2025-03-17,"Preventive","Scheduled Service (PM)",135665,550.4,1,2025-03-01
+"WO-00520","VH-0007",2025-03-18,"Preventive","Scheduled Service (PM)",48141,211.61,0.5,2025-03-01
+"WO-00521","VH-0011",2025-03-18,"Corrective","Brakes",203228,779.12,1.7,2025-03-01
+"WO-00522","VH-0054",2025-03-18,"Corrective","Suspension",338708,672.63,2.3,2025-03-01
+"WO-00523","VH-0059",2025-03-18,"Preventive","Scheduled Service (PM)",130494,489.24,0.5,2025-03-01
+"WO-00524","VH-0060",2025-03-18,"Preventive","Scheduled Service (PM)",46889,227.66,1,2025-03-01
+"WO-00525","VH-0076",2025-03-19,"Corrective","Aftertreatment / DPF",132254,899.69,1.5,2025-03-01
+"WO-00526","VH-0046",2025-03-20,"Preventive","Scheduled Service (PM)",337976,761.46,0.5,2025-03-01
+"WO-00527","VH-0050",2025-03-21,"Preventive","Scheduled Service (PM)",139151,703.64,1,2025-03-01
+"WO-00528","VH-0014",2025-03-22,"Preventive","Scheduled Service (PM)",285004,659.53,1,2025-03-01
+"WO-00529","VH-0027",2025-03-22,"Preventive","Scheduled Service (PM)",86400,465.84,1,2025-03-01
+"WO-00530","VH-0023",2025-03-23,"Corrective","Brakes",119116,829.32,1.8,2025-03-01
+"WO-00531","VH-0051",2025-03-23,"Preventive","Scheduled Service (PM)",46324,305.78,0.5,2025-03-01
+"WO-00532","VH-0096",2025-03-23,"Preventive","Scheduled Service (PM)",48534,341.87,1,2025-03-01
+"WO-00533","VH-0074",2025-03-24,"Preventive","Scheduled Service (PM)",51431,223.84,0.5,2025-03-01
+"WO-00534","VH-0084",2025-03-24,"Corrective","Brakes",262536,990.95,2.1,2025-03-01
+"WO-00535","VH-0017",2025-03-26,"Preventive","Scheduled Service (PM)",49069,233.72,0.5,2025-03-01
+"WO-00536","VH-0028",2025-03-26,"Corrective","Electrical",146190,764.23,2.1,2025-03-01
+"WO-00537","VH-0044",2025-03-26,"Preventive","Scheduled Service (PM)",138739,458.99,0.5,2025-03-01
+"WO-00538","VH-0056",2025-03-26,"Preventive","Scheduled Service (PM)",91788,305.18,0.5,2025-03-01
+"WO-00539","VH-0035",2025-03-27,"Preventive","Scheduled Service (PM)",132922,774.8,0.5,2025-03-01
+"WO-00540","VH-0037",2025-03-27,"Preventive","Scheduled Service (PM)",129112,571.29,1,2025-03-01
+"WO-00541","VH-0042",2025-03-27,"Corrective","Brakes",111266,1136.62,2.3,2025-03-01
+"WO-00542","VH-0077",2025-03-27,"Preventive","Scheduled Service (PM)",174164,597.68,0.5,2025-03-01
+"WO-00543","VH-0005",2025-03-29,"Corrective","Tires",319830,1149.15,1.8,2025-03-01
+"WO-00544","VH-0026",2025-03-29,"Preventive","Scheduled Service (PM)",148215,566.75,1,2025-03-01
+"WO-00545","VH-0055",2025-03-29,"Corrective","Electrical",145120,757.66,2.1,2025-03-01
+"WO-00546","VH-0063",2025-03-29,"Preventive","Scheduled Service (PM)",134867,792.54,1,2025-03-01
+"WO-00547","VH-0070",2025-03-30,"Preventive","Scheduled Service (PM)",88026,442.06,1,2025-03-01
+"WO-00548","VH-0071",2025-03-30,"Corrective","Brakes",269856,1180.63,2.4,2025-03-01
+"WO-00549","VH-0092",2025-03-30,"Preventive","Scheduled Service (PM)",160205,187.53,0.5,2025-03-01
+"WO-00550","VH-0038",2025-03-31,"Preventive","Scheduled Service (PM)",147201,598.38,1,2025-03-01
+"WO-00551","VH-0081",2025-03-31,"Preventive","Scheduled Service (PM)",131160,592.02,1,2025-03-01
+"WO-00552","VH-0068",2025-04-01,"Preventive","Scheduled Service (PM)",142630,571.94,0.5,2025-04-01
+"WO-00553","VH-0068",2025-04-01,"Corrective","Tires",143780,787.14,1.4,2025-04-01
+"WO-00554","VH-0001",2025-04-03,"Preventive","Scheduled Service (PM)",143819,857.95,1,2025-04-01
+"WO-00555","VH-0004",2025-04-03,"Preventive","Scheduled Service (PM)",47461,276.53,0.5,2025-04-01
+"WO-00556","VH-0049",2025-04-03,"Preventive","Scheduled Service (PM)",237997,785.93,0.5,2025-04-01
+"WO-00557","VH-0066",2025-04-03,"Preventive","Scheduled Service (PM)",148450,497.37,1,2025-04-01
+"WO-00558","VH-0085",2025-04-03,"Preventive","Scheduled Service (PM)",131922,454.63,0.5,2025-04-01
+"WO-00559","VH-0095",2025-04-03,"Corrective","Brakes",88898,1113.73,2.3,2025-04-01
+"WO-00560","VH-0016",2025-04-04,"Preventive","Scheduled Service (PM)",138030,721.29,0.5,2025-04-01
+"WO-00561","VH-0031",2025-04-04,"Preventive","Scheduled Service (PM)",154025,751.1,0.5,2025-04-01
+"WO-00562","VH-0040",2025-04-04,"Preventive","Scheduled Service (PM)",93074,491.99,1,2025-04-01
+"WO-00563","VH-0080",2025-04-04,"Preventive","Scheduled Service (PM)",51887,338.8,0.5,2025-04-01
+"WO-00564","VH-0024",2025-04-05,"Preventive","Scheduled Service (PM)",90647,562.29,0.5,2025-04-01
+"WO-00565","VH-0029",2025-04-05,"Corrective","Suspension",47166,1107.08,2.9,2025-04-01
+"WO-00566","VH-0054",2025-04-06,"Preventive","Scheduled Service (PM)",350063,508.89,0.5,2025-04-01
+"WO-00567","VH-0064",2025-04-06,"Corrective","Suspension",60004,1512.72,3.5,2025-04-01
+"WO-00568","VH-0022",2025-04-08,"Preventive","Scheduled Service (PM)",51796,335.89,0.5,2025-04-01
+"WO-00569","VH-0025",2025-04-08,"Corrective","Brakes",44362,800.43,1.7,2025-04-01
+"WO-00570","VH-0002",2025-04-09,"Corrective","Aftertreatment / DPF",87540,1425.97,2.1,2025-04-01
+"WO-00571","VH-0005",2025-04-09,"Preventive","Scheduled Service (PM)",322244,430.26,1,2025-04-01
+"WO-00572","VH-0056",2025-04-09,"Corrective","Transmission",96352,2546.43,5.1,2025-04-01
+"WO-00573","VH-0071",2025-04-09,"Preventive","Scheduled Service (PM)",271685,700.78,1,2025-04-01
+"WO-00574","VH-0007",2025-04-10,"Corrective","Brakes",51574,579.08,1.3,2025-04-01
+"WO-00575","VH-0026",2025-04-10,"Corrective","Brakes",154720,847.76,1.8,2025-04-01
+"WO-00576","VH-0076",2025-04-10,"Preventive","Scheduled Service (PM)",147361,709.18,0.5,2025-04-01
+"WO-00577","VH-0095",2025-04-11,"Preventive","Scheduled Service (PM)",90273,344.91,1,2025-04-01
+"WO-00578","VH-0073",2025-04-12,"Preventive","Scheduled Service (PM)",87053,599.3,0.5,2025-04-01
+"WO-00579","VH-0097",2025-04-12,"Preventive","Scheduled Service (PM)",51373,277.84,1,2025-04-01
+"WO-00580","VH-0100",2025-04-13,"Preventive","Scheduled Service (PM)",132716,843.68,0.5,2025-04-01
+"WO-00581","VH-0080",2025-04-14,"Corrective","Engine",54198,4101.98,7,2025-04-01
+"WO-00582","VH-0093",2025-04-15,"Corrective","Brakes",96034,629.61,1.4,2025-04-01
+"WO-00583","VH-0094",2025-04-16,"Preventive","Scheduled Service (PM)",233350,487.32,1,2025-04-01
+"WO-00584","VH-0023",2025-04-17,"Preventive","Scheduled Service (PM)",132719,438.63,1,2025-04-01
+"WO-00585","VH-0045",2025-04-17,"Preventive","Scheduled Service (PM)",158036,560.39,0.5,2025-04-01
+"WO-00586","VH-0006",2025-04-18,"Corrective","Brakes",49188,684.03,1.5,2025-04-01
+"WO-00587","VH-0009",2025-04-18,"Preventive","Scheduled Service (PM)",83813,492.43,1,2025-04-01
+"WO-00588","VH-0018",2025-04-18,"Preventive","Scheduled Service (PM)",51156,187.67,0.5,2025-04-01
+"WO-00589","VH-0057",2025-04-18,"Preventive","Scheduled Service (PM)",162869,548.11,0.5,2025-04-01
+"WO-00590","VH-0013",2025-04-19,"Preventive","Scheduled Service (PM)",280431,720.82,0.5,2025-04-01
+"WO-00591","VH-0029",2025-04-19,"Preventive","Scheduled Service (PM)",50291,274,1,2025-04-01
+"WO-00592","VH-0046",2025-04-19,"Corrective","Electrical",357208,803.48,2.2,2025-04-01
+"WO-00593","VH-0089",2025-04-19,"Preventive","Scheduled Service (PM)",18869,484.62,0.5,2025-04-01
+"WO-00594","VH-0011",2025-04-20,"Preventive","Scheduled Service (PM)",217821,405.39,1,2025-04-01
+"WO-00595","VH-0011",2025-04-20,"Corrective","Tires",218004,490.68,1.1,2025-04-01
+"WO-00596","VH-0086",2025-04-20,"Preventive","Scheduled Service (PM)",160068,909.63,1,2025-04-01
+"WO-00597","VH-0012",2025-04-21,"Preventive","Scheduled Service (PM)",277982,365.76,0.5,2025-04-01
+"WO-00598","VH-0032",2025-04-21,"Preventive","Scheduled Service (PM)",87561,406.85,0.5,2025-04-01
+"WO-00599","VH-0050",2025-04-22,"Corrective","Brakes",152478,1150.05,2.4,2025-04-01
+"WO-00600","VH-0046",2025-04-23,"Corrective","Aftertreatment / DPF",359976,1966.46,2.9,2025-04-01
+"WO-00601","VH-0077",2025-04-23,"Corrective","Brakes",182356,678.42,1.5,2025-04-01
+"WO-00602","VH-0099",2025-04-23,"Preventive","Scheduled Service (PM)",148409,595.61,0.5,2025-04-01
+"WO-00603","VH-0046",2025-04-24,"Preventive","Scheduled Service (PM)",357857,595.2,0.5,2025-04-01
+"WO-00604","VH-0066",2025-04-24,"Corrective","Engine",158286,3917.17,6.8,2025-04-01
+"WO-00605","VH-0072",2025-04-24,"Preventive","Scheduled Service (PM)",150690,829.42,0.5,2025-04-01
+"WO-00606","VH-0006",2025-04-25,"Preventive","Scheduled Service (PM)",49936,192.98,0.5,2025-04-01
+"WO-00607","VH-0027",2025-04-25,"Corrective","Transmission",95204,3985.04,6.8,2025-04-01
+"WO-00608","VH-0059",2025-04-25,"Preventive","Scheduled Service (PM)",149136,927.99,0.5,2025-04-01
+"WO-00609","VH-0082",2025-04-25,"Preventive","Scheduled Service (PM)",150007,693.29,1,2025-04-01
+"WO-00610","VH-0021",2025-04-26,"Preventive","Scheduled Service (PM)",157085,836.47,0.5,2025-04-01
+"WO-00611","VH-0038",2025-04-26,"Corrective","Electrical",163828,349.87,1.3,2025-04-01
+"WO-00612","VH-0091",2025-04-26,"Preventive","Scheduled Service (PM)",52846,302.65,1,2025-04-01
+"WO-00613","VH-0047",2025-04-27,"Preventive","Scheduled Service (PM)",107814,519.42,1,2025-04-01
+"WO-00614","VH-0079",2025-04-27,"Preventive","Scheduled Service (PM)",155046,437.66,0.5,2025-04-01
+"WO-00615","VH-0085",2025-04-27,"Corrective","Brakes",146752,909.14,1.9,2025-04-01
+"WO-00616","VH-0039",2025-04-28,"Preventive","Scheduled Service (PM)",202940,391.39,0.5,2025-04-01
+"WO-00617","VH-0014",2025-04-29,"Preventive","Scheduled Service (PM)",305362,774.72,0.5,2025-04-01
+"WO-00618","VH-0041",2025-04-29,"Preventive","Scheduled Service (PM)",148691,553.69,0.5,2025-04-01
+"WO-00619","VH-0055",2025-04-29,"Preventive","Scheduled Service (PM)",157289,646.65,0.5,2025-04-01
+"WO-00620","VH-0069",2025-04-29,"Preventive","Scheduled Service (PM)",145904,517.12,0.5,2025-04-01
+"WO-00621","VH-0099",2025-04-29,"Corrective","Aftertreatment / DPF",150590,2812.35,4,2025-04-01
+"WO-00622","VH-0063",2025-04-30,"Preventive","Scheduled Service (PM)",154134,835.65,0.5,2025-04-01
+"WO-00623","VH-0083",2025-04-30,"Preventive","Scheduled Service (PM)",145275,800.04,0.5,2025-04-01
+"WO-00624","VH-0029",2025-05-02,"Corrective","Brakes",55098,871.4,1.9,2025-05-01
+"WO-00625","VH-0054",2025-05-02,"Corrective","Tires",365456,681.72,1.3,2025-05-01
+"WO-00626","VH-0081",2025-05-03,"Preventive","Scheduled Service (PM)",149897,449.73,1,2025-05-01
+"WO-00627","VH-0038",2025-05-04,"Preventive","Scheduled Service (PM)",168229,747.49,0.5,2025-05-01
+"WO-00628","VH-0042",2025-05-04,"Preventive","Scheduled Service (PM)",118271,209.22,0.5,2025-05-01
+"WO-00629","VH-0050",2025-05-04,"Preventive","Scheduled Service (PM)",159030,605.42,0.5,2025-05-01
+"WO-00630","VH-0028",2025-05-05,"Preventive","Scheduled Service (PM)",163026,517.08,0.5,2025-05-01
+"WO-00631","VH-0031",2025-05-05,"Preventive","Scheduled Service (PM)",173278,667.12,1,2025-05-01
+"WO-00632","VH-0044",2025-05-05,"Preventive","Scheduled Service (PM)",158558,830.61,0.5,2025-05-01
+"WO-00633","VH-0011",2025-05-07,"Corrective","Brakes",223944,979.7,2.1,2025-05-01
+"WO-00634","VH-0008",2025-05-08,"Preventive","Scheduled Service (PM)",109387,329.37,1,2025-05-01
+"WO-00635","VH-0049",2025-05-08,"Preventive","Scheduled Service (PM)",257830,546.71,0.5,2025-05-01
+"WO-00636","VH-0100",2025-05-08,"Preventive","Scheduled Service (PM)",151676,622.13,1,2025-05-01
+"WO-00637","VH-0100",2025-05-08,"Corrective","Brakes",151852,825.1,1.8,2025-05-01
+"WO-00638","VH-0035",2025-05-09,"Preventive","Scheduled Service (PM)",151911,635.07,0.5,2025-05-01
+"WO-00639","VH-0061",2025-05-09,"Corrective","Cooling System",143764,1359.37,3.1,2025-05-01
+"WO-00640","VH-0085",2025-05-09,"Preventive","Scheduled Service (PM)",150767,835.4,1,2025-05-01
+"WO-00641","VH-0071",2025-05-10,"Corrective","Brakes",290344,694.57,1.5,2025-05-01
+"WO-00642","VH-0066",2025-05-11,"Preventive","Scheduled Service (PM)",167006,591.87,1,2025-05-01
+"WO-00643","VH-0023",2025-05-12,"Preventive","Scheduled Service (PM)",151679,731.78,0.5,2025-05-01
+"WO-00644","VH-0068",2025-05-12,"Preventive","Scheduled Service (PM)",163005,612.85,0.5,2025-05-01
+"WO-00645","VH-0081",2025-05-12,"Corrective","Electrical",158764,589.58,1.8,2025-05-01
+"WO-00646","VH-0086",2025-05-13,"Corrective","Engine",172146,1854.87,4.2,2025-05-01
+"WO-00647","VH-0025",2025-05-14,"Preventive","Scheduled Service (PM)",48474,285.8,1,2025-05-01
+"WO-00648","VH-0037",2025-05-14,"Preventive","Scheduled Service (PM)",150631,606.79,1,2025-05-01
+"WO-00649","VH-0026",2025-05-15,"Preventive","Scheduled Service (PM)",166742,589.55,0.5,2025-05-01
+"WO-00650","VH-0076",2025-05-15,"Preventive","Scheduled Service (PM)",168413,895.88,1,2025-05-01
+"WO-00651","VH-0010",2025-05-16,"Preventive","Scheduled Service (PM)",91446,615.96,0.5,2025-05-01
+"WO-00652","VH-0015",2025-05-16,"Preventive","Scheduled Service (PM)",92545,380.11,1,2025-05-01
+"WO-00653","VH-0016",2025-05-16,"Preventive","Scheduled Service (PM)",157749,844.32,0.5,2025-05-01
+"WO-00654","VH-0054",2025-05-16,"Preventive","Scheduled Service (PM)",369511,765.62,0.5,2025-05-01
+"WO-00655","VH-0071",2025-05-16,"Preventive","Scheduled Service (PM)",292584,651.23,0.5,2025-05-01
+"WO-00656","VH-0072",2025-05-16,"Corrective","Brakes",163236,1207.78,2.5,2025-05-01
+"WO-00657","VH-0073",2025-05-17,"Corrective","Aftertreatment / DPF",98314,2693.78,3.8,2025-05-01
+"WO-00658","VH-0093",2025-05-17,"Preventive","Scheduled Service (PM)",103295,526.35,1,2025-05-01
+"WO-00659","VH-0005",2025-05-18,"Preventive","Scheduled Service (PM)",341199,762.58,1,2025-05-01
+"WO-00660","VH-0026",2025-05-18,"Corrective","Engine",170618,5436.57,8.7,2025-05-01
+"WO-00661","VH-0072",2025-05-20,"Corrective","Tires",164298,610.69,1.2,2025-05-01
+"WO-00662","VH-0087",2025-05-20,"Preventive","Scheduled Service (PM)",49238,202.32,1,2025-05-01
+"WO-00663","VH-0045",2025-05-22,"Preventive","Scheduled Service (PM)",177791,700.59,0.5,2025-05-01
+"WO-00664","VH-0082",2025-05-22,"Preventive","Scheduled Service (PM)",168758,866.5,1,2025-05-01
+"WO-00665","VH-0089",2025-05-22,"Preventive","Scheduled Service (PM)",37738,737.54,0.5,2025-05-01
+"WO-00666","VH-0059",2025-05-23,"Preventive","Scheduled Service (PM)",167778,701,1,2025-05-01
+"WO-00667","VH-0071",2025-05-23,"Corrective","Aftertreatment / DPF",297232,2254.17,3.2,2025-05-01
+"WO-00668","VH-0057",2025-05-26,"Preventive","Scheduled Service (PM)",183227,689.22,0.5,2025-05-01
+"WO-00669","VH-0055",2025-05-27,"Preventive","Scheduled Service (PM)",176950,712.78,1,2025-05-01
+"WO-00670","VH-0074",2025-05-27,"Corrective","Aftertreatment / DPF",64130,2010.32,2.9,2025-05-01
+"WO-00671","VH-0021",2025-05-28,"Preventive","Scheduled Service (PM)",176721,484.78,1,2025-05-01
+"WO-00672","VH-0046",2025-05-28,"Preventive","Scheduled Service (PM)",377738,695.46,1,2025-05-01
+"WO-00673","VH-0086",2025-05-28,"Preventive","Scheduled Service (PM)",180076,586.97,1,2025-05-01
+"WO-00674","VH-0017",2025-05-29,"Corrective","Tires",61560,698.22,1.3,2025-05-01
+"WO-00675","VH-0094",2025-05-29,"Corrective","Tires",251920,633.63,1.3,2025-05-01
+"WO-00676","VH-0061",2025-05-30,"Preventive","Scheduled Service (PM)",149526,271.85,0.5,2025-05-01
+"WO-00677","VH-0081",2025-05-30,"Preventive","Scheduled Service (PM)",168634,485.27,1,2025-05-01
+"WO-00678","VH-0098",2025-05-30,"Preventive","Scheduled Service (PM)",71155,235.85,1,2025-05-01
+"WO-00679","VH-0070",2025-06-01,"Preventive","Scheduled Service (PM)",110032,472.72,0.5,2025-06-01
+"WO-00680","VH-0027",2025-06-02,"Preventive","Scheduled Service (PM)",108000,479.65,0.5,2025-06-01
+"WO-00681","VH-0013",2025-06-03,"Preventive","Scheduled Service (PM)",302002,522.96,1,2025-06-01
+"WO-00682","VH-0031",2025-06-03,"Corrective","Brakes",190714,724.89,1.6,2025-06-01
+"WO-00683","VH-0056",2025-06-03,"Preventive","Scheduled Service (PM)",114735,354.17,0.5,2025-06-01
+"WO-00684","VH-0099",2025-06-03,"Preventive","Scheduled Service (PM)",169611,449.77,0.5,2025-06-01
+"WO-00685","VH-0069",2025-06-05,"Preventive","Scheduled Service (PM)",166747,597.84,1,2025-06-01
+"WO-00686","VH-0083",2025-06-05,"Preventive","Scheduled Service (PM)",166029,916.64,0.5,2025-06-01
+"WO-00687","VH-0050",2025-06-06,"Preventive","Scheduled Service (PM)",178909,618.99,0.5,2025-06-01
+"WO-00688","VH-0072",2025-06-06,"Preventive","Scheduled Service (PM)",172217,826.33,0.5,2025-06-01
+"WO-00689","VH-0048",2025-06-07,"Preventive","Scheduled Service (PM)",70124,180.39,1,2025-06-01
+"WO-00690","VH-0066",2025-06-07,"Preventive","Scheduled Service (PM)",185562,863.37,0.5,2025-06-01
+"WO-00691","VH-0026",2025-06-08,"Corrective","Aftertreatment / DPF",182560,1589.26,2.4,2025-06-01
+"WO-00692","VH-0063",2025-06-08,"Preventive","Scheduled Service (PM)",173400,835.57,0.5,2025-06-01
+"WO-00693","VH-0064",2025-06-09,"Preventive","Scheduled Service (PM)",73137,276.1,1,2025-06-01
+"WO-00694","VH-0068",2025-06-09,"Corrective","Brakes",178274,1065.49,2.2,2025-06-01
+"WO-00695","VH-0077",2025-06-09,"Preventive","Scheduled Service (PM)",195934,458.82,0.5,2025-06-01
+"WO-00696","VH-0094",2025-06-09,"Preventive","Scheduled Service (PM)",254564,571.83,1,2025-06-01
+"WO-00697","VH-0099",2025-06-09,"Corrective","Tires",173848,635.25,1.3,2025-06-01
+"WO-00698","VH-0024",2025-06-10,"Preventive","Scheduled Service (PM)",113309,333.42,0.5,2025-06-01
+"WO-00699","VH-0041",2025-06-10,"Preventive","Scheduled Service (PM)",169933,653.07,0.5,2025-06-01
+"WO-00700","VH-0085",2025-06-10,"Preventive","Scheduled Service (PM)",169613,607.41,1,2025-06-01
+"WO-00701","VH-0002",2025-06-11,"Preventive","Scheduled Service (PM)",101624,366.88,1,2025-06-01
+"WO-00702","VH-0009",2025-06-11,"Preventive","Scheduled Service (PM)",104766,524.84,0.5,2025-06-01
+"WO-00703","VH-0014",2025-06-11,"Preventive","Scheduled Service (PM)",325719,745.3,1,2025-06-01
+"WO-00704","VH-0063",2025-06-11,"Corrective","Tires",177632,825.96,1.5,2025-06-01
+"WO-00705","VH-0099",2025-06-11,"Corrective","Brakes",174636,626.85,1.4,2025-06-01
+"WO-00706","VH-0044",2025-06-12,"Preventive","Scheduled Service (PM)",178378,685.63,0.5,2025-06-01
+"WO-00707","VH-0062",2025-06-12,"Preventive","Scheduled Service (PM)",128437,222.47,0.5,2025-06-01
+"WO-00708","VH-0086",2025-06-12,"Corrective","Tires",189288,534.89,1.2,2025-06-01
+"WO-00709","VH-0028",2025-06-13,"Preventive","Scheduled Service (PM)",183404,568.72,1,2025-06-01
+"WO-00710","VH-0035",2025-06-13,"Preventive","Scheduled Service (PM)",170900,931.85,1,2025-06-01
+"WO-00711","VH-0074",2025-06-13,"Corrective","Tires",71018,892.11,1.5,2025-06-01
+"WO-00712","VH-0031",2025-06-15,"Preventive","Scheduled Service (PM)",192531,637.83,0.5,2025-06-01
+"WO-00713","VH-0049",2025-06-15,"Preventive","Scheduled Service (PM)",277663,498.69,1,2025-06-01
+"WO-00714","VH-0058",2025-06-16,"Corrective","Suspension",67500,1617.47,3.6,2025-06-01
+"WO-00715","VH-0068",2025-06-16,"Preventive","Scheduled Service (PM)",183381,703.73,1,2025-06-01
+"WO-00716","VH-0079",2025-06-16,"Preventive","Scheduled Service (PM)",174427,818.63,1,2025-06-01
+"WO-00717","VH-0038",2025-06-17,"Preventive","Scheduled Service (PM)",189258,478.98,1,2025-06-01
+"WO-00718","VH-0016",2025-06-18,"Preventive","Scheduled Service (PM)",177467,684.23,1,2025-06-01
+"WO-00719","VH-0030",2025-06-18,"Preventive","Scheduled Service (PM)",193545,293.98,0.5,2025-06-01
+"WO-00720","VH-0045",2025-06-18,"Preventive","Scheduled Service (PM)",197546,754.71,0.5,2025-06-01
+"WO-00721","VH-0008",2025-06-19,"Corrective","Electrical",121620,841.09,2.3,2025-06-01
+"WO-00722","VH-0026",2025-06-19,"Preventive","Scheduled Service (PM)",185268,491.79,0.5,2025-06-01
+"WO-00723","VH-0032",2025-06-19,"Preventive","Scheduled Service (PM)",109451,300.07,1,2025-06-01
+"WO-00724","VH-0040",2025-06-19,"Preventive","Scheduled Service (PM)",116342,595.83,1,2025-06-01
+"WO-00725","VH-0076",2025-06-19,"Preventive","Scheduled Service (PM)",189464,633.5,0.5,2025-06-01
+"WO-00726","VH-0089",2025-06-19,"Corrective","Electrical",51726,313.31,1.2,2025-06-01
+"WO-00727","VH-0011",2025-06-20,"Preventive","Scheduled Service (PM)",239603,533.14,1,2025-06-01
+"WO-00728","VH-0054",2025-06-20,"Preventive","Scheduled Service (PM)",388959,689.54,1,2025-06-01
+"WO-00729","VH-0072",2025-06-20,"Corrective","Tires",177496,925.55,1.5,2025-06-01
+"WO-00730","VH-0100",2025-06-20,"Preventive","Scheduled Service (PM)",170635,840.94,0.5,2025-06-01
+"WO-00731","VH-0028",2025-06-22,"Corrective","Suspension",190752,1193.37,3,2025-06-01
+"WO-00732","VH-0049",2025-06-22,"Corrective","Suspension",283564,1643.74,3.7,2025-06-01
+"WO-00733","VH-0037",2025-06-23,"Preventive","Scheduled Service (PM)",172150,732.51,1,2025-06-01
+"WO-00734","VH-0082",2025-06-23,"Preventive","Scheduled Service (PM)",187509,440.78,1,2025-06-01
+"WO-00735","VH-0012",2025-06-24,"Corrective","Suspension",296646,1556.6,3.5,2025-06-01
+"WO-00736","VH-0071",2025-06-24,"Preventive","Scheduled Service (PM)",313483,488.52,1,2025-06-01
+"WO-00737","VH-0080",2025-06-24,"Corrective","Electrical",70572,472.32,1.5,2025-06-01
+"WO-00738","VH-0012",2025-06-25,"Corrective","Tires",296968,1194.51,1.8,2025-06-01
+"WO-00739","VH-0087",2025-06-25,"Corrective","Tires",55616,732.31,1.4,2025-06-01
+"WO-00740","VH-0095",2025-06-25,"Preventive","Scheduled Service (PM)",112841,425.06,1,2025-06-01
+"WO-00741","VH-0041",2025-06-27,"Corrective","Brakes",178928,608.71,1.4,2025-06-01
+"WO-00742","VH-0073",2025-06-27,"Preventive","Scheduled Service (PM)",108816,344.48,1,2025-06-01
+"WO-00743","VH-0005",2025-06-28,"Preventive","Scheduled Service (PM)",360155,486.23,0.5,2025-06-01
+"WO-00744","VH-0045",2025-06-28,"Corrective","Tires",206154,604.2,1.2,2025-06-01
+"WO-00745","VH-0059",2025-06-28,"Preventive","Scheduled Service (PM)",186420,773.49,0.5,2025-06-01
+"WO-00746","VH-0074",2025-06-28,"Corrective","Transmission",75352,4305.55,7.1,2025-06-01
+"WO-00747","VH-0082",2025-06-28,"Corrective","Suspension",192094,984.73,2.7,2025-06-01
+"WO-00748","VH-0004",2025-06-30,"Corrective","Electrical",56950,425.3,1.5,2025-06-01
+"WO-00749","VH-0047",2025-06-30,"Preventive","Scheduled Service (PM)",129377,543.06,0.5,2025-06-01
+"WO-00750","VH-0081",2025-06-30,"Preventive","Scheduled Service (PM)",187371,915.76,0.5,2025-06-01
+"WO-00751","VH-0058",2025-07-02,"Preventive","Scheduled Service (PM)",69459,260.24,1,2025-07-01
+"WO-00752","VH-0033",2025-07-03,"Corrective","Electrical",68516,347.94,1.3,2025-07-01
+"WO-00753","VH-0052",2025-07-03,"Corrective","Tires",68942,935.96,1.6,2025-07-01
+"WO-00754","VH-0089",2025-07-03,"Preventive","Scheduled Service (PM)",56606,620.96,0.5,2025-07-01
+"WO-00755","VH-0021",2025-07-04,"Preventive","Scheduled Service (PM)",196357,428.4,0.5,2025-07-01
+"WO-00756","VH-0044",2025-07-04,"Corrective","Transmission",194888,5511.82,8.5,2025-07-01
+"WO-00757","VH-0093",2025-07-04,"Preventive","Scheduled Service (PM)",123953,311.37,1,2025-07-01
+"WO-00758","VH-0098",2025-07-04,"Corrective","Cooling System",77630,951.76,2.3,2025-07-01
+"WO-00759","VH-0012",2025-07-05,"Preventive","Scheduled Service (PM)",299365,305.42,1,2025-07-01
+"WO-00760","VH-0036",2025-07-05,"Preventive","Scheduled Service (PM)",70377,231.66,0.5,2025-07-01
+"WO-00761","VH-0055",2025-07-05,"Preventive","Scheduled Service (PM)",196611,715.11,0.5,2025-07-01
+"WO-00762","VH-0057",2025-07-05,"Preventive","Scheduled Service (PM)",203586,885.23,0.5,2025-07-01
+"WO-00763","VH-0086",2025-07-06,"Preventive","Scheduled Service (PM)",200085,926.39,0.5,2025-07-01
+"WO-00764","VH-0083",2025-07-07,"Preventive","Scheduled Service (PM)",186782,844.44,0.5,2025-07-01
+"WO-00765","VH-0012",2025-07-08,"Corrective","Brakes",301458,1077.45,2.2,2025-07-01
+"WO-00766","VH-0057",2025-07-08,"Corrective","Cooling System",206524,940.99,2.3,2025-07-01
+"WO-00767","VH-0039",2025-07-10,"Preventive","Scheduled Service (PM)",223234,305.31,1,2025-07-01
+"WO-00768","VH-0074",2025-07-10,"Preventive","Scheduled Service (PM)",77146,211.25,1,2025-07-01
+"WO-00769","VH-0013",2025-07-11,"Preventive","Scheduled Service (PM)",323574,668.15,0.5,2025-07-01
+"WO-00770","VH-0084",2025-07-11,"Preventive","Scheduled Service (PM)",278488,212.21,1,2025-07-01
+"WO-00771","VH-0096",2025-07-11,"Preventive","Scheduled Service (PM)",72802,283.98,1,2025-07-01
+"WO-00772","VH-0050",2025-07-13,"Preventive","Scheduled Service (PM)",198788,560.22,0.5,2025-07-01
+"WO-00773","VH-0066",2025-07-13,"Preventive","Scheduled Service (PM)",204118,745.27,0.5,2025-07-01
+"WO-00774","VH-0069",2025-07-13,"Preventive","Scheduled Service (PM)",187591,835.64,1,2025-07-01
+"WO-00775","VH-0015",2025-07-14,"Preventive","Scheduled Service (PM)",115682,451.72,0.5,2025-07-01
+"WO-00776","VH-0044",2025-07-15,"Preventive","Scheduled Service (PM)",198198,772.81,0.5,2025-07-01
+"WO-00777","VH-0063",2025-07-15,"Preventive","Scheduled Service (PM)",192667,751.86,1,2025-07-01
+"WO-00778","VH-0017",2025-07-16,"Preventive","Scheduled Service (PM)",73604,199.13,0.5,2025-07-01
+"WO-00779","VH-0038",2025-07-16,"Corrective","Brakes",207430,715.71,1.6,2025-07-01
+"WO-00780","VH-0072",2025-07-16,"Preventive","Scheduled Service (PM)",193745,697.52,0.5,2025-07-01
+"WO-00781","VH-0099",2025-07-16,"Preventive","Scheduled Service (PM)",190812,760.13,1,2025-07-01
+"WO-00782","VH-0008",2025-07-18,"Preventive","Scheduled Service (PM)",131264,585.47,1,2025-07-01
+"WO-00783","VH-0027",2025-07-18,"Preventive","Scheduled Service (PM)",129600,321.69,1,2025-07-01
+"WO-00784","VH-0035",2025-07-18,"Preventive","Scheduled Service (PM)",189889,729.72,0.5,2025-07-01
+"WO-00785","VH-0079",2025-07-18,"Preventive","Scheduled Service (PM)",193808,655.75,0.5,2025-07-01
+"WO-00786","VH-0028",2025-07-19,"Preventive","Scheduled Service (PM)",203782,603.4,1,2025-07-01
+"WO-00787","VH-0033",2025-07-19,"Preventive","Scheduled Service (PM)",72373,275.77,0.5,2025-07-01
+"WO-00788","VH-0045",2025-07-19,"Preventive","Scheduled Service (PM)",217300,703.25,1,2025-07-01
+"WO-00789","VH-0063",2025-07-19,"Corrective","Tires",194724,384.95,1,2025-07-01
+"WO-00790","VH-0085",2025-07-19,"Preventive","Scheduled Service (PM)",188459,435.5,0.5,2025-07-01
+"WO-00791","VH-0025",2025-07-20,"Corrective","Tires",58408,745.57,1.4,2025-07-01
+"WO-00792","VH-0031",2025-07-20,"Preventive","Scheduled Service (PM)",211784,793.17,0.5,2025-07-01
+"WO-00793","VH-0070",2025-07-21,"Corrective","Cooling System",129576,605.34,1.6,2025-07-01
+"WO-00794","VH-0046",2025-07-22,"Preventive","Scheduled Service (PM)",397619,642.54,1,2025-07-01
+"WO-00795","VH-0049",2025-07-22,"Preventive","Scheduled Service (PM)",297496,807.1,0.5,2025-07-01
+"WO-00796","VH-0094",2025-07-22,"Corrective","Brakes",267290,1158.41,2.4,2025-07-01
+"WO-00797","VH-0012",2025-07-23,"Corrective","Cooling System",306028,1293.83,3,2025-07-01
+"WO-00798","VH-0038",2025-07-23,"Preventive","Scheduled Service (PM)",210287,722.12,0.5,2025-07-01
+"WO-00799","VH-0080",2025-07-23,"Preventive","Scheduled Service (PM)",77830,207.26,1,2025-07-01
+"WO-00800","VH-0026",2025-07-24,"Preventive","Scheduled Service (PM)",203795,560.6,0.5,2025-07-01
+"WO-00801","VH-0053",2025-07-25,"Preventive","Scheduled Service (PM)",70407,225.95,0.5,2025-07-01
+"WO-00802","VH-0055",2025-07-25,"Corrective","Tires",208614,518.57,1.2,2025-07-01
+"WO-00803","VH-0068",2025-07-25,"Preventive","Scheduled Service (PM)",203757,454.45,1,2025-07-01
+"WO-00804","VH-0026",2025-07-26,"Corrective","Aftertreatment / DPF",205962,1670.11,2.5,2025-07-01
+"WO-00805","VH-0041",2025-07-26,"Preventive","Scheduled Service (PM)",191175,870.51,1,2025-07-01
+"WO-00806","VH-0046",2025-07-26,"Corrective","Suspension",400290,1920.17,4.1,2025-07-01
+"WO-00807","VH-0048",2025-07-27,"Corrective","Aftertreatment / DPF",78690,1672.66,2.5,2025-07-01
+"WO-00808","VH-0092",2025-07-27,"Corrective","Body / Cab",179934,858.71,2,2025-07-01
+"WO-00809","VH-0009",2025-07-28,"Corrective","Brakes",118676,718.31,1.6,2025-07-01
+"WO-00810","VH-0074",2025-07-28,"Corrective","Body / Cab",78784,634.21,1.7,2025-07-01
+"WO-00811","VH-0005",2025-07-29,"Corrective","Engine",375994,1634.64,3.9,2025-07-01
+"WO-00812","VH-0010",2025-07-29,"Preventive","Scheduled Service (PM)",114307,569.61,0.5,2025-07-01
+"WO-00813","VH-0014",2025-07-29,"Preventive","Scheduled Service (PM)",346077,530.13,1,2025-07-01
+"WO-00814","VH-0054",2025-07-29,"Preventive","Scheduled Service (PM)",408407,936.92,0.5,2025-07-01
+"WO-00815","VH-0070",2025-07-29,"Preventive","Scheduled Service (PM)",132039,445.5,0.5,2025-07-01
+"WO-00816","VH-0091",2025-07-29,"Corrective","Aftertreatment / DPF",70352,1502.17,2.2,2025-07-01
+"WO-00817","VH-0022",2025-07-30,"Preventive","Scheduled Service (PM)",77695,276.07,0.5,2025-07-01
+"WO-00818","VH-0099",2025-07-30,"Corrective","Suspension",199210,698.22,2.3,2025-07-01
+"WO-00819","VH-0007",2025-07-31,"Preventive","Scheduled Service (PM)",72212,322.98,0.5,2025-07-01
+"WO-00820","VH-0056",2025-07-31,"Preventive","Scheduled Service (PM)",137682,332.08,1,2025-07-01
+"WO-00821","VH-0082",2025-07-31,"Preventive","Scheduled Service (PM)",206260,688.85,0.5,2025-07-01
+"WO-00822","VH-0016",2025-08-01,"Preventive","Scheduled Service (PM)",197186,847.84,1,2025-08-01
+"WO-00823","VH-0016",2025-08-02,"Corrective","Engine",200278,4315,7.3,2025-08-01
+"WO-00824","VH-0059",2025-08-02,"Preventive","Scheduled Service (PM)",205062,846.25,0.5,2025-08-01
+"WO-00825","VH-0008",2025-08-03,"Corrective","Cooling System",133710,1073.8,2.5,2025-08-01
+"WO-00826","VH-0060",2025-08-03,"Preventive","Scheduled Service (PM)",70334,222.69,1,2025-08-01
+"WO-00827","VH-0082",2025-08-03,"Corrective","Aftertreatment / DPF",211894,1413.74,2.1,2025-08-01
+"WO-00828","VH-0081",2025-08-05,"Preventive","Scheduled Service (PM)",206108,522.62,1,2025-08-01
+"WO-00829","VH-0024",2025-08-06,"Preventive","Scheduled Service (PM)",135971,367.48,0.5,2025-08-01
+"WO-00830","VH-0100",2025-08-06,"Preventive","Scheduled Service (PM)",189595,709.06,1,2025-08-01
+"WO-00831","VH-0005",2025-08-07,"Preventive","Scheduled Service (PM)",379110,895.79,0.5,2025-08-01
+"WO-00832","VH-0044",2025-08-07,"Corrective","Tires",216972,846.25,1.5,2025-08-01
+"WO-00833","VH-0077",2025-08-07,"Preventive","Scheduled Service (PM)",217705,337.02,0.5,2025-08-01
+"WO-00834","VH-0071",2025-08-09,"Corrective","Brakes",331242,643.5,1.4,2025-08-01
+"WO-00835","VH-0021",2025-08-10,"Preventive","Scheduled Service (PM)",215992,657.95,0.5,2025-08-01
+"WO-00836","VH-0044",2025-08-10,"Preventive","Scheduled Service (PM)",218018,938.24,0.5,2025-08-01
+"WO-00837","VH-0049",2025-08-11,"Corrective","Cooling System",310182,1571.04,3.5,2025-08-01
+"WO-00838","VH-0041",2025-08-12,"Corrective","Engine",206272,3984.11,6.9,2025-08-01
+"WO-00839","VH-0052",2025-08-12,"Preventive","Scheduled Service (PM)",75158,191.94,1,2025-08-01
+"WO-00840","VH-0055",2025-08-12,"Preventive","Scheduled Service (PM)",216272,661.77,0.5,2025-08-01
+"WO-00841","VH-0069",2025-08-12,"Preventive","Scheduled Service (PM)",208434,433.73,0.5,2025-08-01
+"WO-00842","VH-0083",2025-08-13,"Corrective","Engine",204638,1468.95,3.7,2025-08-01
+"WO-00843","VH-0002",2025-08-14,"Preventive","Scheduled Service (PM)",121949,556.57,0.5,2025-08-01
+"WO-00844","VH-0051",2025-08-14,"Preventive","Scheduled Service (PM)",69486,224.82,0.5,2025-08-01
+"WO-00845","VH-0051",2025-08-14,"Corrective","Tires",70468,658.35,1.3,2025-08-01
+"WO-00846","VH-0085",2025-08-14,"Corrective","Cooling System",205386,528.53,1.5,2025-08-01
+"WO-00847","VH-0025",2025-08-15,"Corrective","Body / Cab",61934,1172.68,2.6,2025-08-01
+"WO-00848","VH-0037",2025-08-15,"Preventive","Scheduled Service (PM)",193668,466.67,1,2025-08-01
+"WO-00849","VH-0074",2025-08-15,"Corrective","Tires",82006,1136.76,1.7,2025-08-01
+"WO-00850","VH-0079",2025-08-15,"Preventive","Scheduled Service (PM)",213188,877.38,0.5,2025-08-01
+"WO-00851","VH-0005",2025-08-16,"Corrective","Cooling System",385490,1265.51,2.9,2025-08-01
+"WO-00852","VH-0083",2025-08-16,"Preventive","Scheduled Service (PM)",207536,433.85,0.5,2025-08-01
+"WO-00853","VH-0089",2025-08-16,"Preventive","Scheduled Service (PM)",75475,427.63,0.5,2025-08-01
+"WO-00854","VH-0071",2025-08-17,"Preventive","Scheduled Service (PM)",334382,876.73,0.5,2025-08-01
+"WO-00855","VH-0071",2025-08-17,"Corrective","Aftertreatment / DPF",335056,2187.08,3.1,2025-08-01
+"WO-00856","VH-0075",2025-08-17,"Preventive","Scheduled Service (PM)",72920,182.22,0.5,2025-08-01
+"WO-00857","VH-0068",2025-08-19,"Corrective","Cooling System",217448,547.97,1.5,2025-08-01
+"WO-00858","VH-0085",2025-08-19,"Preventive","Scheduled Service (PM)",207305,514.25,0.5,2025-08-01
+"WO-00859","VH-0011",2025-08-20,"Preventive","Scheduled Service (PM)",261385,356.16,0.5,2025-08-01
+"WO-00860","VH-0081",2025-08-20,"Corrective","Aftertreatment / DPF",214888,2316.99,3.3,2025-08-01
+"WO-00861","VH-0099",2025-08-20,"Preventive","Scheduled Service (PM)",212013,468.89,0.5,2025-08-01
+"WO-00862","VH-0100",2025-08-20,"Corrective","Cooling System",198896,550.9,1.5,2025-08-01
+"WO-00863","VH-0003",2025-08-21,"Preventive","Scheduled Service (PM)",204536,447.22,0.5,2025-08-01
+"WO-00864","VH-0057",2025-08-21,"Preventive","Scheduled Service (PM)",223945,864.87,0.5,2025-08-01
+"WO-00865","VH-0086",2025-08-21,"Preventive","Scheduled Service (PM)",220093,829.72,0.5,2025-08-01
+"WO-00866","VH-0039",2025-08-22,"Corrective","Tires",242602,711.21,1.3,2025-08-01
+"WO-00867","VH-0054",2025-08-22,"Corrective","Electrical",420422,529.22,1.7,2025-08-01
+"WO-00868","VH-0074",2025-08-22,"Corrective","Transmission",82940,6106.23,9.2,2025-08-01
+"WO-00869","VH-0031",2025-08-23,"Preventive","Scheduled Service (PM)",231037,631.73,1,2025-08-01
+"WO-00870","VH-0040",2025-08-23,"Preventive","Scheduled Service (PM)",139611,402.56,0.5,2025-08-01
+"WO-00871","VH-0063",2025-08-23,"Preventive","Scheduled Service (PM)",211934,703.28,1,2025-08-01
+"WO-00872","VH-0082",2025-08-24,"Preventive","Scheduled Service (PM)",225010,801.92,0.5,2025-08-01
+"WO-00873","VH-0085",2025-08-24,"Corrective","Electrical",211018,754.64,2.1,2025-08-01
+"WO-00874","VH-0009",2025-08-25,"Preventive","Scheduled Service (PM)",125719,454.18,0.5,2025-08-01
+"WO-00875","VH-0049",2025-08-25,"Preventive","Scheduled Service (PM)",317329,746.79,1,2025-08-01
+"WO-00876","VH-0068",2025-08-25,"Corrective","Cooling System",221794,1097.87,2.6,2025-08-01
+"WO-00877","VH-0025",2025-08-26,"Corrective","Electrical",63240,561.11,1.7,2025-08-01
+"WO-00878","VH-0088",2025-08-26,"Preventive","Scheduled Service (PM)",19997,593.02,0.5,2025-08-01
+"WO-00879","VH-0032",2025-08-27,"Preventive","Scheduled Service (PM)",131342,462.64,0.5,2025-08-01
+"WO-00880","VH-0046",2025-08-27,"Preventive","Scheduled Service (PM)",417499,540.53,0.5,2025-08-01
+"WO-00881","VH-0076",2025-08-27,"Preventive","Scheduled Service (PM)",210516,693.55,1,2025-08-01
+"WO-00882","VH-0026",2025-08-28,"Preventive","Scheduled Service (PM)",222322,743.3,0.5,2025-08-01
+"WO-00883","VH-0039",2025-08-28,"Preventive","Scheduled Service (PM)",243528,465.43,0.5,2025-08-01
+"WO-00884","VH-0006",2025-08-29,"Preventive","Scheduled Service (PM)",74903,223.97,1,2025-08-01
+"WO-00885","VH-0013",2025-08-29,"Preventive","Scheduled Service (PM)",345146,446.9,1,2025-08-01
+"WO-00886","VH-0035",2025-08-29,"Corrective","Brakes",209708,779.84,1.7,2025-08-01
+"WO-00887","VH-0066",2025-08-29,"Preventive","Scheduled Service (PM)",222674,421.69,1,2025-08-01
+"WO-00888","VH-0085",2025-08-29,"Corrective","Body / Cab",212950,1278.1,2.8,2025-08-01
+"WO-00889","VH-0028",2025-08-30,"Preventive","Scheduled Service (PM)",224160,884.27,0.5,2025-08-01
+"WO-00890","VH-0035",2025-08-30,"Preventive","Scheduled Service (PM)",208877,605.37,1,2025-08-01
+"WO-00891","VH-0041",2025-08-30,"Preventive","Scheduled Service (PM)",212416,524.75,1,2025-08-01
+"WO-00892","VH-0038",2025-08-31,"Preventive","Scheduled Service (PM)",231315,799.18,1,2025-08-01
+"WO-00893","VH-0045",2025-08-31,"Preventive","Scheduled Service (PM)",237055,494.94,1,2025-08-01
+"WO-00894","VH-0059",2025-09-01,"Preventive","Scheduled Service (PM)",223704,539.79,0.5,2025-09-01
+"WO-00895","VH-0094",2025-09-01,"Preventive","Scheduled Service (PM)",275778,523.32,0.5,2025-09-01
+"WO-00896","VH-0047",2025-09-02,"Preventive","Scheduled Service (PM)",150940,594.12,0.5,2025-09-01
+"WO-00897","VH-0068",2025-09-02,"Preventive","Scheduled Service (PM)",224132,938.4,1,2025-09-01
+"WO-00898","VH-0092",2025-09-02,"Preventive","Scheduled Service (PM)",186906,258.55,0.5,2025-09-01
+"WO-00899","VH-0093",2025-09-02,"Preventive","Scheduled Service (PM)",144612,591.05,1,2025-09-01
+"WO-00900","VH-0075",2025-09-03,"Corrective","Brakes",75988,1140.09,2.3,2025-09-01
+"WO-00901","VH-0050",2025-09-04,"Preventive","Scheduled Service (PM)",218666,933.48,0.5,2025-09-01
+"WO-00902","VH-0064",2025-09-04,"Corrective","Cooling System",87640,633.71,1.7,2025-09-01
+"WO-00903","VH-0091",2025-09-04,"Preventive","Scheduled Service (PM)",79269,217.89,0.5,2025-09-01
+"WO-00904","VH-0100",2025-09-05,"Preventive","Scheduled Service (PM)",208554,550.33,0.5,2025-09-01
+"WO-00905","VH-0016",2025-09-06,"Preventive","Scheduled Service (PM)",216905,915.23,0.5,2025-09-01
+"WO-00906","VH-0058",2025-09-06,"Corrective","Transmission",79848,2850.04,5.4,2025-09-01
+"WO-00907","VH-0072",2025-09-06,"Preventive","Scheduled Service (PM)",215272,940.87,1,2025-09-01
+"WO-00908","VH-0074",2025-09-07,"Corrective","Brakes",84390,1067.56,2.2,2025-09-01
+"WO-00909","VH-0045",2025-09-09,"Corrective","Brakes",242092,656.77,1.5,2025-09-01
+"WO-00910","VH-0052",2025-09-09,"Corrective","Tires",81066,608.65,1.2,2025-09-01
+"WO-00911","VH-0077",2025-09-09,"Corrective","Suspension",229070,1468.95,3.4,2025-09-01
+"WO-00912","VH-0012",2025-09-10,"Preventive","Scheduled Service (PM)",320748,548.58,0.5,2025-09-01
+"WO-00913","VH-0018",2025-09-10,"Preventive","Scheduled Service (PM)",76734,324.04,1,2025-09-01
+"WO-00914","VH-0081",2025-09-10,"Corrective","Tires",226590,1007,1.6,2025-09-01
+"WO-00915","VH-0005",2025-09-11,"Preventive","Scheduled Service (PM)",398066,479.68,1,2025-09-01
+"WO-00916","VH-0015",2025-09-11,"Corrective","Brakes",136964,729.68,1.6,2025-09-01
+"WO-00917","VH-0081",2025-09-11,"Preventive","Scheduled Service (PM)",224845,612.95,1,2025-09-01
+"WO-00918","VH-0078",2025-09-12,"Preventive","Scheduled Service (PM)",26882,186.39,1,2025-09-01
+"WO-00919","VH-0054",2025-09-13,"Preventive","Scheduled Service (PM)",427855,615.88,0.5,2025-09-01
+"WO-00920","VH-0099",2025-09-13,"Corrective","Suspension",227228,1035.48,2.8,2025-09-01
+"WO-00921","VH-0014",2025-09-14,"Preventive","Scheduled Service (PM)",366434,488.1,1,2025-09-01
+"WO-00922","VH-0055",2025-09-14,"Preventive","Scheduled Service (PM)",235933,818.19,0.5,2025-09-01
+"WO-00923","VH-0013",2025-09-16,"Corrective","Body / Cab",356374,601.03,1.6,2025-09-01
+"WO-00924","VH-0021",2025-09-16,"Preventive","Scheduled Service (PM)",235628,424.7,1,2025-09-01
+"WO-00925","VH-0042",2025-09-16,"Preventive","Scheduled Service (PM)",141925,278.32,1,2025-09-01
+"WO-00926","VH-0095",2025-09-16,"Preventive","Scheduled Service (PM)",135410,531.94,0.5,2025-09-01
+"WO-00927","VH-0097",2025-09-16,"Preventive","Scheduled Service (PM)",77059,196.71,1,2025-09-01
+"WO-00928","VH-0031",2025-09-17,"Preventive","Scheduled Service (PM)",250290,680.24,0.5,2025-09-01
+"WO-00929","VH-0002",2025-09-18,"Corrective","Brakes",131490,958.99,2,2025-09-01
+"WO-00930","VH-0015",2025-09-20,"Preventive","Scheduled Service (PM)",138818,387.5,0.5,2025-09-01
+"WO-00931","VH-0044",2025-09-20,"Preventive","Scheduled Service (PM)",237838,713.46,0.5,2025-09-01
+"WO-00932","VH-0048",2025-09-20,"Corrective","Cooling System",90268,469.84,1.3,2025-09-01
+"WO-00933","VH-0037",2025-09-21,"Preventive","Scheduled Service (PM)",215187,425.87,0.5,2025-09-01
+"WO-00934","VH-0068",2025-09-23,"Corrective","Brakes",233096,1382.4,2.8,2025-09-01
+"WO-00935","VH-0029",2025-09-24,"Preventive","Scheduled Service (PM)",75437,341.28,1,2025-09-01
+"WO-00936","VH-0048",2025-09-24,"Corrective","Electrical",90590,719.57,2,2025-09-01
+"WO-00937","VH-0056",2025-09-24,"Corrective","Suspension",156018,1680.69,3.7,2025-09-01
+"WO-00938","VH-0086",2025-09-24,"Preventive","Scheduled Service (PM)",240102,428.6,0.5,2025-09-01
+"WO-00939","VH-0070",2025-09-25,"Corrective","Brakes",146780,755.67,1.6,2025-09-01
+"WO-00940","VH-0085",2025-09-25,"Preventive","Scheduled Service (PM)",226151,782.45,0.5,2025-09-01
+"WO-00941","VH-0010",2025-09-26,"Corrective","Tires",138192,477.98,1.1,2025-09-01
+"WO-00942","VH-0010",2025-09-27,"Preventive","Scheduled Service (PM)",137169,353.16,0.5,2025-09-01
+"WO-00943","VH-0026",2025-09-27,"Preventive","Scheduled Service (PM)",240849,553.8,0.5,2025-09-01
+"WO-00944","VH-0061",2025-09-27,"Preventive","Scheduled Service (PM)",174447,328.48,0.5,2025-09-01
+"WO-00945","VH-0076",2025-09-28,"Preventive","Scheduled Service (PM)",231567,544.13,1,2025-09-01
+"WO-00946","VH-0004",2025-09-29,"Preventive","Scheduled Service (PM)",71191,224.85,1,2025-09-01
+"WO-00947","VH-0071",2025-09-29,"Preventive","Scheduled Service (PM)",355281,497.17,0.5,2025-09-01
+"WO-00948","VH-0098",2025-09-29,"Preventive","Scheduled Service (PM)",94874,230.04,0.5,2025-09-01
+"WO-00949","VH-0099",2025-09-29,"Preventive","Scheduled Service (PM)",233215,785.89,0.5,2025-09-01
+"WO-00950","VH-0025",2025-09-30,"Preventive","Scheduled Service (PM)",72712,308.2,1,2025-09-01
+"WO-00951","VH-0069",2025-09-30,"Preventive","Scheduled Service (PM)",229278,423.09,0.5,2025-09-01
+"WO-00952","VH-0077",2025-09-30,"Corrective","Tires",235270,672.13,1.3,2025-09-01
+"WO-00953","VH-0089",2025-09-30,"Preventive","Scheduled Service (PM)",94344,684.92,0.5,2025-09-01
+"WO-00954","VH-0030",2025-10-01,"Preventive","Scheduled Service (PM)",217738,276.57,0.5,2025-10-01
+"WO-00955","VH-0031",2025-10-02,"Corrective","Tires",256830,549.13,1.2,2025-10-01
+"WO-00956","VH-0045",2025-10-03,"Preventive","Scheduled Service (PM)",256809,703.5,1,2025-10-01
+"WO-00957","VH-0049",2025-10-03,"Preventive","Scheduled Service (PM)",337162,718.62,1,2025-10-01
+"WO-00958","VH-0008",2025-10-04,"Preventive","Scheduled Service (PM)",153141,358.2,0.5,2025-10-01
+"WO-00959","VH-0052",2025-10-04,"Corrective","Electrical",88680,277.53,1.2,2025-10-01
+"WO-00960","VH-0057",2025-10-04,"Preventive","Scheduled Service (PM)",244303,806.55,0.5,2025-10-01
+"WO-00961","VH-0063",2025-10-04,"Preventive","Scheduled Service (PM)",231200,806.48,1,2025-10-01
+"WO-00962","VH-0046",2025-10-05,"Preventive","Scheduled Service (PM)",437380,606.82,1,2025-10-01
+"WO-00963","VH-0013",2025-10-06,"Preventive","Scheduled Service (PM)",366717,480.36,0.5,2025-10-01
+"WO-00964","VH-0027",2025-10-06,"Preventive","Scheduled Service (PM)",151200,326.88,0.5,2025-10-01
+"WO-00965","VH-0046",2025-10-06,"Corrective","Tires",438416,744.61,1.4,2025-10-01
+"WO-00966","VH-0082",2025-10-06,"Preventive","Scheduled Service (PM)",243761,574.17,0.5,2025-10-01
+"WO-00967","VH-0088",2025-10-06,"Preventive","Scheduled Service (PM)",39995,728.28,0.5,2025-10-01
+"WO-00968","VH-0064",2025-10-07,"Corrective","Aftertreatment / DPF",91540,2174.45,3.1,2025-10-01
+"WO-00969","VH-0028",2025-10-08,"Preventive","Scheduled Service (PM)",244539,887.48,1,2025-10-01
+"WO-00970","VH-0040",2025-10-08,"Corrective","Aftertreatment / DPF",150146,840.77,1.4,2025-10-01
+"WO-00971","VH-0083",2025-10-08,"Preventive","Scheduled Service (PM)",228290,547.11,0.5,2025-10-01
+"WO-00972","VH-0100",2025-10-08,"Preventive","Scheduled Service (PM)",227513,789.38,0.5,2025-10-01
+"WO-00973","VH-0041",2025-10-09,"Preventive","Scheduled Service (PM)",233658,938.4,1,2025-10-01
+"WO-00974","VH-0048",2025-10-09,"Preventive","Scheduled Service (PM)",93499,254.17,0.5,2025-10-01
+"WO-00975","VH-0079",2025-10-09,"Preventive","Scheduled Service (PM)",232569,841.83,0.5,2025-10-01
+"WO-00976","VH-0045",2025-10-11,"Corrective","Tires",260874,473.35,1.1,2025-10-01
+"WO-00977","VH-0056",2025-10-11,"Preventive","Scheduled Service (PM)",160630,446.59,1,2025-10-01
+"WO-00978","VH-0016",2025-10-12,"Preventive","Scheduled Service (PM)",236623,474.91,1,2025-10-01
+"WO-00979","VH-0035",2025-10-12,"Preventive","Scheduled Service (PM)",227866,555.27,1,2025-10-01
+"WO-00980","VH-0052",2025-10-13,"Corrective","Brakes",91338,805.59,1.7,2025-10-01
+"WO-00981","VH-0066",2025-10-13,"Preventive","Scheduled Service (PM)",241231,529.07,1,2025-10-01
+"WO-00982","VH-0050",2025-10-14,"Preventive","Scheduled Service (PM)",238545,769.83,0.5,2025-10-01
+"WO-00983","VH-0059",2025-10-14,"Preventive","Scheduled Service (PM)",242346,544.93,0.5,2025-10-01
+"WO-00984","VH-0087",2025-10-14,"Preventive","Scheduled Service (PM)",73857,227.87,0.5,2025-10-01
+"WO-00985","VH-0092",2025-10-14,"Corrective","Engine",198498,1756.47,4.1,2025-10-01
+"WO-00986","VH-0038",2025-10-15,"Preventive","Scheduled Service (PM)",252344,563.54,0.5,2025-10-01
+"WO-00987","VH-0005",2025-10-16,"Preventive","Scheduled Service (PM)",417021,908.15,0.5,2025-10-01
+"WO-00988","VH-0003",2025-10-17,"Corrective","Electrical",223742,482.11,1.6,2025-10-01
+"WO-00989","VH-0009",2025-10-17,"Preventive","Scheduled Service (PM)",146673,436.78,1,2025-10-01
+"WO-00990","VH-0054",2025-10-17,"Preventive","Scheduled Service (PM)",447303,800.73,1,2025-10-01
+"WO-00991","VH-0055",2025-10-17,"Preventive","Scheduled Service (PM)",255594,764.82,1,2025-10-01
+"WO-00992","VH-0077",2025-10-17,"Preventive","Scheduled Service (PM)",239475,375.54,0.5,2025-10-01
+"WO-00993","VH-0011",2025-10-18,"Preventive","Scheduled Service (PM)",283167,384.85,0.5,2025-10-01
+"WO-00994","VH-0055",2025-10-18,"Corrective","Aftertreatment / DPF",256176,1712.26,2.5,2025-10-01
+"WO-00995","VH-0058",2025-10-18,"Preventive","Scheduled Service (PM)",92612,289.93,1,2025-10-01
+"WO-00996","VH-0041",2025-10-19,"Corrective","Electrical",242840,355.46,1.3,2025-10-01
+"WO-00997","VH-0062",2025-10-19,"Preventive","Scheduled Service (PM)",154124,269.99,0.5,2025-10-01
+"WO-00998","VH-0068",2025-10-19,"Preventive","Scheduled Service (PM)",244508,544.44,0.5,2025-10-01
+"WO-00999","VH-0081",2025-10-19,"Preventive","Scheduled Service (PM)",243582,666.89,0.5,2025-10-01
+"WO-01000","VH-0003",2025-10-20,"Preventive","Scheduled Service (PM)",224990,431.63,0.5,2025-10-01
+"WO-01001","VH-0070",2025-10-20,"Preventive","Scheduled Service (PM)",154045,491.97,0.5,2025-10-01
+"WO-01002","VH-0014",2025-10-21,"Preventive","Scheduled Service (PM)",386791,919.3,0.5,2025-10-01
+"WO-01003","VH-0029",2025-10-21,"Corrective","Tires",85276,681.31,1.3,2025-10-01
+"WO-01004","VH-0032",2025-10-21,"Preventive","Scheduled Service (PM)",153232,583.73,1,2025-10-01
+"WO-01005","VH-0076",2025-10-21,"Corrective","Brakes",243608,750.36,1.6,2025-10-01
+"WO-01006","VH-0016",2025-10-22,"Corrective","Suspension",242882,1717.07,3.8,2025-10-01
+"WO-01007","VH-0002",2025-10-23,"Preventive","Scheduled Service (PM)",142274,536.11,0.5,2025-10-01
+"WO-01008","VH-0039",2025-10-23,"Corrective","Tires",260804,1082.59,1.7,2025-10-01
+"WO-01009","VH-0072",2025-10-23,"Preventive","Scheduled Service (PM)",236799,758.8,0.5,2025-10-01
+"WO-01010","VH-0021",2025-10-24,"Preventive","Scheduled Service (PM)",255264,672.13,1,2025-10-01
+"WO-01011","VH-0033",2025-10-26,"Preventive","Scheduled Service (PM)",96497,188.61,0.5,2025-10-01
+"WO-01012","VH-0071",2025-10-26,"Corrective","Tires",374100,729.34,1.4,2025-10-01
+"WO-01013","VH-0089",2025-10-26,"Preventive","Scheduled Service (PM)",113213,538.86,0.5,2025-10-01
+"WO-01014","VH-0012",2025-10-27,"Preventive","Scheduled Service (PM)",342131,452.85,1,2025-10-01
+"WO-01015","VH-0042",2025-10-27,"Corrective","Transmission",152160,4203.51,7,2025-10-01
+"WO-01016","VH-0066",2025-10-27,"Corrective","Cooling System",248140,995.36,2.4,2025-10-01
+"WO-01017","VH-0084",2025-10-27,"Preventive","Scheduled Service (PM)",301695,336.54,0.5,2025-10-01
+"WO-01018","VH-0006",2025-10-28,"Corrective","Cooling System",85558,416.72,1.2,2025-10-01
+"WO-01019","VH-0044",2025-10-28,"Preventive","Scheduled Service (PM)",257657,545.86,1,2025-10-01
+"WO-01020","VH-0007",2025-10-29,"Corrective","Suspension",86082,704.8,2.4,2025-10-01
+"WO-01021","VH-0047",2025-10-29,"Preventive","Scheduled Service (PM)",172503,531.84,0.5,2025-10-01
+"WO-01022","VH-0085",2025-10-29,"Preventive","Scheduled Service (PM)",244997,815.66,0.5,2025-10-01
+"WO-01023","VH-0031",2025-10-30,"Preventive","Scheduled Service (PM)",269543,628.18,1,2025-10-01
+"WO-01024","VH-0026",2025-10-31,"Preventive","Scheduled Service (PM)",259376,911.51,0.5,2025-10-01
+"WO-01025","VH-0018",2025-11-01,"Corrective","Brakes",87180,798.51,1.7,2025-11-01
+"WO-01026","VH-0057",2025-11-01,"Corrective","Engine",258510,2127.56,4.5,2025-11-01
+"WO-01027","VH-0069",2025-11-01,"Preventive","Scheduled Service (PM)",250121,678.43,0.5,2025-11-01
+"WO-01028","VH-0017",2025-11-03,"Corrective","Body / Cab",96680,772.64,1.9,2025-11-01
+"WO-01029","VH-0037",2025-11-04,"Preventive","Scheduled Service (PM)",236706,529.09,0.5,2025-11-01
+"WO-01030","VH-0071",2025-11-04,"Preventive","Scheduled Service (PM)",376180,690.85,1,2025-11-01
+"WO-01031","VH-0082",2025-11-04,"Preventive","Scheduled Service (PM)",262512,489.99,0.5,2025-11-01
+"WO-01032","VH-0093",2025-11-04,"Corrective","Transmission",161950,3652.04,6.4,2025-11-01
+"WO-01033","VH-0012",2025-11-05,"Corrective","Body / Cab",347072,1379.28,2.9,2025-11-01
+"WO-01034","VH-0045",2025-11-05,"Corrective","Brakes",274312,1055.6,2.2,2025-11-01
+"WO-01035","VH-0064",2025-11-05,"Preventive","Scheduled Service (PM)",97516,269.6,0.5,2025-11-01
+"WO-01036","VH-0086",2025-11-05,"Preventive","Scheduled Service (PM)",260110,642.59,0.5,2025-11-01
+"WO-01037","VH-0094",2025-11-05,"Preventive","Scheduled Service (PM)",296991,534.31,1,2025-11-01
+"WO-01038","VH-0100",2025-11-05,"Preventive","Scheduled Service (PM)",246473,486.49,0.5,2025-11-01
+"WO-01039","VH-0040",2025-11-06,"Preventive","Scheduled Service (PM)",162879,458.38,0.5,2025-11-01
+"WO-01040","VH-0076",2025-11-06,"Preventive","Scheduled Service (PM)",252619,638.13,1,2025-11-01
+"WO-01041","VH-0083",2025-11-06,"Preventive","Scheduled Service (PM)",249043,667.9,1,2025-11-01
+"WO-01042","VH-0039",2025-11-07,"Preventive","Scheduled Service (PM)",263822,575.63,0.5,2025-11-01
+"WO-01043","VH-0075",2025-11-07,"Corrective","Tires",90152,1071.36,1.7,2025-11-01
+"WO-01044","VH-0079",2025-11-07,"Preventive","Scheduled Service (PM)",251950,560.54,0.5,2025-11-01
+"WO-01045","VH-0085",2025-11-07,"Corrective","Brakes",249920,1001.72,2.1,2025-11-01
+"WO-01046","VH-0088",2025-11-07,"Preventive","Scheduled Service (PM)",59992,468.67,1,2025-11-01
+"WO-01047","VH-0039",2025-11-08,"Corrective","Brakes",264782,683.53,1.5,2025-11-01
+"WO-01048","VH-0045",2025-11-08,"Preventive","Scheduled Service (PM)",276564,487.93,1,2025-11-01
+"WO-01049","VH-0045",2025-11-08,"Corrective","Aftertreatment / DPF",276952,1233.19,1.9,2025-11-01
+"WO-01050","VH-0046",2025-11-09,"Preventive","Scheduled Service (PM)",457261,573.34,1,2025-11-01
+"WO-01051","VH-0077",2025-11-09,"Corrective","Transmission",248776,3569.01,6.3,2025-11-01
+"WO-01052","VH-0035",2025-11-10,"Preventive","Scheduled Service (PM)",246855,850.24,0.5,2025-11-01
+"WO-01053","VH-0041",2025-11-10,"Preventive","Scheduled Service (PM)",254899,739.71,1,2025-11-01
+"WO-01054","VH-0059",2025-11-10,"Preventive","Scheduled Service (PM)",260988,550.21,0.5,2025-11-01
+"WO-01055","VH-0059",2025-11-10,"Corrective","Cooling System",263926,895.95,2.2,2025-11-01
+"WO-01056","VH-0064",2025-11-10,"Corrective","Transmission",98304,4861.69,7.8,2025-11-01
+"WO-01057","VH-0013",2025-11-11,"Preventive","Scheduled Service (PM)",388289,566.07,1,2025-11-01
+"WO-01058","VH-0049",2025-11-11,"Preventive","Scheduled Service (PM)",356995,666.83,1,2025-11-01
+"WO-01059","VH-0050",2025-11-11,"Preventive","Scheduled Service (PM)",258424,431.32,1,2025-11-01
+"WO-01060","VH-0057",2025-11-11,"Corrective","Brakes",266090,820.04,1.8,2025-11-01
+"WO-01061","VH-0099",2025-11-11,"Preventive","Scheduled Service (PM)",254416,903.43,0.5,2025-11-01
+"WO-01062","VH-0057",2025-11-12,"Preventive","Scheduled Service (PM)",264662,624.95,1,2025-11-01
+"WO-01063","VH-0080",2025-11-12,"Corrective","Cooling System",98104,904.56,2.2,2025-11-01
+"WO-01064","VH-0084",2025-11-12,"Corrective","Aftertreatment / DPF",305402,1507.55,2.3,2025-11-01
+"WO-01065","VH-0063",2025-11-13,"Corrective","Transmission",250182,2837.49,5.4,2025-11-01
+"WO-01066","VH-0093",2025-11-13,"Corrective","Cooling System",165250,955.42,2.3,2025-11-01
+"WO-01067","VH-0017",2025-11-14,"Preventive","Scheduled Service (PM)",98139,257.43,0.5,2025-11-01
+"WO-01068","VH-0037",2025-11-15,"Corrective","Suspension",248622,1775.29,3.8,2025-11-01
+"WO-01069","VH-0093",2025-11-15,"Preventive","Scheduled Service (PM)",165271,575.74,1,2025-11-01
+"WO-01070","VH-0016",2025-11-16,"Preventive","Scheduled Service (PM)",256342,800.64,0.5,2025-11-01
+"WO-01071","VH-0057",2025-11-17,"Corrective","Electrical",267152,802.65,2.2,2025-11-01
+"WO-01072","VH-0063",2025-11-17,"Preventive","Scheduled Service (PM)",250467,831.6,1,2025-11-01
+"WO-01073","VH-0035",2025-11-18,"Corrective","Brakes",251342,1052.15,2.2,2025-11-01
+"WO-01074","VH-0015",2025-11-19,"Preventive","Scheduled Service (PM)",161954,402.23,0.5,2025-11-01
+"WO-01075","VH-0057",2025-11-19,"Corrective","Engine",268214,3333.04,6,2025-11-01
+"WO-01076","VH-0066",2025-11-19,"Preventive","Scheduled Service (PM)",259787,513.63,1,2025-11-01
+"WO-01077","VH-0052",2025-11-20,"Preventive","Scheduled Service (PM)",100210,210.21,0.5,2025-11-01
+"WO-01078","VH-0061",2025-11-20,"Corrective","Suspension",186334,1140.39,3,2025-11-01
+"WO-01079","VH-0006",2025-11-21,"Corrective","Body / Cab",88730,1133.64,2.5,2025-11-01
+"WO-01080","VH-0053",2025-11-21,"Preventive","Scheduled Service (PM)",93876,205.29,0.5,2025-11-01
+"WO-01081","VH-0055",2025-11-21,"Preventive","Scheduled Service (PM)",275255,871.59,0.5,2025-11-01
+"WO-01082","VH-0059",2025-11-21,"Corrective","Brakes",272166,1177.47,2.4,2025-11-01
+"WO-01083","VH-0081",2025-11-21,"Preventive","Scheduled Service (PM)",262319,920.02,0.5,2025-11-01
+"WO-01084","VH-0005",2025-11-22,"Preventive","Scheduled Service (PM)",435977,873.98,1,2025-11-01
+"WO-01085","VH-0028",2025-11-22,"Preventive","Scheduled Service (PM)",264917,501.6,0.5,2025-11-01
+"WO-01086","VH-0038",2025-11-22,"Preventive","Scheduled Service (PM)",273373,777.56,0.5,2025-11-01
+"WO-01087","VH-0095",2025-11-22,"Preventive","Scheduled Service (PM)",157978,527.67,0.5,2025-11-01
+"WO-01088","VH-0062",2025-11-23,"Corrective","Tires",163682,848.66,1.5,2025-11-01
+"WO-01089","VH-0082",2025-11-23,"Corrective","Suspension",273648,1963.81,4.1,2025-11-01
+"WO-01090","VH-0021",2025-11-24,"Corrective","Tires",273138,461.58,1.1,2025-11-01
+"WO-01091","VH-0037",2025-11-24,"Corrective","Engine",252710,2818.73,5.4,2025-11-01
+"WO-01092","VH-0030",2025-11-25,"Corrective","Electrical",226806,535.49,1.7,2025-11-01
+"WO-01093","VH-0054",2025-11-25,"Preventive","Scheduled Service (PM)",466751,454.82,1,2025-11-01
+"WO-01094","VH-0077",2025-11-25,"Corrective","Cooling System",255214,1132.61,2.7,2025-11-01
+"WO-01095","VH-0016",2025-11-26,"Corrective","Engine",265124,3656.86,6.4,2025-11-01
+"WO-01096","VH-0040",2025-11-26,"Corrective","Engine",173258,5209.31,8.4,2025-11-01
+"WO-01097","VH-0096",2025-11-26,"Preventive","Scheduled Service (PM)",97069,338.05,0.5,2025-11-01
+"WO-01098","VH-0029",2025-11-27,"Corrective","Electrical",91570,566.13,1.7,2025-11-01
+"WO-01099","VH-0068",2025-11-27,"Preventive","Scheduled Service (PM)",264884,674.71,0.5,2025-11-01
+"WO-01100","VH-0093",2025-11-27,"Corrective","Transmission",168794,2213.37,4.7,2025-11-01
+"WO-01101","VH-0044",2025-11-28,"Corrective","Engine",277258,4584.64,7.6,2025-11-01
+"WO-01102","VH-0097",2025-11-28,"Corrective","Brakes",93794,876.23,1.9,2025-11-01
+"WO-01103","VH-0026",2025-11-29,"Preventive","Scheduled Service (PM)",277903,528.09,1,2025-11-01
+"WO-01104","VH-0089",2025-11-29,"Preventive","Scheduled Service (PM)",132081,652.96,1,2025-11-01
+"WO-01105","VH-0010",2025-11-30,"Preventive","Scheduled Service (PM)",160030,352.9,0.5,2025-11-01
+"WO-01106","VH-0021",2025-11-30,"Preventive","Scheduled Service (PM)",274899,762.26,0.5,2025-11-01
+"WO-01107","VH-0070",2025-12-01,"Preventive","Scheduled Service (PM)",176051,315.68,0.5,2025-12-01
+"WO-01108","VH-0027",2025-12-02,"Preventive","Scheduled Service (PM)",172801,321.89,1,2025-12-01
+"WO-01109","VH-0036",2025-12-02,"Preventive","Scheduled Service (PM)",93836,217.26,1,2025-12-01
+"WO-01110","VH-0044",2025-12-02,"Preventive","Scheduled Service (PM)",277477,776.74,0.5,2025-12-01
+"WO-01111","VH-0014",2025-12-03,"Preventive","Scheduled Service (PM)",407149,902.85,0.5,2025-12-01
+"WO-01112","VH-0064",2025-12-03,"Corrective","Electrical",102106,403.68,1.4,2025-12-01
+"WO-01113","VH-0072",2025-12-03,"Preventive","Scheduled Service (PM)",258326,731.01,0.5,2025-12-01
+"WO-01114","VH-0031",2025-12-04,"Preventive","Scheduled Service (PM)",288797,748.53,1,2025-12-01
+"WO-01115","VH-0072",2025-12-04,"Corrective","Tires",259446,1108.54,1.7,2025-12-01
+"WO-01116","VH-0100",2025-12-04,"Preventive","Scheduled Service (PM)",265432,682.69,1,2025-12-01
+"WO-01117","VH-0008",2025-12-05,"Preventive","Scheduled Service (PM)",175019,511.89,0.5,2025-12-01
+"WO-01118","VH-0056",2025-12-05,"Preventive","Scheduled Service (PM)",183577,519.04,0.5,2025-12-01
+"WO-01119","VH-0004",2025-12-06,"Corrective","Brakes",83322,1104.56,2.3,2025-12-01
+"WO-01120","VH-0085",2025-12-06,"Preventive","Scheduled Service (PM)",263843,444.95,0.5,2025-12-01
+"WO-01121","VH-0007",2025-12-07,"Preventive","Scheduled Service (PM)",96283,205.09,0.5,2025-12-01
+"WO-01122","VH-0026",2025-12-08,"Corrective","Suspension",282860,1756.63,3.8,2025-12-01
+"WO-01123","VH-0075",2025-12-08,"Preventive","Scheduled Service (PM)",97226,240.74,0.5,2025-12-01
+"WO-01124","VH-0082",2025-12-08,"Preventive","Scheduled Service (PM)",281263,872.45,1,2025-12-01
+"WO-01125","VH-0011",2025-12-09,"Preventive","Scheduled Service (PM)",304949,554.89,0.5,2025-12-01
+"WO-01126","VH-0026",2025-12-09,"Corrective","Suspension",284792,1118.88,2.9,2025-12-01
+"WO-01127","VH-0088",2025-12-09,"Preventive","Scheduled Service (PM)",79989,790.31,0.5,2025-12-01
+"WO-01128","VH-0027",2025-12-10,"Corrective","Suspension",176554,1954.61,4.1,2025-12-01
+"WO-01129","VH-0063",2025-12-10,"Corrective","Engine",264910,3451.77,6.2,2025-12-01
+"WO-01130","VH-0035",2025-12-11,"Preventive","Scheduled Service (PM)",265844,601.2,1,2025-12-01
+"WO-01131","VH-0045",2025-12-11,"Preventive","Scheduled Service (PM)",296318,536.94,1,2025-12-01
+"WO-01132","VH-0060",2025-12-11,"Preventive","Scheduled Service (PM)",93778,228.63,1,2025-12-01
+"WO-01133","VH-0002",2025-12-12,"Preventive","Scheduled Service (PM)",162599,471.66,0.5,2025-12-01
+"WO-01134","VH-0037",2025-12-12,"Preventive","Scheduled Service (PM)",258224,778.72,1,2025-12-01
+"WO-01135","VH-0041",2025-12-12,"Corrective","Electrical",273564,279.86,1.2,2025-12-01
+"WO-01136","VH-0046",2025-12-12,"Corrective","Electrical",473952,292.31,1.2,2025-12-01
+"WO-01137","VH-0069",2025-12-13,"Preventive","Scheduled Service (PM)",270965,877.54,1,2025-12-01
+"WO-01138","VH-0076",2025-12-13,"Preventive","Scheduled Service (PM)",273670,472.66,1,2025-12-01
+"WO-01139","VH-0077",2025-12-13,"Preventive","Scheduled Service (PM)",261246,403.71,1,2025-12-01
+"WO-01140","VH-0005",2025-12-14,"Preventive","Scheduled Service (PM)",454932,940.48,1,2025-12-01
+"WO-01141","VH-0014",2025-12-14,"Corrective","Cooling System",417710,1193.32,2.8,2025-12-01
+"WO-01142","VH-0047",2025-12-14,"Preventive","Scheduled Service (PM)",194065,589.92,0.5,2025-12-01
+"WO-01143","VH-0086",2025-12-14,"Preventive","Scheduled Service (PM)",280119,792.63,1,2025-12-01
+"WO-01144","VH-0022",2025-12-15,"Preventive","Scheduled Service (PM)",103593,237.81,0.5,2025-12-01
+"WO-01145","VH-0059",2025-12-15,"Preventive","Scheduled Service (PM)",279630,561.61,0.5,2025-12-01
+"WO-01146","VH-0041",2025-12-16,"Preventive","Scheduled Service (PM)",276141,501.26,0.5,2025-12-01
+"WO-01147","VH-0099",2025-12-16,"Preventive","Scheduled Service (PM)",275617,683.54,0.5,2025-12-01
+"WO-01148","VH-0051",2025-12-17,"Preventive","Scheduled Service (PM)",92648,278.51,1,2025-12-01
+"WO-01149","VH-0098",2025-12-17,"Corrective","Electrical",109742,787.54,2.2,2025-12-01
+"WO-01150","VH-0063",2025-12-18,"Preventive","Scheduled Service (PM)",269734,547.68,1,2025-12-01
+"WO-01151","VH-0016",2025-12-19,"Preventive","Scheduled Service (PM)",276060,530.95,0.5,2025-12-01
+"WO-01152","VH-0015",2025-12-20,"Corrective","Brakes",172344,1324.56,2.7,2025-12-01
+"WO-01153","VH-0029",2025-12-20,"Corrective","Transmission",95902,6250.41,9.4,2025-12-01
+"WO-01154","VH-0080",2025-12-20,"Preventive","Scheduled Service (PM)",103773,193.25,1,2025-12-01
+"WO-01155","VH-0028",2025-12-21,"Preventive","Scheduled Service (PM)",285295,781.21,1,2025-12-01
+"WO-01156","VH-0057",2025-12-21,"Preventive","Scheduled Service (PM)",285020,494.61,1,2025-12-01
+"WO-01157","VH-0066",2025-12-21,"Preventive","Scheduled Service (PM)",278343,522.68,1,2025-12-01
+"WO-01158","VH-0076",2025-12-21,"Corrective","Cooling System",280254,616.93,1.6,2025-12-01
+"WO-01159","VH-0081",2025-12-21,"Preventive","Scheduled Service (PM)",281056,603.15,0.5,2025-12-01
+"WO-01160","VH-0083",2025-12-22,"Preventive","Scheduled Service (PM)",269797,656.5,0.5,2025-12-01
+"WO-01161","VH-0012",2025-12-23,"Preventive","Scheduled Service (PM)",363514,401.63,0.5,2025-12-01
+"WO-01162","VH-0046",2025-12-23,"Preventive","Scheduled Service (PM)",477142,469.97,1,2025-12-01
+"WO-01163","VH-0049",2025-12-24,"Preventive","Scheduled Service (PM)",376828,664.38,0.5,2025-12-01
+"WO-01164","VH-0050",2025-12-24,"Preventive","Scheduled Service (PM)",278303,517.25,1,2025-12-01
+"WO-01165","VH-0062",2025-12-24,"Corrective","Engine",169980,3323.09,6,2025-12-01
+"WO-01166","VH-0003",2025-12-25,"Preventive","Scheduled Service (PM)",245444,347.89,0.5,2025-12-01
+"WO-01167","VH-0011",2025-12-25,"Corrective","Cooling System",312054,618.7,1.6,2025-12-01
+"WO-01168","VH-0079",2025-12-25,"Preventive","Scheduled Service (PM)",271331,478.67,0.5,2025-12-01
+"WO-01169","VH-0013",2025-12-26,"Preventive","Scheduled Service (PM)",409860,737.28,0.5,2025-12-01
+"WO-01170","VH-0029",2025-12-26,"Corrective","Brakes",96594,1303.21,2.6,2025-12-01
+"WO-01171","VH-0055",2025-12-26,"Preventive","Scheduled Service (PM)",294916,611,0.5,2025-12-01
+"WO-01172","VH-0072",2025-12-26,"Corrective","Tires",272146,928.06,1.6,2025-12-01
+"WO-01173","VH-0054",2025-12-27,"Preventive","Scheduled Service (PM)",486199,835,1,2025-12-01
+"WO-01174","VH-0094",2025-12-27,"Preventive","Scheduled Service (PM)",318205,380.92,1,2025-12-01
+"WO-01175","VH-0097",2025-12-29,"Preventive","Scheduled Service (PM)",102745,342.45,1,2025-12-01
+"WO-01176","VH-0031",2025-12-30,"Corrective","Brakes",306208,882.82,1.9,2025-12-01
+"WO-01177","VH-0044",2025-12-30,"Preventive","Scheduled Service (PM)",297297,436.16,1,2025-12-01
+"WO-01178","VH-0063",2025-12-31,"Corrective","Aftertreatment / DPF",279394,1726.55,2.5,2025-12-01
+"WO-01179","VH-0065",2025-12-31,"Preventive","Scheduled Service (PM)",150299,257.72,1,2025-12-01
+"WO-01180","VH-0074",2025-12-31,"Preventive","Scheduled Service (PM)",102862,253.36,0.5,2025-12-01
+"WO-01181","VH-0078",2025-12-31,"Preventive","Scheduled Service (PM)",53765,256.99,0.5,2025-12-01
+"WO-01182","VH-0040",2026-01-01,"Preventive","Scheduled Service (PM)",186147,567.5,0.5,2026-01-01
+"WO-01183","VH-0051",2026-01-01,"Corrective","Suspension",96804,1075.65,2.9,2026-01-01
+"WO-01184","VH-0021",2026-01-03,"Preventive","Scheduled Service (PM)",294535,429.02,0.5,2026-01-01
+"WO-01185","VH-0039",2026-01-03,"Preventive","Scheduled Service (PM)",284116,534.3,1,2026-01-01
+"WO-01186","VH-0016",2026-01-05,"Corrective","Suspension",286482,695.63,2.3,2026-01-01
+"WO-01187","VH-0031",2026-01-05,"Preventive","Scheduled Service (PM)",308050,574,0.5,2026-01-01
+"WO-01188","VH-0029",2026-01-06,"Preventive","Scheduled Service (PM)",100582,292.94,1,2026-01-01
+"WO-01189","VH-0032",2026-01-06,"Preventive","Scheduled Service (PM)",175122,403.22,1,2026-01-01
+"WO-01190","VH-0038",2026-01-06,"Preventive","Scheduled Service (PM)",294402,459.48,0.5,2026-01-01
+"WO-01191","VH-0068",2026-01-06,"Preventive","Scheduled Service (PM)",285259,848.48,1,2026-01-01
+"WO-01192","VH-0042",2026-01-07,"Preventive","Scheduled Service (PM)",165579,319.84,1,2026-01-01
+"WO-01193","VH-0085",2026-01-07,"Corrective","Engine",282092,3179.11,5.8,2026-01-01
+"WO-01194","VH-0093",2026-01-07,"Preventive","Scheduled Service (PM)",185930,317.03,0.5,2026-01-01
+"WO-01195","VH-0014",2026-01-08,"Preventive","Scheduled Service (PM)",427506,473.68,0.5,2026-01-01
+"WO-01196","VH-0082",2026-01-08,"Preventive","Scheduled Service (PM)",300014,507.27,1,2026-01-01
+"WO-01197","VH-0072",2026-01-09,"Preventive","Scheduled Service (PM)",279853,794.01,0.5,2026-01-01
+"WO-01198","VH-0088",2026-01-09,"Preventive","Scheduled Service (PM)",99986,806.11,1,2026-01-01
+"WO-01199","VH-0061",2026-01-10,"Corrective","Electrical",194448,230.51,1.1,2026-01-01
+"WO-01200","VH-0006",2026-01-11,"Preventive","Scheduled Service (PM)",99871,217.44,0.5,2026-01-01
+"WO-01201","VH-0062",2026-01-11,"Corrective","Cooling System",175342,1331.6,3.1,2026-01-01
+"WO-01202","VH-0026",2026-01-12,"Preventive","Scheduled Service (PM)",296430,611.47,0.5,2026-01-01
+"WO-01203","VH-0037",2026-01-12,"Preventive","Scheduled Service (PM)",279743,836.5,0.5,2026-01-01
+"WO-01204","VH-0089",2026-01-12,"Preventive","Scheduled Service (PM)",150950,514.59,1,2026-01-01
+"WO-01205","VH-0085",2026-01-14,"Preventive","Scheduled Service (PM)",282689,680.89,1,2026-01-01
+"WO-01206","VH-0100",2026-01-14,"Preventive","Scheduled Service (PM)",284392,910.66,1,2026-01-01
+"WO-01207","VH-0035",2026-01-15,"Preventive","Scheduled Service (PM)",284833,848.46,0.5,2026-01-01
+"WO-01208","VH-0059",2026-01-15,"Preventive","Scheduled Service (PM)",298272,695.67,1,2026-01-01
+"WO-01209","VH-0074",2026-01-15,"Corrective","Tires",104442,644.99,1.3,2026-01-01
+"WO-01210","VH-0081",2026-01-16,"Corrective","Tires",293992,669.64,1.3,2026-01-01
+"WO-01211","VH-0045",2026-01-17,"Preventive","Scheduled Service (PM)",316073,659.37,1,2026-01-01
+"WO-01212","VH-0063",2026-01-17,"Preventive","Scheduled Service (PM)",289000,800.8,1,2026-01-01
+"WO-01213","VH-0083",2026-01-18,"Preventive","Scheduled Service (PM)",290550,621.37,1,2026-01-01
+"WO-01214","VH-0013",2026-01-19,"Corrective","Brakes",425142,1147.4,2.4,2026-01-01
+"WO-01215","VH-0055",2026-01-20,"Corrective","Cooling System",308694,604.48,1.6,2026-01-01
+"WO-01216","VH-0015",2026-01-21,"Preventive","Scheduled Service (PM)",185091,539.69,0.5,2026-01-01
+"WO-01217","VH-0048",2026-01-21,"Corrective","Aftertreatment / DPF",112296,885.77,1.4,2026-01-01
+"WO-01218","VH-0092",2026-01-22,"Preventive","Scheduled Service (PM)",213607,185.75,0.5,2026-01-01
+"WO-01219","VH-0020",2026-01-23,"Preventive","Scheduled Service (PM)",230766,628.92,1,2026-01-01
+"WO-01220","VH-0091",2026-01-23,"Corrective","Brakes",105028,577.22,1.3,2026-01-01
+"WO-01221","VH-0005",2026-01-24,"Preventive","Scheduled Service (PM)",473888,479.89,0.5,2026-01-01
+"WO-01222","VH-0086",2026-01-24,"Preventive","Scheduled Service (PM)",300127,554.12,1,2026-01-01
+"WO-01223","VH-0013",2026-01-25,"Corrective","Brakes",429230,853.59,1.8,2026-01-01
+"WO-01224","VH-0042",2026-01-25,"Corrective","Tires",168668,388.7,1,2026-01-01
+"WO-01225","VH-0050",2026-01-25,"Preventive","Scheduled Service (PM)",298182,847.77,0.5,2026-01-01
+"WO-01226","VH-0060",2026-01-25,"Corrective","Aftertreatment / DPF",99990,699.41,1.2,2026-01-01
+"WO-01227","VH-0004",2026-01-26,"Preventive","Scheduled Service (PM)",94921,194.56,0.5,2026-01-01
+"WO-01228","VH-0049",2026-01-26,"Preventive","Scheduled Service (PM)",396661,509.64,0.5,2026-01-01
+"WO-01229","VH-0057",2026-01-27,"Preventive","Scheduled Service (PM)",305379,542.81,1,2026-01-01
+"WO-01230","VH-0062",2026-01-28,"Preventive","Scheduled Service (PM)",179812,218.9,0.5,2026-01-01
+"WO-01231","VH-0069",2026-01-28,"Preventive","Scheduled Service (PM)",291808,669.81,1,2026-01-01
+"WO-01232","VH-0099",2026-01-28,"Preventive","Scheduled Service (PM)",296819,570.76,0.5,2026-01-01
+"WO-01233","VH-0045",2026-01-29,"Corrective","Brakes",322402,723.63,1.6,2026-01-01
+"WO-01234","VH-0066",2026-01-29,"Preventive","Scheduled Service (PM)",296899,707.78,0.5,2026-01-01
+"WO-01235","VH-0076",2026-01-29,"Preventive","Scheduled Service (PM)",294722,670.82,0.5,2026-01-01
+"WO-01236","VH-0013",2026-01-30,"Preventive","Scheduled Service (PM)",431432,796.83,0.5,2026-01-01
+"WO-01237","VH-0013",2026-01-30,"Corrective","Brakes",431870,572.84,1.3,2026-01-01
+"WO-01238","VH-0035",2026-01-30,"Corrective","Tires",293720,472.15,1.1,2026-01-01
+"WO-01239","VH-0041",2026-01-30,"Preventive","Scheduled Service (PM)",297383,866.13,0.5,2026-01-01
+"WO-01240","VH-0054",2026-01-30,"Corrective","Tires",503252,709.98,1.3,2026-01-01
+"WO-01241","VH-0018",2026-01-31,"Preventive","Scheduled Service (PM)",102312,218.37,0.5,2026-01-01
+"WO-01242","VH-0028",2026-01-31,"Preventive","Scheduled Service (PM)",305673,468.64,1,2026-01-01
+"WO-01243","VH-0058",2026-01-31,"Preventive","Scheduled Service (PM)",115765,269.74,0.5,2026-01-01
+"WO-01244","VH-0081",2026-02-01,"Preventive","Scheduled Service (PM)",299793,454.52,0.5,2026-02-01
+"WO-01245","VH-0055",2026-02-02,"Preventive","Scheduled Service (PM)",314577,772.84,0.5,2026-02-01
+"WO-01246","VH-0091",2026-02-02,"Preventive","Scheduled Service (PM)",105691,196.26,1,2026-02-01
+"WO-01247","VH-0031",2026-02-05,"Corrective","Cooling System",326536,674.22,1.7,2026-02-01
+"WO-01248","VH-0095",2026-02-05,"Preventive","Scheduled Service (PM)",180546,505.34,0.5,2026-02-01
+"WO-01249","VH-0070",2026-02-06,"Preventive","Scheduled Service (PM)",198058,512.21,0.5,2026-02-01
+"WO-01250","VH-0011",2026-02-07,"Preventive","Scheduled Service (PM)",326731,504.31,1,2026-02-01
+"WO-01251","VH-0016",2026-02-07,"Preventive","Scheduled Service (PM)",295779,824.34,0.5,2026-02-01
+"WO-01252","VH-0021",2026-02-07,"Preventive","Scheduled Service (PM)",314171,827.01,0.5,2026-02-01
+"WO-01253","VH-0059",2026-02-07,"Corrective","Engine",310906,3803.44,6.6,2026-02-01
+"WO-01254","VH-0079",2026-02-07,"Preventive","Scheduled Service (PM)",290711,640.72,0.5,2026-02-01
+"WO-01255","VH-0044",2026-02-08,"Preventive","Scheduled Service (PM)",317117,614.22,0.5,2026-02-01
+"WO-01256","VH-0044",2026-02-08,"Corrective","Body / Cab",317672,861.94,2,2026-02-01
+"WO-01257","VH-0010",2026-02-09,"Preventive","Scheduled Service (PM)",182892,609.27,0.5,2026-02-01
+"WO-01258","VH-0031",2026-02-09,"Preventive","Scheduled Service (PM)",327303,841.6,1,2026-02-01
+"WO-01259","VH-0054",2026-02-09,"Preventive","Scheduled Service (PM)",505647,499.02,1,2026-02-01
+"WO-01260","VH-0080",2026-02-09,"Corrective","Suspension",114254,633.95,2.3,2026-02-01
+"WO-01261","VH-0098",2026-02-09,"Preventive","Scheduled Service (PM)",118592,228.59,0.5,2026-02-01
+"WO-01262","VH-0082",2026-02-11,"Corrective","Brakes",314448,656.3,1.5,2026-02-01
+"WO-01263","VH-0003",2026-02-12,"Corrective","Cooling System",258832,1393.92,3.2,2026-02-01
+"WO-01264","VH-0008",2026-02-12,"Preventive","Scheduled Service (PM)",196896,606.08,0.5,2026-02-01
+"WO-01265","VH-0061",2026-02-12,"Preventive","Scheduled Service (PM)",199368,246.43,0.5,2026-02-01
+"WO-01266","VH-0068",2026-02-12,"Preventive","Scheduled Service (PM)",305635,811.03,0.5,2026-02-01
+"WO-01267","VH-0079",2026-02-14,"Corrective","Tires",297576,653.45,1.3,2026-02-01
+"WO-01268","VH-0004",2026-02-15,"Corrective","Cooling System",98924,439.61,1.3,2026-02-01
+"WO-01269","VH-0059",2026-02-15,"Preventive","Scheduled Service (PM)",316914,860.98,1,2026-02-01
+"WO-01270","VH-0018",2026-02-16,"Corrective","Brakes",106226,835.3,1.8,2026-02-01
+"WO-01271","VH-0036",2026-02-16,"Corrective","Cooling System",107762,565.19,1.5,2026-02-01
+"WO-01272","VH-0002",2026-02-18,"Preventive","Scheduled Service (PM)",182924,323.2,0.5,2026-02-01
+"WO-01273","VH-0046",2026-02-18,"Preventive","Scheduled Service (PM)",497023,735.56,0.5,2026-02-01
+"WO-01274","VH-0088",2026-02-18,"Preventive","Scheduled Service (PM)",119984,916.57,1,2026-02-01
+"WO-01275","VH-0038",2026-02-20,"Preventive","Scheduled Service (PM)",315430,803.78,0.5,2026-02-01
+"WO-01276","VH-0008",2026-02-21,"Corrective","Electrical",200398,604.78,1.8,2026-02-01
+"WO-01277","VH-0052",2026-02-21,"Corrective","Engine",118206,4811.31,7.9,2026-02-01
+"WO-01278","VH-0056",2026-02-21,"Corrective","Tires",205818,674.72,1.3,2026-02-01
+"WO-01279","VH-0089",2026-02-21,"Preventive","Scheduled Service (PM)",169819,783.59,0.5,2026-02-01
+"WO-01280","VH-0020",2026-02-22,"Corrective","Electrical",244922,215.56,1,2026-02-01
+"WO-01281","VH-0030",2026-02-22,"Preventive","Scheduled Service (PM)",241932,199.75,0.5,2026-02-01
+"WO-01282","VH-0085",2026-02-22,"Preventive","Scheduled Service (PM)",301535,828.99,1,2026-02-01
+"WO-01283","VH-0026",2026-02-23,"Preventive","Scheduled Service (PM)",314956,656.19,0.5,2026-02-01
+"WO-01284","VH-0048",2026-02-23,"Preventive","Scheduled Service (PM)",116874,338.27,0.5,2026-02-01
+"WO-01285","VH-0077",2026-02-24,"Preventive","Scheduled Service (PM)",283016,613.69,1,2026-02-01
+"WO-01286","VH-0086",2026-02-24,"Preventive","Scheduled Service (PM)",320136,592.73,0.5,2026-02-01
+"WO-01287","VH-0100",2026-02-24,"Preventive","Scheduled Service (PM)",303351,521.98,0.5,2026-02-01
+"WO-01288","VH-0027",2026-02-25,"Preventive","Scheduled Service (PM)",194401,521.32,0.5,2026-02-01
+"WO-01289","VH-0056",2026-02-26,"Preventive","Scheduled Service (PM)",206524,588.86,1,2026-02-01
+"WO-01290","VH-0097",2026-02-26,"Corrective","Tires",109620,1130.8,1.7,2026-02-01
+"WO-01291","VH-0030",2026-02-27,"Corrective","Brakes",243218,564.04,1.3,2026-02-01
+"WO-01292","VH-0082",2026-02-27,"Preventive","Scheduled Service (PM)",318765,684.84,1,2026-02-01
+"WO-01293","VH-0005",2026-02-28,"Preventive","Scheduled Service (PM)",492843,735.66,1,2026-02-01
+"WO-01294","VH-0045",2026-02-28,"Preventive","Scheduled Service (PM)",335827,452.13,0.5,2026-02-01
+"WO-01295","VH-0050",2026-02-28,"Preventive","Scheduled Service (PM)",318060,443.88,1,2026-02-01
+"WO-01296","VH-0047",2026-03-01,"Preventive","Scheduled Service (PM)",215628,467.03,0.5,2026-03-01
+"WO-01297","VH-0085",2026-03-01,"Corrective","Electrical",304368,625.58,1.9,2026-03-01
+"WO-01298","VH-0020",2026-03-02,"Corrective","Engine",248882,3162.81,5.8,2026-03-01
+"WO-01299","VH-0025",2026-03-02,"Preventive","Scheduled Service (PM)",96949,210.39,0.5,2026-03-01
+"WO-01300","VH-0053",2026-03-02,"Corrective","Electrical",109642,482.08,1.6,2026-03-01
+"WO-01301","VH-0072",2026-03-02,"Preventive","Scheduled Service (PM)",301381,560.8,1,2026-03-01
+"WO-01302","VH-0014",2026-03-03,"Preventive","Scheduled Service (PM)",447864,726.8,0.5,2026-03-01
+"WO-01303","VH-0037",2026-03-03,"Preventive","Scheduled Service (PM)",301262,853.26,1,2026-03-01
+"WO-01304","VH-0048",2026-03-03,"Corrective","Cooling System",119816,639.75,1.7,2026-03-01
+"WO-01305","VH-0057",2026-03-03,"Preventive","Scheduled Service (PM)",325738,869.51,1,2026-03-01
+"WO-01306","VH-0065",2026-03-03,"Corrective","Tires",161386,1138.32,1.8,2026-03-01
+"WO-01307","VH-0083",2026-03-03,"Preventive","Scheduled Service (PM)",311304,708.98,0.5,2026-03-01
+"WO-01308","VH-0063",2026-03-04,"Preventive","Scheduled Service (PM)",308267,569.44,0.5,2026-03-01
+"WO-01309","VH-0035",2026-03-05,"Preventive","Scheduled Service (PM)",303822,649.6,1,2026-03-01
+"WO-01310","VH-0066",2026-03-06,"Preventive","Scheduled Service (PM)",315455,759.52,0.5,2026-03-01
+"WO-01311","VH-0096",2026-03-06,"Corrective","Brakes",113884,896.72,1.9,2026-03-01
+"WO-01312","VH-0007",2026-03-07,"Corrective","Transmission",115776,4560.77,7.4,2026-03-01
+"WO-01313","VH-0037",2026-03-07,"Corrective","Body / Cab",304244,1305.17,2.8,2026-03-01
+"WO-01314","VH-0039",2026-03-07,"Preventive","Scheduled Service (PM)",304411,506.38,0.5,2026-03-01
+"WO-01315","VH-0047",2026-03-07,"Corrective","Engine",217384,4410.42,7.4,2026-03-01
+"WO-01316","VH-0069",2026-03-07,"Preventive","Scheduled Service (PM)",312652,588.78,1,2026-03-01
+"WO-01317","VH-0029",2026-03-09,"Corrective","Electrical",112752,451.58,1.5,2026-03-01
+"WO-01318","VH-0099",2026-03-09,"Preventive","Scheduled Service (PM)",318020,695.36,1,2026-03-01
+"WO-01319","VH-0081",2026-03-10,"Preventive","Scheduled Service (PM)",318530,864.77,1,2026-03-01
+"WO-01320","VH-0003",2026-03-11,"Preventive","Scheduled Service (PM)",265897,409.95,0.5,2026-03-01
+"WO-01321","VH-0032",2026-03-11,"Preventive","Scheduled Service (PM)",197013,479.16,0.5,2026-03-01
+"WO-01322","VH-0084",2026-03-12,"Preventive","Scheduled Service (PM)",324902,209.11,0.5,2026-03-01
+"WO-01323","VH-0016",2026-03-13,"Preventive","Scheduled Service (PM)",315497,680.67,0.5,2026-03-01
+"WO-01324","VH-0020",2026-03-13,"Preventive","Scheduled Service (PM)",251744,874.91,0.5,2026-03-01
+"WO-01325","VH-0021",2026-03-13,"Preventive","Scheduled Service (PM)",333807,767.29,0.5,2026-03-01
+"WO-01326","VH-0033",2026-03-13,"Preventive","Scheduled Service (PM)",120621,185.19,1,2026-03-01
+"WO-01327","VH-0041",2026-03-13,"Preventive","Scheduled Service (PM)",318624,861.81,1,2026-03-01
+"WO-01328","VH-0002",2026-03-14,"Corrective","Cooling System",189468,395.03,1.2,2026-03-01
+"WO-01329","VH-0049",2026-03-14,"Preventive","Scheduled Service (PM)",416495,781.26,1,2026-03-01
+"WO-01330","VH-0054",2026-03-14,"Preventive","Scheduled Service (PM)",525095,767.65,1,2026-03-01
+"WO-01331","VH-0092",2026-03-14,"Corrective","Cooling System",224328,1081.11,2.6,2026-03-01
+"WO-01332","VH-0012",2026-03-15,"Preventive","Scheduled Service (PM)",384898,613.94,0.5,2026-03-01
+"WO-01333","VH-0076",2026-03-15,"Preventive","Scheduled Service (PM)",315774,814.14,0.5,2026-03-01
+"WO-01334","VH-0093",2026-03-16,"Preventive","Scheduled Service (PM)",206589,361.99,0.5,2026-03-01
+"WO-01335","VH-0031",2026-03-17,"Preventive","Scheduled Service (PM)",346556,565.84,0.5,2026-03-01
+"WO-01336","VH-0026",2026-03-18,"Corrective","Suspension",329418,557.88,2.2,2026-03-01
+"WO-01337","VH-0028",2026-03-18,"Preventive","Scheduled Service (PM)",326051,804.18,1,2026-03-01
+"WO-01338","VH-0013",2026-03-20,"Preventive","Scheduled Service (PM)",453004,702.96,0.5,2026-03-01
+"WO-01339","VH-0054",2026-03-20,"Corrective","Body / Cab",529856,973.9,2.2,2026-03-01
+"WO-01340","VH-0096",2026-03-20,"Corrective","Aftertreatment / DPF",115980,1567.25,2.3,2026-03-01
+"WO-01341","VH-0079",2026-03-21,"Preventive","Scheduled Service (PM)",310092,551.56,0.5,2026-03-01
+"WO-01342","VH-0007",2026-03-22,"Preventive","Scheduled Service (PM)",120353,200.64,1,2026-03-01
+"WO-01343","VH-0059",2026-03-22,"Preventive","Scheduled Service (PM)",335556,684.75,1,2026-03-01
+"WO-01344","VH-0088",2026-03-23,"Preventive","Scheduled Service (PM)",139981,497.87,1,2026-03-01
+"WO-01345","VH-0015",2026-03-24,"Corrective","Engine",202946,3510.92,6.3,2026-03-01
+"WO-01346","VH-0038",2026-03-24,"Preventive","Scheduled Service (PM)",336459,571.56,1,2026-03-01
+"WO-01347","VH-0048",2026-03-24,"Corrective","Brakes",123748,864.66,1.8,2026-03-01
+"WO-01348","VH-0026",2026-03-26,"Preventive","Scheduled Service (PM)",333483,803.55,1,2026-03-01
+"WO-01349","VH-0044",2026-03-26,"Preventive","Scheduled Service (PM)",336936,497.14,0.5,2026-03-01
+"WO-01350","VH-0078",2026-03-26,"Corrective","Tires",67028,1183.58,1.8,2026-03-01
+"WO-01351","VH-0068",2026-03-27,"Preventive","Scheduled Service (PM)",326011,519.47,1,2026-03-01
+"WO-01352","VH-0094",2026-03-27,"Preventive","Scheduled Service (PM)",339418,511.35,0.5,2026-03-01
+"WO-01353","VH-0008",2026-03-28,"Corrective","Cooling System",212842,1185.64,2.8,2026-03-01
+"WO-01354","VH-0046",2026-03-28,"Preventive","Scheduled Service (PM)",516904,703.33,0.5,2026-03-01
+"WO-01355","VH-0005",2026-03-29,"Preventive","Scheduled Service (PM)",511799,687.61,1,2026-03-01
+"WO-01356","VH-0014",2026-03-29,"Preventive","Scheduled Service (PM)",468221,931.4,0.5,2026-03-01
+"WO-01357","VH-0086",2026-03-29,"Preventive","Scheduled Service (PM)",340144,683.88,1,2026-03-01
+"WO-01358","VH-0082",2026-03-30,"Preventive","Scheduled Service (PM)",337516,906.98,1,2026-03-01
+"WO-01359","VH-0089",2026-03-30,"Preventive","Scheduled Service (PM)",188688,599.22,0.5,2026-03-01
+"WO-01360","VH-0017",2026-04-01,"Preventive","Scheduled Service (PM)",122674,257.4,1,2026-04-01
+"WO-01361","VH-0063",2026-04-02,"Preventive","Scheduled Service (PM)",327534,632.09,1,2026-04-01
+"WO-01362","VH-0040",2026-04-03,"Preventive","Scheduled Service (PM)",209416,309.34,1,2026-04-01
+"WO-01363","VH-0038",2026-04-04,"Corrective","Tires",343472,796.91,1.4,2026-04-01
+"WO-01364","VH-0015",2026-04-05,"Corrective","Brakes",207500,565.06,1.3,2026-04-01
+"WO-01365","VH-0072",2026-04-05,"Preventive","Scheduled Service (PM)",322908,602.64,1,2026-04-01
+"WO-01366","VH-0035",2026-04-06,"Preventive","Scheduled Service (PM)",322811,949.7,1,2026-04-01
+"WO-01367","VH-0100",2026-04-07,"Preventive","Scheduled Service (PM)",322311,763.77,1,2026-04-01
+"WO-01368","VH-0015",2026-04-09,"Preventive","Scheduled Service (PM)",208227,433.8,1,2026-04-01
+"WO-01369","VH-0093",2026-04-09,"Corrective","Tires",215284,948.53,1.6,2026-04-01
+"WO-01370","VH-0095",2026-04-09,"Preventive","Scheduled Service (PM)",203114,421.55,0.5,2026-04-01
+"WO-01371","VH-0011",2026-04-10,"Preventive","Scheduled Service (PM)",348514,387.79,0.5,2026-04-01
+"WO-01372","VH-0027",2026-04-10,"Corrective","Engine",208730,2279.93,4.7,2026-04-01
+"WO-01373","VH-0016",2026-04-11,"Preventive","Scheduled Service (PM)",335216,681.52,1,2026-04-01
+"WO-01374","VH-0076",2026-04-12,"Corrective","Electrical",334928,345.21,1.3,2026-04-01
+"WO-01375","VH-0045",2026-04-13,"Preventive","Scheduled Service (PM)",355582,842.21,1,2026-04-01
+"WO-01376","VH-0064",2026-04-13,"Preventive","Scheduled Service (PM)",121895,185.82,0.5,2026-04-01
+"WO-01377","VH-0070",2026-04-13,"Preventive","Scheduled Service (PM)",220064,459.69,0.5,2026-04-01
+"WO-01378","VH-0085",2026-04-13,"Preventive","Scheduled Service (PM)",320381,626.31,1,2026-04-01
+"WO-01379","VH-0099",2026-04-13,"Preventive","Scheduled Service (PM)",339221,578.38,1,2026-04-01
+"WO-01380","VH-0069",2026-04-14,"Preventive","Scheduled Service (PM)",333495,498.8,0.5,2026-04-01
+"WO-01381","VH-0002",2026-04-15,"Preventive","Scheduled Service (PM)",203249,385.35,1,2026-04-01
+"WO-01382","VH-0035",2026-04-15,"Corrective","Cooling System",330672,1022.01,2.4,2026-04-01
+"WO-01383","VH-0049",2026-04-15,"Preventive","Scheduled Service (PM)",436328,739.25,1,2026-04-01
+"WO-01384","VH-0050",2026-04-15,"Preventive","Scheduled Service (PM)",337939,813.67,1,2026-04-01
+"WO-01385","VH-0057",2026-04-15,"Preventive","Scheduled Service (PM)",346096,658.27,0.5,2026-04-01
+"WO-01386","VH-0059",2026-04-15,"Corrective","Brakes",350256,1247.29,2.5,2026-04-01
+"WO-01387","VH-0083",2026-04-15,"Preventive","Scheduled Service (PM)",332058,600.21,1,2026-04-01
+"WO-01388","VH-0100",2026-04-15,"Corrective","Aftertreatment / DPF",330708,1441.7,2.2,2026-04-01
+"WO-01389","VH-0052",2026-04-17,"Preventive","Scheduled Service (PM)",125263,323.97,0.5,2026-04-01
+"WO-01390","VH-0075",2026-04-17,"Preventive","Scheduled Service (PM)",121533,199.11,0.5,2026-04-01
+"WO-01391","VH-0066",2026-04-18,"Preventive","Scheduled Service (PM)",334011,847.13,1,2026-04-01
+"WO-01392","VH-0008",2026-04-20,"Preventive","Scheduled Service (PM)",218774,579.97,0.5,2026-04-01
+"WO-01393","VH-0054",2026-04-21,"Preventive","Scheduled Service (PM)",544543,468.21,0.5,2026-04-01
+"WO-01394","VH-0020",2026-04-22,"Preventive","Scheduled Service (PM)",272723,511.23,1,2026-04-01
+"WO-01395","VH-0021",2026-04-22,"Preventive","Scheduled Service (PM)",353442,917.29,0.5,2026-04-01
+"WO-01396","VH-0031",2026-04-22,"Preventive","Scheduled Service (PM)",365809,552.37,0.5,2026-04-01
+"WO-01397","VH-0037",2026-04-22,"Preventive","Scheduled Service (PM)",322780,533.93,0.5,2026-04-01
+"WO-01398","VH-0061",2026-04-22,"Corrective","Brakes",212852,704.62,1.6,2026-04-01
+"WO-01399","VH-0051",2026-04-23,"Preventive","Scheduled Service (PM)",115810,205.97,0.5,2026-04-01
+"WO-01400","VH-0081",2026-04-23,"Corrective","Suspension",336866,1057.1,2.8,2026-04-01
+"WO-01401","VH-0096",2026-04-23,"Preventive","Scheduled Service (PM)",121336,204.97,1,2026-04-01
+"WO-01402","VH-0053",2026-04-24,"Corrective","Electrical",117174,674.76,1.9,2026-04-01
+"WO-01403","VH-0081",2026-04-24,"Preventive","Scheduled Service (PM)",337267,707.26,0.5,2026-04-01
+"WO-01404","VH-0010",2026-04-25,"Preventive","Scheduled Service (PM)",205753,522.65,0.5,2026-04-01
+"WO-01405","VH-0013",2026-04-25,"Corrective","Engine",472736,1863.08,4.2,2026-04-01
+"WO-01406","VH-0026",2026-04-25,"Preventive","Scheduled Service (PM)",352010,580.93,1,2026-04-01
+"WO-01407","VH-0093",2026-04-25,"Corrective","Engine",224086,4488.8,7.5,2026-04-01
+"WO-01408","VH-0041",2026-04-26,"Preventive","Scheduled Service (PM)",339866,892.12,1,2026-04-01
+"WO-01409","VH-0044",2026-04-27,"Preventive","Scheduled Service (PM)",356756,733.85,0.5,2026-04-01
+"WO-01410","VH-0085",2026-04-27,"Corrective","Body / Cab",330940,1300.52,2.8,2026-04-01
+"WO-01411","VH-0003",2026-04-28,"Preventive","Scheduled Service (PM)",286351,607.4,1,2026-04-01
+"WO-01412","VH-0076",2026-04-28,"Preventive","Scheduled Service (PM)",336825,460.02,0.5,2026-04-01
+"WO-01413","VH-0028",2026-04-29,"Preventive","Scheduled Service (PM)",346430,506.83,1,2026-04-01
+"WO-01414","VH-0029",2026-04-29,"Preventive","Scheduled Service (PM)",125728,284.38,1,2026-04-01
+"WO-01415","VH-0036",2026-04-29,"Preventive","Scheduled Service (PM)",117295,260.52,1,2026-04-01
+"WO-01416","VH-0053",2026-04-29,"Preventive","Scheduled Service (PM)",117345,319.95,1,2026-04-01
+"WO-01417","VH-0063",2026-04-29,"Preventive","Scheduled Service (PM)",346800,477.44,1,2026-04-01
+"WO-01418","VH-0081",2026-04-29,"Corrective","Transmission",341500,4338.92,7.2,2026-04-01
+"WO-01419","VH-0088",2026-04-29,"Preventive","Scheduled Service (PM)",159978,747.23,0.5,2026-04-01
+"WO-01420","VH-0030",2026-04-30,"Corrective","Brakes",256908,689.84,1.5,2026-04-01
+"WO-01421","VH-0027",2026-05-01,"Preventive","Scheduled Service (PM)",216001,494.64,0.5,2026-05-01
+"WO-01422","VH-0030",2026-05-01,"Corrective","Transmission",257102,2736.87,5.3,2026-05-01
+"WO-01423","VH-0047",2026-05-01,"Preventive","Scheduled Service (PM)",237191,563.94,0.5,2026-05-01
+"WO-01424","VH-0056",2026-05-01,"Preventive","Scheduled Service (PM)",229471,518.3,1,2026-05-01
+"WO-01425","VH-0059",2026-05-01,"Preventive","Scheduled Service (PM)",354198,428.48,1,2026-05-01
+"WO-01426","VH-0079",2026-05-01,"Preventive","Scheduled Service (PM)",329473,650.4,0.5,2026-05-01
+"WO-01427","VH-0086",2026-05-01,"Preventive","Scheduled Service (PM)",360152,476.3,1,2026-05-01
+"WO-01428","VH-0093",2026-05-01,"Corrective","Cooling System",227674,776.81,2,2026-05-01
+"WO-01429","VH-0003",2026-05-02,"Corrective","Electrical",289126,972.84,2.5,2026-05-01
+"WO-01430","VH-0013",2026-05-02,"Preventive","Scheduled Service (PM)",474575,467,1,2026-05-01
+"WO-01431","VH-0093",2026-05-02,"Preventive","Scheduled Service (PM)",227248,371.62,1,2026-05-01
+"WO-01432","VH-0060",2026-05-03,"Preventive","Scheduled Service (PM)",117223,206.35,0.5,2026-05-01
+"WO-01433","VH-0005",2026-05-04,"Preventive","Scheduled Service (PM)",530754,577.2,1,2026-05-01
+"WO-01434","VH-0046",2026-05-04,"Preventive","Scheduled Service (PM)",536785,901.57,0.5,2026-05-01
+"WO-01435","VH-0014",2026-05-05,"Preventive","Scheduled Service (PM)",488579,481.57,1,2026-05-01
+"WO-01436","VH-0068",2026-05-06,"Preventive","Scheduled Service (PM)",346386,440.9,0.5,2026-05-01
+"WO-01437","VH-0089",2026-05-06,"Preventive","Scheduled Service (PM)",207557,750.51,1,2026-05-01
+"WO-01438","VH-0041",2026-05-07,"Corrective","Tires",349786,479.54,1.1,2026-05-01
+"WO-01439","VH-0100",2026-05-07,"Preventive","Scheduled Service (PM)",341270,742.7,0.5,2026-05-01
+"WO-01440","VH-0032",2026-05-08,"Preventive","Scheduled Service (PM)",218903,513.43,0.5,2026-05-01
+"WO-01441","VH-0035",2026-05-10,"Preventive","Scheduled Service (PM)",341799,875.69,1,2026-05-01
+"WO-01442","VH-0022",2026-05-11,"Preventive","Scheduled Service (PM)",129491,247.04,0.5,2026-05-01
+"WO-01443","VH-0038",2026-05-11,"Preventive","Scheduled Service (PM)",357488,936.84,0.5,2026-05-01
+"WO-01444","VH-0038",2026-05-12,"Corrective","Brakes",359342,912.56,1.9,2026-05-01
+"WO-01445","VH-0072",2026-05-13,"Preventive","Scheduled Service (PM)",344435,768.54,1,2026-05-01
+"WO-01446","VH-0045",2026-05-14,"Preventive","Scheduled Service (PM)",375337,480.12,0.5,2026-05-01
+"WO-01447","VH-0082",2026-05-14,"Preventive","Scheduled Service (PM)",356267,584.56,0.5,2026-05-01
+"WO-01448","VH-0036",2026-05-15,"Corrective","Brakes",120246,1254.09,2.6,2026-05-01
+"WO-01449","VH-0085",2026-05-15,"Preventive","Scheduled Service (PM)",339227,569.49,1,2026-05-01
+"WO-01450","VH-0002",2026-05-16,"Corrective","Brakes",213112,1085.55,2.2,2026-05-01
+"WO-01451","VH-0041",2026-05-17,"Corrective","Aftertreatment / DPF",354066,1855.51,2.7,2026-05-01
+"WO-01452","VH-0050",2026-05-18,"Preventive","Scheduled Service (PM)",357818,885.04,1,2026-05-01
+"WO-01453","VH-0066",2026-05-18,"Preventive","Scheduled Service (PM)",352568,911.59,0.5,2026-05-01
+"WO-01454","VH-0020",2026-05-20,"Corrective","Electrical",287990,696.5,2,2026-05-01
+"WO-01455","VH-0039",2026-05-20,"Preventive","Scheduled Service (PM)",324705,466.57,0.5,2026-05-01
+"WO-01456","VH-0041",2026-05-20,"Corrective","Tires",355756,619.71,1.3,2026-05-01
+"WO-01457","VH-0016",2026-05-21,"Preventive","Scheduled Service (PM)",354935,787.72,0.5,2026-05-01
+"WO-01458","VH-0094",2026-05-21,"Corrective","Electrical",354350,716.51,2,2026-05-01
+"WO-01459","VH-0021",2026-05-22,"Preventive","Scheduled Service (PM)",373078,603.36,0.5,2026-05-01
+"WO-01460","VH-0049",2026-05-25,"Preventive","Scheduled Service (PM)",456161,749.66,0.5,2026-05-01
+"WO-01461","VH-0054",2026-05-25,"Preventive","Scheduled Service (PM)",563991,567.53,1,2026-05-01
+"WO-01462","VH-0031",2026-05-26,"Preventive","Scheduled Service (PM)",385062,615.45,0.5,2026-05-01
+"WO-01463","VH-0057",2026-05-26,"Preventive","Scheduled Service (PM)",366455,940.95,0.5,2026-05-01
+"WO-01464","VH-0058",2026-05-26,"Preventive","Scheduled Service (PM)",138918,187.07,0.5,2026-05-01
+"WO-01465","VH-0098",2026-05-26,"Preventive","Scheduled Service (PM)",142310,319.66,0.5,2026-05-01
+"WO-01466","VH-0064",2026-05-27,"Corrective","Suspension",127986,1336.9,3.2,2026-05-01
+"WO-01467","VH-0081",2026-05-27,"Preventive","Scheduled Service (PM)",356004,710.11,1,2026-05-01
+"WO-01468","VH-0083",2026-05-27,"Preventive","Scheduled Service (PM)",352811,581.45,0.5,2026-05-01
+"WO-01469","VH-0099",2026-05-27,"Preventive","Scheduled Service (PM)",360423,858.13,1,2026-05-01
+"WO-01470","VH-0012",2026-05-28,"Preventive","Scheduled Service (PM)",406281,599.65,0.5,2026-05-01
+"WO-01471","VH-0093",2026-05-28,"Corrective","Cooling System",235094,673.95,1.7,2026-05-01
+"WO-01472","VH-0069",2026-05-29,"Preventive","Scheduled Service (PM)",354338,667.44,0.5,2026-05-01
+"WO-01473","VH-0042",2026-05-30,"Preventive","Scheduled Service (PM)",189233,269.17,0.5,2026-05-01
+"WO-01474","VH-0059",2026-05-30,"Preventive","Scheduled Service (PM)",372840,508.09,1,2026-05-01
+"WO-01475","VH-0079",2026-05-30,"Preventive","Scheduled Service (PM)",348854,571.02,0.5,2026-05-01
+"WO-01476","VH-0080",2026-05-30,"Preventive","Scheduled Service (PM)",129716,283.57,0.5,2026-05-01
+"WO-01477","VH-0088",2026-05-30,"Preventive","Scheduled Service (PM)",179976,706.56,0.5,2026-05-01
+"WO-01478","VH-0065",2026-05-31,"Preventive","Scheduled Service (PM)",175349,339.91,1,2026-05-01
+"WO-01479","VH-0076",2026-05-31,"Preventive","Scheduled Service (PM)",357877,757.57,1,2026-05-01
+"WO-01480","VH-0041",2026-06-01,"Preventive","Scheduled Service (PM)",361107,742.98,1,2026-06-01
+"WO-01481","VH-0020",2026-06-02,"Preventive","Scheduled Service (PM)",293702,441.42,1,2026-06-01
+"WO-01482","VH-0030",2026-06-02,"Preventive","Scheduled Service (PM)",266125,265.7,0.5,2026-06-01
+"WO-01483","VH-0044",2026-06-02,"Preventive","Scheduled Service (PM)",376576,819.18,0.5,2026-06-01
+"WO-01484","VH-0068",2026-06-02,"Corrective","Engine",361698,2331.25,4.8,2026-06-01
+"WO-01485","VH-0018",2026-06-03,"Preventive","Scheduled Service (PM)",127890,271.33,0.5,2026-06-01
+"WO-01486","VH-0037",2026-06-03,"Preventive","Scheduled Service (PM)",344299,609.06,0.5,2026-06-01
+"WO-01487","VH-0048",2026-06-03,"Preventive","Scheduled Service (PM)",140249,283.75,0.5,2026-06-01
+"WO-01488","VH-0026",2026-06-05,"Preventive","Scheduled Service (PM)",370537,599.43,0.5,2026-06-01
+"WO-01489","VH-0040",2026-06-05,"Preventive","Scheduled Service (PM)",232684,350.98,1,2026-06-01
+"WO-01490","VH-0063",2026-06-05,"Preventive","Scheduled Service (PM)",366067,775.04,0.5,2026-06-01
+"WO-01491","VH-0028",2026-06-06,"Preventive","Scheduled Service (PM)",366808,801.04,0.5,2026-06-01
+"WO-01492","VH-0004",2026-06-08,"Corrective","Aftertreatment / DPF",116350,2426.75,3.5,2026-06-01
+"WO-01493","VH-0014",2026-06-08,"Preventive","Scheduled Service (PM)",508936,896.55,1,2026-06-01
+"WO-01494","VH-0036",2026-06-08,"Corrective","Brakes",123308,992.41,2.1,2026-06-01
+"WO-01495","VH-0054",2026-06-08,"Corrective","Transmission",571862,5309.66,8.3,2026-06-01
+"WO-01496","VH-0077",2026-06-08,"Preventive","Scheduled Service (PM)",304786,418.65,0.5,2026-06-01
+"WO-01497","VH-0095",2026-06-08,"Preventive","Scheduled Service (PM)",225683,519.16,0.5,2026-06-01
+"WO-01498","VH-0094",2026-06-09,"Preventive","Scheduled Service (PM)",360632,600.34,0.5,2026-06-01
+"WO-01499","VH-0080",2026-06-10,"Corrective","Cooling System",133112,951.5,2.3,2026-06-01
+"WO-01500","VH-0086",2026-06-10,"Preventive","Scheduled Service (PM)",380161,470.82,1,2026-06-01
+"WO-01501","VH-0068",2026-06-11,"Preventive","Scheduled Service (PM)",366762,462.23,0.5,2026-06-01
+"WO-01502","VH-0032",2026-06-12,"Corrective","Brakes",230862,673.67,1.5,2026-06-01
+"WO-01503","VH-0062",2026-06-12,"Corrective","Cooling System",204782,497.51,1.4,2026-06-01
+"WO-01504","VH-0078",2026-06-12,"Preventive","Scheduled Service (PM)",80647,251.34,0.5,2026-06-01
+"WO-01505","VH-0096",2026-06-12,"Corrective","Transmission",131894,5856.37,8.9,2026-06-01
+"WO-01506","VH-0005",2026-06-13,"Preventive","Scheduled Service (PM)",549710,661.77,1,2026-06-01
+"WO-01507","VH-0062",2026-06-14,"Preventive","Scheduled Service (PM)",205499,345.5,0.5,2026-06-01
+"WO-01508","VH-0082",2026-06-14,"Preventive","Scheduled Service (PM)",375017,516.19,0.5,2026-06-01
+"WO-01509","VH-0015",2026-06-15,"Preventive","Scheduled Service (PM)",231363,459.15,1,2026-06-01
+"WO-01510","VH-0069",2026-06-15,"Corrective","Aftertreatment / DPF",362068,1679.89,2.5,2026-06-01
+"WO-01511","VH-0091",2026-06-15,"Preventive","Scheduled Service (PM)",132114,195.53,1,2026-06-01
+"WO-01512","VH-0089",2026-06-16,"Preventive","Scheduled Service (PM)",226425,917.74,0.5,2026-06-01
+"WO-01513","VH-0011",2026-06-17,"Preventive","Scheduled Service (PM)",370296,577.32,0.5,2026-06-01
+"WO-01514","VH-0013",2026-06-17,"Corrective","Cooling System",495896,1186.69,2.8,2026-06-01
+"WO-01515","VH-0046",2026-06-17,"Preventive","Scheduled Service (PM)",556666,671.68,0.5,2026-06-01
+"WO-01516","VH-0074",2026-06-17,"Preventive","Scheduled Service (PM)",128577,235.82,0.5,2026-06-01
+"WO-01517","VH-0100",2026-06-17,"Preventive","Scheduled Service (PM)",360230,795.15,0.5,2026-06-01
+"WO-01518","VH-0051",2026-06-18,"Corrective","Suspension",123378,1592.31,3.6,2026-06-01
+"WO-01519","VH-0085",2026-06-19,"Preventive","Scheduled Service (PM)",358073,587.39,1,2026-06-01
+"WO-01520","VH-0021",2026-06-22,"Corrective","Electrical",389328,292.21,1.2,2026-06-01
+"WO-01521","VH-0066",2026-06-22,"Preventive","Scheduled Service (PM)",371124,610.38,1,2026-06-01
+"WO-01522","VH-0092",2026-06-22,"Preventive","Scheduled Service (PM)",240308,198.71,1,2026-06-01
+"WO-01523","VH-0072",2026-06-24,"Preventive","Scheduled Service (PM)",365962,835.86,0.5,2026-06-01
+"WO-01524","VH-0025",2026-06-25,"Preventive","Scheduled Service (PM)",121186,330.68,1,2026-06-01
+"WO-01525","VH-0038",2026-06-25,"Preventive","Scheduled Service (PM)",378516,890.99,0.5,2026-06-01
+"WO-01526","VH-0070",2026-06-25,"Preventive","Scheduled Service (PM)",242071,465.64,0.5,2026-06-01
+"WO-01527","VH-0013",2026-06-26,"Preventive","Scheduled Service (PM)",496147,478.09,0.5,2026-06-01
+"WO-01528","VH-0035",2026-06-26,"Preventive","Scheduled Service (PM)",360788,526.44,1,2026-06-01
+"WO-01529","VH-0003",2026-06-27,"Preventive","Scheduled Service (PM)",306805,487.97,0.5,2026-06-01
+"WO-01530","VH-0006",2026-06-27,"Preventive","Scheduled Service (PM)",124839,195.59,0.5,2026-06-01
+"WO-01531","VH-0016",2026-06-27,"Preventive","Scheduled Service (PM)",374653,647.53,0.5,2026-06-01
+"WO-01532","VH-0031",2026-06-27,"Preventive","Scheduled Service (PM)",404315,841.6,0.5,2026-06-01
+"WO-01533","VH-0004",2026-06-28,"Preventive","Scheduled Service (PM)",118651,303.21,0.5,2026-06-01
+"WO-01534","VH-0010",2026-06-28,"Preventive","Scheduled Service (PM)",228615,330.6,1,2026-06-01
+"WO-01535","VH-0012",2026-06-28,"Corrective","Suspension",416364,959.79,2.7,2026-06-01
+"WO-01536","VH-0031",2026-06-28,"Corrective","Brakes",404618,520.07,1.2,2026-06-01
+"WO-01537","VH-0054",2026-06-28,"Preventive","Scheduled Service (PM)",583438,759.38,1,2026-06-01
+"WO-01538","VH-0097",2026-06-28,"Preventive","Scheduled Service (PM)",128432,261.04,0.5,2026-06-01
+"WO-01539","VH-0050",2026-06-29,"Preventive","Scheduled Service (PM)",377697,439.05,1,2026-06-01
+"WO-01540","VH-0002",2026-06-30,"Preventive","Scheduled Service (PM)",223574,420.21,0.5,2026-06-01
+"WO-01541","VH-0027",2026-06-30,"Preventive","Scheduled Service (PM)",237601,509.51,0.5,2026-06-01
+"WO-01542","VH-0045",2026-06-30,"Preventive","Scheduled Service (PM)",395091,724.21,1,2026-06-01
+"WO-01543","VH-0064",2026-06-30,"Corrective","Engine",135262,2784.61,5.4,2026-06-01
+"WO-01544","VH-0021",2026-07-01,"Preventive","Scheduled Service (PM)",392714,922.14,1,2026-07-01
+"WO-01545","VH-0008",2026-07-02,"Preventive","Scheduled Service (PM)",240651,608.84,1,2026-07-01
+"WO-01546","VH-0031",2026-07-02,"Corrective","Tires",406180,604.61,1.2,2026-07-01
+"WO-01547","VH-0083",2026-07-02,"Preventive","Scheduled Service (PM)",373565,646.06,0.5,2026-07-01
+"WO-01548","VH-0049",2026-07-03,"Preventive","Scheduled Service (PM)",475994,844.63,0.5,2026-07-01
+"WO-01549","VH-0057",2026-07-04,"Preventive","Scheduled Service (PM)",386813,501.21,0.5,2026-07-01
+"WO-01550","VH-0056",2026-07-05,"Preventive","Scheduled Service (PM)",252418,526.25,0.5,2026-07-01
+"WO-01551","VH-0061",2026-07-05,"Preventive","Scheduled Service (PM)",224289,254.12,1,2026-07-01
+"WO-01552","VH-0032",2026-07-06,"Corrective","Engine",240310,1996.71,4.4,2026-07-01
+"WO-01553","VH-0099",2026-07-06,"Preventive","Scheduled Service (PM)",381624,700.98,0.5,2026-07-01
+"WO-01554","VH-0047",2026-07-07,"Preventive","Scheduled Service (PM)",258754,363.22,0.5,2026-07-01
+"WO-01555","VH-0079",2026-07-07,"Preventive","Scheduled Service (PM)",368234,914.06,1,2026-07-01
+"WO-01556","VH-0079",2026-07-07,"Corrective","Tires",374070,724.27,1.4,2026-07-01
+"WO-01557","VH-0081",2026-07-07,"Preventive","Scheduled Service (PM)",374741,908.56,0.5,2026-07-01
