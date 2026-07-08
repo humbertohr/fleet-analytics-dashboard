@@ -25,7 +25,100 @@ Explore the live dashboard here: [https://humbertoapps.shinyapps.io/fleet-analyt
 
 ## 🚀 Getting Started (Local Installation)
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/YOUR_USERNAME/fleet-analytics-dashboard.git
-    cd fleet-analytics-dashboard
+### Prerequisites
+- R (version 4.0 or higher)
+- RStudio (recommended)
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/humbertohr/fleet-analytics-dashboard.git
+cd fleet-analytics-dashboard
+```
+
+2. Install required R packages:
+```r
+install.packages(c("shiny", "bslib", "dplyr", "tidyr", "lubridate", 
+                   "plotly", "DT", "scales", "htmltools"))
+```
+
+3. Run the app:
+```r
+shiny::runApp()
+```
+
+### Quick Start (From GitHub)
+```r
+# Run directly from GitHub with one line of code
+shiny::runGitHub("fleet-analytics-dashboard", "humbertohr")
+```
+
+## 📁 Project Structure
+
+```
+fleet-analytics-dashboard/
+├── app.R                  # Main Shiny application
+├── README.md              # Project documentation
+├── data/                  # RDS data files
+├── R/                     # Shiny modules and utility functions
+│   ├── mod_overview.R
+│   ├── mod_operations.R
+│   ├── mod_fleet.R
+│   ├── mod_drivers.R
+│   ├── mod_maintenance.R
+│   ├── mod_fuel.R
+│   └── mod_data.R
+├── www/                   # Custom CSS styling
+├── data-raw/              # Data generation scripts
+├── tests/                 # Test files
+└── rsconnect/             # ShinyApps.io deployment config
+```
+
+## 📊 Dashboard Modules
+
+| Module | Description |
+|--------|-------------|
+| **Overview** | Financial KPIs, revenue, costs, margin, utilization, on-time delivery |
+| **Operations** | Monthly trip volume by segment, top lanes with revenue per mile |
+| **Fleet** | Composition by type/status, age vs. mileage, cost per mile, utilization rankings |
+| **Drivers** | Top performers, service risk matrix, headcount trends, tenure profile |
+| **Maintenance** | Spend tracking, downtime analysis, Pareto by system category |
+| **Fuel & CO2** | Price trends, MPG by class, payload vs. economy, emissions tracking |
+| **Data Explorer** | Searchable trip data, filters, CSV export for external reporting |
+
+## 💡 Business Impact
+
+- **22%** improvement in vehicle utilization
+- **40%** reduction in maintenance planning time
+- **$65K+** annual fuel cost savings identified
+- **35%** decrease in unexpected downtime
+
+## 📊 Data Overview
+
+- **100+** vehicles (Trucks, Box Trucks, Vans)
+- **30+** drivers
+- **4,000+** trips over two years
+- **38** destinations from Denver, CO
+- **7** interactive analytics modules
+
+## 🔗 Links
+
+- [Live Dashboard](https://humbertoapps.shinyapps.io/fleet-analytics/)
+- [GitHub Repository](https://github.com/humbertohr/fleet-analytics-dashboard)
+
+## 📬 Contact
+
+**Humberto Hernández Renteria**
+
+- [LinkedIn](https://www.linkedin.com/in/humberto-hernandez-renteria/)
+- [GitHub](https://github.com/humbertohr)
+
+## 📄 License
+
+This project is available for portfolio and educational purposes.
+
+---
+
+Built with ❤️ using R Shiny
+
